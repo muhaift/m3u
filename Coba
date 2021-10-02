@@ -1,0 +1,376 @@
+########TV-LOKAL#######
+
+#EXTINF:-1 group-title="TV-LOKAL", TvOne
+https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
+
+#EXTINF:-1 group-title="TV-LOKAL", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-LOKAL", TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-LOKAL", INDOSIAR 
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
+
+#EXTINF:-1 group-title="TV-LOKAL", RCTI
+https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+
+#EXTINF:-1 group-title="TV-LOKAL", MNCTV 
+https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
+
+#EXTINF:-1 group-title="TV-LOKAL", SCTV
+http://210.210.155.35/session/fe3abc1c-d4bd-11eb-8760-c81f66f89318/qwr9ew/s/s03/index.m3u8
+
+#EXTINF:-1 group-title="TV-LOKAL", GTV
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+
+#EXTINF:-1 group-title="TV-LOKAL", ANTV
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
+
+#EXTINF:-1 group-title="TV-LOKAL", NetTV
+https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
+
+#EXTINF:-1 group-title="TV-LOKAL", TVRI Sport
+http://foctv.xyz:25510/Amir5641/YY5641/208
+
+####Japan####
+
+#EXTINF:-1 group-title="Japan",  Animax
+http://foctv.xyz:25510/Amir5641/YY5641/102
+
+#EXTINF:-1 group-title="Japan",  Aniplus
+http://foctv.xyz:25510/Amir5641/YY5641/103
+
+#EXTINF:-1 group-title="Japan",  Waku Waku Japan
+http://foctv.xyz:25510/Amir5641/YY5641/104
+
+#EXTINF:-1 group-title="Japan",  Sony Gem TV
+http://foctv.xyz:25510/Amir5641/YY5641/105
+
+####Knowledge####
+
+#EXTINF:-1 group-title="Knowledge",  Love Nature
+http://foctv.xyz:25510/Amir5641/YY5641/89
+
+#EXTINF:-1 group-title="Knowledge",  BBC Earth
+http://foctv.xyz:25510/Amir5641/YY5641/90
+
+#EXTINF:-1 group-title="Knowledge",  DMax
+http://foctv.xyz:25510/Amir5641/YY5641/91
+
+#EXTINF:-1 group-title="Knowledge",  History
+http://foctv.xyz:25510/Amir5641/YY5641/92
+
+#EXTINF:-1 group-title="Knowledge",  National Geographic
+http://foctv.xyz:25510/Amir5641/YY5641/93
+
+#EXTINF:-1 group-title="Knowledge",  Nat Geo People
+http://foctv.xyz:25510/Amir5641/YY5641/94
+
+#EXTINF:-1 group-title="Knowledge",  Nat Geo Wild
+http://foctv.xyz:25510/Amir5641/YY5641/95
+
+#EXTINF:-1 group-title="Knowledge",  Animal Planet
+http://foctv.xyz:25510/Amir5641/YY5641/96
+
+#EXTINF:-1 group-title="Knowledge",  Discovery Channel
+http://foctv.xyz:25510/Amir5641/YY5641/97
+
+#EXTINF:-1 group-title="Knowledge",  Discovery Asia
+http://foctv.xyz:25510/Amir5641/YY5641/98
+
+#EXTINF:-1 group-title="Knowledge",  Discovery Science
+http://foctv.xyz:25510/Amir5641/YY5641/99
+
+#EXTINF:-1 group-title="Knowledge",  AFC
+http://foctv.xyz:25510/Amir5641/YY5641/100
+
+#EXTINF:-1 group-title="Knowledge",  TLC
+http://foctv.xyz:25510/Amir5641/YY5641/101
+
+####Kids####
+
+#EXTINF:-1 group-title="Kids",  Disney Channel (E)
+http://foctv.xyz:25510/Amir5641/YY5641/120
+
+#EXTINF:-1 group-title="Kids",  Disney Channel (M)
+http://foctv.xyz:25510/Amir5641/YY5641/121
+
+#EXTINF:-1 group-title="Kids",  Disney Junior (E)
+http://foctv.xyz:25510/Amir5641/YY5641/122
+
+#EXTINF:-1 group-title="Kids",  Cartoon Network (E)
+http://foctv.xyz:25510/Amir5641/YY5641/123
+
+#EXTINF:-1 group-title="Kids",  Cartoon Network (ID)
+http://foctv.xyz:25510/Amir5641/YY5641/124
+
+#EXTINF:-1 group-title="Kids",  Dreamworks
+http://foctv.xyz:25510/Amir5641/YY5641/125
+
+#EXTINF:-1 group-title="Kids",  Boomerang
+http://foctv.xyz:25510/Amir5641/YY5641/126
+
+#EXTINF:-1 group-title="Kids",  Nickelodeon
+http://foctv.xyz:25510/Amir5641/YY5641/127
+
+#EXTINF:-1 group-title="Kids",  Nick Jr
+http://foctv.xyz:25510/Amir5641/YY5641/128
+
+#EXTINF:-1 group-title="Kids",  Horee
+http://foctv.xyz:25510/Amir5641/YY5641/129
+
+#EXTINF:-1 group-title="Kids",  Zoo Moo
+http://foctv.xyz:25510/Amir5641/YY5641/130
+
+#EXTINF:-1 group-title="Kids",  My Kidz
+http://foctv.xyz:25510/Amir5641/YY5641/131
+
+#EXTINF:-1 group-title="Kids",  BabyFirst
+http://foctv.xyz:25510/Amir5641/YY5641/132
+
+#EXTINF:-1 group-title="Kids",  Baby TV
+http://foctv.xyz:25510/Amir5641/YY5641/182
+
+
+
+
+
+####Sports 1####
+
+#EXTINF:-1 group-title="Sports",  BeinSports 1 ID
+http://foctv.xyz:25510/Amir5641/YY5641/155
+
+#EXTINF:-1 group-title="Sports",  BeinSports 2 ID
+http://foctv.xyz:25510/Amir5641/YY5641/156
+
+#EXTINF:-1 group-title="Sports",  UseeSports 1
+http://foctv.xyz:25510/Amir5641/YY5641/241
+
+#EXTINF:-1 group-title="Sports",  UseeSports 2
+http://foctv.xyz:25510/Amir5641/YY5641/242
+
+#EXTINF:-1 group-title="Sports",  TV Champions 1
+http://foctv.xyz:25510/Amir5641/YY5641/157
+
+#EXTINF:-1 group-title="Sports",  TV Champions 2
+http://foctv.xyz:25510/Amir5641/YY5641/158
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Sports",  MNC Sports
+https://akamai.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
+
+
+#####AstroSuperSports#####
+
+#EXTINF:-1 group-title="Astro Super Sports",  Astro Super Sports 1
+http://foctv.xyz:25510/Amir5641/YY5641/148
+
+#EXTINF:-1 group-title="Astro Super Sports",  Astro Super Sports 2
+http://foctv.xyz:25510/Amir5641/YY5641/149
+
+#EXTINF:-1 group-title="Astro Super Sports",  Astro Super Sports 3
+http://foctv.xyz:25510/Amir5641/YY5641/232
+
+#EXTINF:-1 group-title="Astro Super Sports",  Astro Super Sports 4
+http://foctv.xyz:25510/Amir5641/YY5641/249
+
+####Thai Sports####
+
+#EXTINF:-1 group-title="Thai Sports", True Vision 1
+https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8?zz
+
+#EXTINF:-1 group-title="Thai Sports", True Vision 2
+https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8?zz
+
+#EXTINF:-1 group-title="Thai Sports",True sport 1HD
+https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8?zz
+
+#EXTINF:-1 group-title="Thai Sports",Truesport 2HD
+https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8?zz
+
+#EXTINF:-1 group-title="Thai Sports",True sport 3HD
+https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8?zz
+
+
+
+
+
+
+
+
+
+
+
+#####BeinSports#####
+#EXTINF:-1 group-title="BeinSports",  BeinSports 1
+#http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+#http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8?zz
+http://xcwsnl28.mrnova.online/live/60073_.m3u8?token=Creative by Zz
+
+#EXTINF:-1 group-title="BeinSports",  BeinSports 2
+#http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
+#http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8?ZZ
+http://xcwsnl28.mrnova.online/live/60074_.m3u8?token=Creative by Zz
+
+#EXTINF:-1 group-title="BeinSports",  BeinSports 3
+#http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+http://xcwsnl28.mrnova.online/live/60075_.m3u8?token=Creative by Zz
+
+#EXTINF:-1 group-title="BeinSports",  BeinSports 4
+#http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+http://xcwsnl28.mrnova.online/live/60076_.m3u8?token=Creative by Zz
+
+#EXTINF:-1 group-title="BeinSports",  BeinSports 5
+#http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+http://xcwsnl28.mrnova.online/live/60077_.m3u8?token=Creative by Zz
+
+#EXTINF:-1 group-title="BeinSports",  BeinSports 6
+#http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+http://xcwsnl28.mrnova.online/live/60078_.m3u8?token=Creative by Zz
+
+#EXTINF:-1 group-title="BeinSports",  BeinSports 7
+#http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
+http://xcwsnl28.mrnova.online/live/60079_.m3u8?token=Creative by Zz
+
+####BeinSport SD####
+
+#EXTINF:-1 group-title="BeinSports SD",  BeinSports 1 Premium SD
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/18
+
+#EXTINF:-1 group-title="BeinSports SD",  BeinSports 2 Premium SD
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/19
+
+#EXTINF:-1 group-title="BeinSports SD",  BeinSports 2 Premium SD
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/20
+
+#EXTINF:-1 group-title="BeinSports SD",  BeinSports 1 SD
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/21
+
+#EXTINF:-1 group-title="BeinSports SD",  BeinSports 2 SD
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/22
+
+#EXTINF:-1 group-title="BeinSports SD",  BeinSports 3 SD
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/23
+
+#EXTINF:-1 group-title="BeinSports SD",  BeinSports 4 SD
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/24
+
+#EXTINF:-1 group-title="BeinSports SD",  BeinSports 5 SD
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/25
+
+####BeinSports HD####
+
+#EXTINF:-1 group-title="BeinSports HD",  BeinSports 1 Premium HD
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/1
+
+#EXTINF:-1 group-title="BeinSports HD",  BeinSports 2 Premium HD
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/2
+
+#EXTINF:-1 group-title="BeinSports HD",  BeinSports 3 Premium HD
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/3
+
+#EXTINF:-1 group-title="BeinSports HD",  BeinSports 1 HD
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/4
+
+#EXTINF:-1 group-title="BeinSports HD",  BeinSports 2 HD
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/5
+
+#EXTINF:-1 group-title="BeinSports HD",  BeinSports 3 HD
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/6
+
+#EXTINF:-1 group-title="BeinSports HD",  BeinSports 4 HD
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/7
+
+#EXTINF:-1 group-title="BeinSports HD",  BeinSports 5 HD
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/8
+
+#EXTINF:-1 group-title="BeinSports HD",  BeinSports 6 HD
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/9
+
+#EXTINF:-1 group-title="BeinSports HD",  BeinSports 7 HD
+http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/10
+
+####All-Sports####
+
+#EXTINF:-1 group-title="All Sports", RMC Sport 1 SD
+http://31.220.41.88:8081/live/fr-sfr1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="All Sports", RMC Sport 2 SD
+http://31.220.41.88:8081/live/fr-sfr2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="All Sports", RMC Sport 3 SD
+http://31.220.41.88:8081/live/fr-sfr3.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="All Sports", Star Sports Select 1
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?zz
+
+#EXTINF:-1 group-title="All Sports", Star Sports Select 2
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?zz
+
+#EXTINF:-1 group-title="All Sports",Sony Ten 1
+http://212.102.60.40:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?zz
+
+#EXTINF:-1 group-title="All Sports",Sony Ten 2
+http://212.102.60.40:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?zz
+
+#EXTINF:-1 group-title="All Sports",Sony Ten 3
+http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?zz
+
+#EXTINF:-1 group-title="All Sports", Fox Sports 1
+http://foctv.xyz:25510/Zulhairie/BB2064/152
+
+#EXTINF:-1 group-title="All Sports", Fox Sports 2
+http://foctv.xyz:25510/Zulhairie/BB2064/153
+
+#EXTINF:-1 group-title="All Sports", Fox Sports 3
+http://foctv.xyz:25510/Zulhairie/BB2064/154
+
+#EXTINF:-1 group-title="All Sports", SKYSport 1
+http://77.247.109.101/hls/A1.m3u8?zz
+
+#EXTINF:-1 group-title="All Sports", SKY Sport 2
+http://89.187.185.100/SKY_SPORTS_FOOTBALL/index.m3u8?zz
+
+#EXTINF:-1 group-title="All Sports", BTsport 1HD
+https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8?zz
+
+#EXTINF:-1 group-title="All Sports", BTSport 2HD
+https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8?zz
+
+
+####ArenaSports####
+
+#EXTINF:-1 group-title="Arena Sports", Arena Sports 1
+http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7329/index.m3u8?zz
+
+#EXTINF:-1 group-title="Arena Sports", Arena Sports 2
+http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7330/index.m3u8?zz
+
+#EXTINF:-1 group-title="Arena Sports", Arena Sports 3
+http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7331/index.m3u8?zz
+
+#EXTINF:-1 group-title="Arena Sports", Arena Sports 4
+http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7332/index.m3u8?zz
+
+#EXTINF:-1 group-title="Arena Sports", Arena Sports 5
+http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7333/index.m3u8?zz
+
+#EXTINF:-1 group-title="Arena Sports", Arena Sports 6
+http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7334/index.m3u8?zz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
