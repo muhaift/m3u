@@ -136,19 +136,24 @@ http://foctv.xyz:25510/Amir5641/YY5641/182
 
 
 
-####Sports 1####
+####Sports####
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Sports",  BeinSports 1 ID
-http://foctv.xyz:25510/Amir5641/YY5641/155
+https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Sports",  BeinSports 2 ID
-http://foctv.xyz:25510/Amir5641/YY5641/156
+https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:-1 group-title="Sports",  UseeSports 1
-http://foctv.xyz:25510/Amir5641/YY5641/241
+http://foctv.xyz:25510/Zulhairie/BB2064/241
 
 #EXTINF:-1 group-title="Sports",  UseeSports 2
-http://foctv.xyz:25510/Amir5641/YY5641/242
+http://foctv.xyz:25510/Zulhairie/BB2064/242
 
 #EXTINF:-1 group-title="Sports",  TV Champions 1
 http://foctv.xyz:25510/Amir5641/YY5641/157
@@ -160,6 +165,11 @@ http://foctv.xyz:25510/Amir5641/YY5641/158
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Sports",  MNC Sports
 https://akamai.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Sports",  Soccer Channel
+https://akamai.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 
 #####AstroSuperSports#####
@@ -178,10 +188,10 @@ http://foctv.xyz:25510/Amir5641/YY5641/249
 
 ####Thai Sports####
 
-#EXTINF:-1 group-title="Thai Sports", True Vision 1
+#EXTINF:-1 group-title="Thai Sports", SPOTV 1
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8?zz
 
-#EXTINF:-1 group-title="Thai Sports", True Vision 2
+#EXTINF:-1 group-title="Thai Sports", SPOTV 2
 https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8?zz
 
 #EXTINF:-1 group-title="Thai Sports",True sport 1HD
@@ -194,45 +204,6 @@ https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8?zz
 https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8?zz
 
 
-
-
-
-
-
-
-
-
-
-#####BeinSports#####
-#EXTINF:-1 group-title="BeinSports",  BeinSports 1
-#http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
-#http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8?zz
-http://xcwsnl28.mrnova.online/live/60073_.m3u8?token=Creative by Zz
-
-#EXTINF:-1 group-title="BeinSports",  BeinSports 2
-#http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
-#http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8?ZZ
-http://xcwsnl28.mrnova.online/live/60074_.m3u8?token=Creative by Zz
-
-#EXTINF:-1 group-title="BeinSports",  BeinSports 3
-#http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
-http://xcwsnl28.mrnova.online/live/60075_.m3u8?token=Creative by Zz
-
-#EXTINF:-1 group-title="BeinSports",  BeinSports 4
-#http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
-http://xcwsnl28.mrnova.online/live/60076_.m3u8?token=Creative by Zz
-
-#EXTINF:-1 group-title="BeinSports",  BeinSports 5
-#http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
-http://xcwsnl28.mrnova.online/live/60077_.m3u8?token=Creative by Zz
-
-#EXTINF:-1 group-title="BeinSports",  BeinSports 6
-#http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
-http://xcwsnl28.mrnova.online/live/60078_.m3u8?token=Creative by Zz
-
-#EXTINF:-1 group-title="BeinSports",  BeinSports 7
-#http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
-http://xcwsnl28.mrnova.online/live/60079_.m3u8?token=Creative by Zz
 
 ####BeinSport SD####
 
@@ -263,34 +234,45 @@ http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/25
 ####BeinSports HD####
 
 #EXTINF:-1 group-title="BeinSports HD",  BeinSports 1 Premium HD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/1
+#http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
+http://xcwsnl28.mrnova.online/live/60070_.m3u8?token=creative byZz
 
 #EXTINF:-1 group-title="BeinSports HD",  BeinSports 2 Premium HD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/2
+#http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
+http://xcwsnl28.mrnova.online/live/60071_.m3u8?token=Creative by Zz
 
 #EXTINF:-1 group-title="BeinSports HD",  BeinSports 3 Premium HD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/3
+http://xcwsnl28.mrnova.online/live/60072_.m3u8?token=Creative by Zz
 
 #EXTINF:-1 group-title="BeinSports HD",  BeinSports 1 HD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/4
+#http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+#http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+http://xcwsnl28.mrnova.online/live/60073_.m3u8?token=Creative by Zz
 
 #EXTINF:-1 group-title="BeinSports HD",  BeinSports 2 HD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/5
+#http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
+#http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+http://xcwsnl28.mrnova.online/live/60074_.m3u8?token=Creative by Zz
 
 #EXTINF:-1 group-title="BeinSports HD",  BeinSports 3 HD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/6
+#http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+http://xcwsnl28.mrnova.online/live/60075_.m3u8?token=Creative by Zz
 
 #EXTINF:-1 group-title="BeinSports HD",  BeinSports 4 HD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/7
+#http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+http://xcwsnl28.mrnova.online/live/60076_.m3u8?token=Creative by Zz
 
 #EXTINF:-1 group-title="BeinSports HD",  BeinSports 5 HD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/8
+#http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+http://xcwsnl28.mrnova.online/live/60077_.m3u8?token=Creative by Zz
 
 #EXTINF:-1 group-title="BeinSports HD",  BeinSports 6 HD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/9
+#http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+http://xcwsnl28.mrnova.online/live/60078_.m3u8?token=Creative by Zz
 
 #EXTINF:-1 group-title="BeinSports HD",  BeinSports 7 HD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/10
+#http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
+http://xcwsnl28.mrnova.online/live/60079_.m3u8?token=Creative by Zz
 
 ####All-Sports####
 
@@ -340,25 +322,6 @@ https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8?zz
 https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8?zz
 
 
-####ArenaSports####
-
-#EXTINF:-1 group-title="Arena Sports", Arena Sports 1
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7329/index.m3u8?zz
-
-#EXTINF:-1 group-title="Arena Sports", Arena Sports 2
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7330/index.m3u8?zz
-
-#EXTINF:-1 group-title="Arena Sports", Arena Sports 3
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7331/index.m3u8?zz
-
-#EXTINF:-1 group-title="Arena Sports", Arena Sports 4
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7332/index.m3u8?zz
-
-#EXTINF:-1 group-title="Arena Sports", Arena Sports 5
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7333/index.m3u8?zz
-
-#EXTINF:-1 group-title="Arena Sports", Arena Sports 6
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7334/index.m3u8?zz
 
 
 
