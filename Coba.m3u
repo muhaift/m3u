@@ -1,37 +1,66 @@
 ########TV-LOKAL#######
 
 #EXTINF:-1 group-title="TV-LOKAL", TvOne
-https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
+http://foctv.xyz:25510/Amir5641/YY5641/106
 
 #EXTINF:-1 group-title="TV-LOKAL", TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+http://foctv.xyz:25510/Amir5641/YY5641/34
 
 #EXTINF:-1 group-title="TV-LOKAL", TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+http://foctv.xyz:25510/Amir5641/YY5641/35
 
 #EXTINF:-1 group-title="TV-LOKAL", INDOSIAR 
-https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
+http://foctv.xyz:25510/Amir5641/YY5641/36
 
 #EXTINF:-1 group-title="TV-LOKAL", RCTI
-https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+http://foctv.xyz:25510/Amir5641/YY5641/38
 
 #EXTINF:-1 group-title="TV-LOKAL", MNCTV 
-https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
+http://foctv.xyz:25510/Amir5641/YY5641/40
 
 #EXTINF:-1 group-title="TV-LOKAL", SCTV
-http://210.210.155.35/session/fe3abc1c-d4bd-11eb-8760-c81f66f89318/qwr9ew/s/s03/index.m3u8
+http://foctv.xyz:25510/Amir5641/YY5641/37
 
 #EXTINF:-1 group-title="TV-LOKAL", GTV
-https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+http://foctv.xyz:25510/Amir5641/YY5641/39
 
 #EXTINF:-1 group-title="TV-LOKAL", ANTV
-https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
+http://foctv.xyz:25510/Amir5641/YY5641/42
 
 #EXTINF:-1 group-title="TV-LOKAL", NetTV
-https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
+http://foctv.xyz:25510/Amir5641/YY5641/41
 
 #EXTINF:-1 group-title="TV-LOKAL", TVRI Sport
 http://foctv.xyz:25510/Amir5641/YY5641/208
+
+#EXTINF:-1 group-title="TV-LOKAL", iNews
+http://foctv.xyz:25510/Amir5641/YY5641/209
+
+#EXTINF:-1 group-title="TV-LOKAL", KOMPAS TV
+http://foctv.xyz:25510/Amir5641/YY5641/107
+
+#EXTINF:-1 group-title="TV-LOKAL", METRO TV
+http://foctv.xyz:25510/Amir5641/YY5641/108
+
+#EXTINF:-1 group-title="TV-LOKAL", CNN Indonesia
+http://foctv.xyz:25510/Amir5641/YY5641/113
+
+
+#####News Channel#####
+
+#EXTINF:-1 tvg-id="" tvg-name="SEA Today" tvg-logo="https://i.ibb.co/1Mm8bDd/sea.png" group-title="NEWS",SEA Today
+http://foctv.xyz:25510/Amir5641/YY5641/109
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="https://i.ibb.co/chQwMP9/bbc.png" group-title="NEWS",BBC World News
+http://foctv.xyz:25510/Amir5641/YY5641/110
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://i.ibb.co/310w5wt/NHK.png" group-title="NEWS",NHK World
+http://foctv.xyz:25510/Amir5641/YY5641/111
+#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="https://i.ibb.co/PTwNmc8/CNN.png" group-title="NEWS",CNN International
+http://foctv.xyz:25510/Amir5641/YY5641/112
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://i.ibb.co/8jd16F7/DW.png" group-title="NEWS",DW
+http://foctv.xyz:25510/Amir5641/YY5641/114
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://i.ibb.co/86LXN1S/BLOOMBERG.png" group-title="NEWS",Bloomberg
+http://foctv.xyz:25510/Amir5641/YY5641/115
+
 
 ####Japan####
 
@@ -46,6 +75,173 @@ http://foctv.xyz:25510/Amir5641/YY5641/104
 
 #EXTINF:-1 group-title="Japan",  Sony Gem TV
 http://foctv.xyz:25510/Amir5641/YY5641/105
+
+#####Movies#####
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY" group-title="Movies",FOX Movies HD
+https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="Movies",FOX Action Movies HD
+https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/2ZouB2Ve" group-title="Movies",FOX Family Movies HD
+https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nkxYzHa.jpg" group-title="Movies",FOX HD
+https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428179_ico.png" group-title="Movies",FOX Crime HD
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qswbCSC.jpg" group-title="Hiburan",  FOX Life HD
+https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="Movies", HBO HD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="Movies", HBO Family HD
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="Movies", HBO HITS HD
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" group-title="Movies", HBO Signature HD
+https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="Movies", CINEMAX HD
+https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBGc1t2.jpg" group-title="Movies", Warner TV
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_east_asia.png" group-title="Movies", AXN
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvn-asia-kr.png" group-title="Movies", TVN
+https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="Movies", TVN Movies
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/celestial movies.png" group-title="Movies", Celestial Movies
+http://playlist.urfan.web.id/qwr9ew/s/s33/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/Celestial Classic Movies.png" group-title="Movies", CCM
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="Movies", KIX
+https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-title="Movies", THRILL
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" group-title="Movies", Cinema World
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="Movies", Cinema Europe
+http://playlist.urfan.web.id/uq2663/h/h18/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="Movies", STAR Chinese Movies HD
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/140-wbg-e.png" group-title="Movies", SCM Legend HD
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428161_ico.png" group-title="Movies", HITS
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488593_ico.png" group-title="Movies", HITS MOVIES
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeebioskop.png" group-title="Movies", Zee Bioskop
+http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zing.png" group-title="Movies", Zee Action 
+https://f8e7y4c6.ssl.hwcdn.net/action/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeetv.png" group-title="Movies", Zee Cafe
+https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeecinema.png" group-title="Movies", Zee Cinema
+https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/tracks-v3a1/index.m3u8
+
+####Hiburan####
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/bb/besmart-id.png" group-title="Hiburan",  BE SMART
+https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/vv/vision-prime-id.png" group-title="Hiburan", VISION PRIME
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/oo/ok-tv-id.png" group-title="Hiburan", OK TV
+https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ee/ent-id.png" group-title="Hiburan", ENT
+https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ii/ie-indonesia-id.png" group-title="Hiburan", iE
+https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9431838_ico.png" group-title="Hiburan", Lifetime
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 ####Knowledge####
 
@@ -136,41 +332,28 @@ http://foctv.xyz:25510/Amir5641/YY5641/182
 
 
 
-####Sports####
+####IndoSports####
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Sports",  BeinSports 1 ID
+#EXTINF:-1 group-title="Indo Sports",  BeinSports 1 ID
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Sports",  BeinSports 2 ID
+#EXTINF:-1 group-title="Indo Sports",  BeinSports 2 ID
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-
-#EXTINF:-1 group-title="Sports",  UseeSports 1
-http://foctv.xyz:25510/Zulhairie/BB2064/241
-
-#EXTINF:-1 group-title="Sports",  UseeSports 2
-http://foctv.xyz:25510/Zulhairie/BB2064/242
-
-#EXTINF:-1 group-title="Sports",  TV Champions 1
-http://foctv.xyz:25510/Amir5641/YY5641/157
-
-#EXTINF:-1 group-title="Sports",  TV Champions 2
-http://foctv.xyz:25510/Amir5641/YY5641/158
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Sports",  MNC Sports
+#EXTINF:-1 group-title="Indo Sports",  MNC Sports
 https://akamai.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Sports",  Soccer Channel
+#EXTINF:-1 group-title="Indo Sports",  Soccer Channel
 https://akamai.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
 
 #####AstroSuperSports#####
 
@@ -202,34 +385,6 @@ https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8?zz
 
 #EXTINF:-1 group-title="Thai Sports",True sport 3HD
 https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8?zz
-
-
-
-####BeinSport SD####
-
-#EXTINF:-1 group-title="BeinSports SD",  BeinSports 1 Premium SD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/18
-
-#EXTINF:-1 group-title="BeinSports SD",  BeinSports 2 Premium SD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/19
-
-#EXTINF:-1 group-title="BeinSports SD",  BeinSports 2 Premium SD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/20
-
-#EXTINF:-1 group-title="BeinSports SD",  BeinSports 1 SD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/21
-
-#EXTINF:-1 group-title="BeinSports SD",  BeinSports 2 SD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/22
-
-#EXTINF:-1 group-title="BeinSports SD",  BeinSports 3 SD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/23
-
-#EXTINF:-1 group-title="BeinSports SD",  BeinSports 4 SD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/24
-
-#EXTINF:-1 group-title="BeinSports SD",  BeinSports 5 SD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/25
 
 ####BeinSports HD####
 
@@ -320,20 +475,4 @@ https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8?zz
 
 #EXTINF:-1 group-title="All Sports", BTSport 2HD
 https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8?zz
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
