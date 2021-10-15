@@ -11,19 +11,19 @@ https://liveanevia.mncnow.id/live/eds/MNCsports-adaLiga1/sa_dash_vmx/MNCsports-a
 https://akamai.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1634091483~acl=/hls-b/ingest_6685_*/*~hmac=64af43e66a4323ec7f0c994f9d5aac78a45d7a561542731d1c79d26f6cc5fe07/hls-b/ingest_6685_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634301760~acl=/hls-p/ingest_6685_*/*~hmac=c310703cc86d8fd4ca41874bac3c70f2be3544d8ee87298d1f0f232371f92aff/hls-p/ingest_6685_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1634091515~acl=/hls-p/ingest_6686_*/*~hmac=040af4c4d25554b7dd47dda694b8be7507a0399710c1bdbd30d32d1ef24d9059/hls-p/ingest_6686_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634301797~acl=/hls-b/ingest_6686_*/*~hmac=a7d670b1a1064ca8cc9618b0636b1248e87112154f7ab746200be16eb90b7896/hls-b/ingest_6686_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1634091537~acl=/hls-p/ingest_6786_*/*~hmac=07bd02caa4b04a1a536d49e0c8360ace3284e325e575c1fbd2987d57ed4c6766/hls-p/ingest_6786_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634301827~acl=/hls-b/ingest_6786_*/*~hmac=eae8e802666f4c6cd792cc04b791bee7f56fe6bd74ed1b347716d1f1ee9fdd93/hls-b/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1634088358~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=33110643f6397798ee15b7f9f0626999aad48fc4509768339adee28fa5722319/vp9/205_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1634301704~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=96271c00121de61d1a0421ad12bb719712a53a382a2307912a10268a78714cc6/vp9/205_stream.mpd
 
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
-https://etslive-2-vidio-com.akamaized.net/exp=1634090378~acl=/hls-p/ingest_206_*/*~hmac=1fbd4a41ab63232b9751b8d4fa57b4765ee3d2093f720363aa8b2fffc0d661b1/hls-p/ingest_206_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634220394~acl=/hls-p/ingest_206_*/*~hmac=8ffae55d50141e3ab04e262341170f1eb7efaeb629f92408d144019507d352cb/hls-p/ingest_206_360p/index.m3u8
 
 ####TV Lokal####
 
@@ -111,6 +111,11 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="TV Islami", Al Quran Al Kareem TV
+https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="TV Islami", Muslim TV
 https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
@@ -129,10 +134,6 @@ https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.
 #EXTINF:-1 group-title="TV Islami", Tawaf TV
 https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="TV Islami", Al Quran Al Kareem TV
-https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
 ####MNC Visions####
 
@@ -411,20 +412,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/25602
 #EXTINF:-1 group-title="beIN Sports",  beIN Sports 3 English
 http://www.magicoiptv.org:8080/hasan/hasan123/25603
 
-####ESPN####
-
-#EXTINF:-1 group-title="ESPN",  ESPN
-http://www.magicoiptv.org:8080/hasan/hasan123/12238
-
-#EXTINF:-1 group-title="ESPN",  ESPN 2
-http://www.magicoiptv.org:8080/hasan/hasan123/12239
-
-#EXTINF:-1 group-title="ESPN",  ESPN 3
-http://www.magicoiptv.org:8080/hasan/hasan123/12240
-
-#EXTINF:-1 group-title="ESPN",  ESPN 4
-http://www.magicoiptv.org:8080/hasan/hasan123/12241
-
 ####Sony Ten###
 
 #EXTINF:-1 group-title="Sony TEN",Sony TEN 1
@@ -472,22 +459,22 @@ https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8?zz
 
 ####Eleven Sports####
 
-#EXTINF:-1 group-title="Eleven Sports", Eleven Sports
+#EXTINF:-1 group-title="Eleven Sports", Eleven 1 Sports
 http://www.magicoiptv.org:8080/hasan/hasan123/455
 
-#EXTINF:-1 group-title="Eleven Sports", Eleven Sports 2
+#EXTINF:-1 group-title="Eleven Sports", Eleven 2 Sports
 http://www.magicoiptv.org:8080/hasan/hasan123/458
 
-#EXTINF:-1 group-title="Eleven Sports", Eleven Sports 3
+#EXTINF:-1 group-title="Eleven Sports", Eleven 3 Sports
 http://www.magicoiptv.org:8080/hasan/hasan123/461
 
-#EXTINF:-1 group-title="Eleven Sports", Eleven Sports 4
+#EXTINF:-1 group-title="Eleven Sports", Eleven 4 Sports
 http://www.magicoiptv.org:8080/hasan/hasan123/464
 
-#EXTINF:-1 group-title="Eleven Sports", Eleven Sports 5
+#EXTINF:-1 group-title="Eleven Sports", Eleven 5 Sports
 http://www.magicoiptv.org:8080/hasan/hasan123/467
 
-#EXTINF:-1 group-title="Eleven Sports", Eleven Sports 6
+#EXTINF:-1 group-title="Eleven Sports", Eleven 6 Sports
 http://www.magicoiptv.org:8080/hasan/hasan123/470
 
 ####Arab Sports####
