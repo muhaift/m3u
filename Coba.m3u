@@ -2,6 +2,16 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="beIN Sports",  beIN Sports 1 ID
+https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="beIN Sports",  beIN Sports 2 ID
+https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Indo Sports",  MNC Sports
 https://liveanevia.mncnow.id/live/eds/MNCsports-adaLiga1/sa_dash_vmx/MNCsports-adaLiga1.mpd
 
@@ -11,19 +21,19 @@ https://liveanevia.mncnow.id/live/eds/MNCsports-adaLiga1/sa_dash_vmx/MNCsports-a
 https://akamai.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1634301760~acl=/hls-p/ingest_6685_*/*~hmac=c310703cc86d8fd4ca41874bac3c70f2be3544d8ee87298d1f0f232371f92aff/hls-p/ingest_6685_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634365305~acl=/hls-b/ingest_6685_*/*~hmac=02796c0574175c512cef47e264ff195a10b6a2ca243ae5df0e7ba2443a3724be/hls-b/ingest_6685_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1634301797~acl=/hls-b/ingest_6686_*/*~hmac=a7d670b1a1064ca8cc9618b0636b1248e87112154f7ab746200be16eb90b7896/hls-b/ingest_6686_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634365229~acl=/hls-b/ingest_6686_*/*~hmac=2ff7b12b8428fb39cc580bbc7de770a8c8cf217718d4523a6739bc175c140795/hls-b/ingest_6686_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1634301827~acl=/hls-b/ingest_6786_*/*~hmac=eae8e802666f4c6cd792cc04b791bee7f56fe6bd74ed1b347716d1f1ee9fdd93/hls-b/ingest_6786_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634365268~acl=/hls-b/ingest_6786_*/*~hmac=35df4104621e01e8afcee85de937e0110da321e81e70f37ff04b6c1e3801c104/hls-b/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1634301704~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=96271c00121de61d1a0421ad12bb719712a53a382a2307912a10268a78714cc6/vp9/205_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1634365086~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=c427efc7c922bc713d0badee972a7ee355d14d37bf0ae5fe4df9dd23d65c5cc7/vp9/205_stream.mpd
 
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
-https://etslive-2-vidio-com.akamaized.net/exp=1634220394~acl=/hls-p/ingest_206_*/*~hmac=8ffae55d50141e3ab04e262341170f1eb7efaeb629f92408d144019507d352cb/hls-p/ingest_206_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634365159~acl=/hls-p/ingest_206_*/*~hmac=53ea9ae0b6a4c8c655f35f1d947b3885d31f98eba14d560f949c9c1d58ee3f5b/hls-p/ingest_206_360p/index.m3u8
 
 ####TV Lokal####
 
@@ -384,25 +394,6 @@ http://foctv.xyz:25510/Amir5641/YY5641/101
 
 ####beIN Sports####
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="beIN Sports",  beIN Sports 1 ID
-https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="beIN Sports",  beIN Sports 2 ID
-https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-
-#EXTINF:-1 group-title="beIN Sports",  beIN Sports Premium 1
-http://xcwsnl28.mrnova.online:80/live/60060_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
-
-#EXTINF:-1 group-title="beIN Sports",  beIN Sports Premium 2
-http://xcwsnl28.mrnova.online:80/live/60061_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
-
-#EXTINF:-1 group-title="beIN Sports",  beIN Sports Premium 3
-http://dud.mawanroud.xyz/live/6151278887/index.m3u8
-
 #EXTINF:-1 group-title="beIN Sports",  beIN Sports 1 English
 http://www.magicoiptv.org:8080/hasan/hasan123/25601
 
@@ -411,6 +402,67 @@ http://www.magicoiptv.org:8080/hasan/hasan123/25602
 
 #EXTINF:-1 group-title="beIN Sports",  beIN Sports 3 English
 http://www.magicoiptv.org:8080/hasan/hasan123/25603
+
+#####Astro Sports#####
+
+#EXTINF:-1 group-title="Astro Sports", Astro Arena
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeElJeGFjc1hxemFNSTVnY1ZhdVBCSFd0SjBJNUtjMDZpcnBtVWI1UElLRjNma0NBNVowdUhEa1VyaHROZ0E4eWd0MC1YRHVlbEx0eHpldXFOUWdMUGM0dGRKcUdBNC0zR1UydEpUZlpUUERRSUdkcEVLdjZLRWVkcHJmbzNSb1hFQjhJUFNpTlZxZ1hBV2xmU0lJSEtMTXhNZThITkg3QzFVX0ZnOU1aV0ZaXy02cUlsM3BIRVZzVEhHSm00TkhIQ1d5bVRJQUFTQmxfZks2dmRaZXZZUHZsSi1yNWh5TDQtLTQxVVRteDNJdHYzbjZ1NmFVZm1La0EzelMzZDB3Y1pSTVpGRVk1VnNkbTVFcU5LNG9CR0NkTVBaam1hUUJ1QzhNMlZoVWE1OWYxaE5rVzVnQXZETXI5bER3NU5yU3V0c2hnbEI1R1Y2QjJ1ek1XYUcxaDFvJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUxNjYiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiOWY5OWZmYTJfZDI3YV80Y2ZiX2EwNWJfODNiOTFkYjg0NmRmIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHhJSXhhY3NYcXphTUk1Z2NWYXVQQkhXdEowSTVLYzA2aXJwbVViNVBJS0YzZmtDQTVaMHVIRGtVcmh0TmdBOHlndDAtWER1ZWxMdHh6ZXVxTlFnTFBjNHRkSnFHQTQtM0dVMnRKVGZaVFBEUUlHZHBFS3Y2S0VlZHByZm8zUm9YRUI4SVBTaU5WcWdYQVdsZlNJSUhLTE14TWU4SE5IN0MxVV9GZzlNWldGWl8tNnFJbDNwSEVWc1RIR0ptNE5ISENXeW1USUFBU0JsX2ZLNnZkWmV2WVB2bEotcjVoeUw0LS00MVVUbXgzSXR2M242dTZhVWZtS2tBM3pTM2Qwd2NaUk1aRkVZNVZzZG01RXFOSzRvQkdDZE1QWmptYVFCdUM4TTJWaFVhNTlmMWhOa1c1Z0F2RE1yOWxEdzVOclN1dHNoZ2xCNUdWNkIydXpNV2FHMWgxbyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=GGtrH6Hannv2M77EoJkxySed4L0%3d&sessionId=fcaf9de1-166f-e5dc-18a3-2a906b535390:8c9f2db9-2601-f9c0-5893-5477ea41e7e0&clientTag=html5:v7.39&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L2J3Zi1waWFsYS11YmVyLTIwMjAtLWNobi1sd24tY2FuLzEwOTQ0OTAvcGxheWVyP2xpbmVhcklkPTEwMDA4MDIyNiZpc0xpdmU9dHJ1ZQ==
+# https://linear01-playback.sooka.my/CH3/masterCH3.mpd
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/3209/assetId/1094490/assetType/media/assetFileId/13225166/contextType/PLAYBACK/isAltUrl/False/a.mpd?playSessionId=b2beb5e4-c156-d04e-0055-52e0465d1720:d37b460b-5c3c-c863-0f1d-ab796eab86df&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L2J3Zi1waWFsYS11YmVyLTIwMjAtLWNobi1sd24tY2FuLzEwOTQ0OTAvcGxheWVyP2xpbmVhcklkPTEwMDA4MDIyNiZpc0xpdmU9dHJ1ZQ==&clientTag=html5:v7.39
+
+#EXTINF:-1 group-title="Astro Sports", Astro Arena (Backup)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/21fbcb9a-24c3-49d1-aba4-46192c84f38e
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+
+#EXTINF:-1 group-title="Astro Sports", Astro Arena 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/9291a1ef-207c-4913-863e-4cabe214446b
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+
+#EXTINF:-1 group-title="Astro Sports", Astro Arena Plus HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb18945925e65d411fbb986d72531010&key=15ff74ae1064c5f2fb00d2995fa88955
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default_ott.mpd
+
+#EXTINF:-1 group-title="Astro Sports", Astro SuperSport HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/025280da-36d6-4616-8400-e74af082ac2e
+https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/21yfvmTMU9tTa7ntFdObZZvIuq0_BqWLb52tXe_awM5Qw=F9z6/dash-wv/jitp-linearwm/601/default_ott.mpd
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6708
+
+#EXTINF:-1 group-title="Astro Sports", Astro SuperSport 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/d09ee712-90da-46fd-8ea9-3d9f2fc68b22
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/21N295yDXHydzLNHHQ7zuWKCO252mpqVtsgBons7XS0qY=a0tQ/dash-wv/jitp-linearwm/2104/default_ott.mpd
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+http://foctv.xyz:25510/Amir5641/YY5641/149
+
+#EXTINF:-1 group-title="Astro Sports", Astro SuperSport 3 HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/01343d4f-a8df-4082-a544-1ef98906ecee
+# http://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/21-3rE2c1FzJBShfmDAQ-aUz-dHRK1i2sEMwlSAtvD020=or6E/dash-wv/jitp-linearwm/2701/default_ott.mpd
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6711
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+http://foctv.xyz:25510/Amir5641/YY5641/232
+
+#EXTINF:-1 group-title="Astro Sports", Astro SuperSport 4 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/e933cff4-aa51-4e8c-ae13-a755069262ee
+http://linears-playback.astro.com.my/vsg/21BpW3Grbi6W3zJUJKEXWZTl9KfU2UFyMo9Vka64XSmBA=HrIi/dash-wv/jitp-linearwm/2506/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+
+#EXTINF:-1 group-title="Astro Sports", Astro SuperSport 5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/ac6413ad-066e-43df-ad3d-5946408bb0ed
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
 ####Sony Ten###
 
@@ -499,6 +551,9 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/rifky_oku.m
 
 ####All-Sports####
 
+#EXTINF:-1 group-title="All Sports", SPOTV
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
+
 #EXTINF:-1 group-title="All Sports", RMC Sport 1 SD
 http://31.220.41.88:8081/live/fr-sfr1.stream/playlist.m3u8
 
@@ -519,71 +574,4 @@ http://93.152.174.144:4000/play/btsport1/index.m3u8?zz
 
 #EXTINF:-1 group-title="All Sports", BTSport 2HD
 http://93.152.174.144:4000/play/btsport2/index.m3u8?zz
-
-####beIN Sports SD####
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/Premium-01.png" tvg-id="beinsports1premiumar.qa" ,beIN Sports Premium 1 SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/84
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/Premium-02.png" tvg-id="beinsports2premiumar.qa" ,beIN Sports Premium 2 SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/85
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/Premium-03.png" tvg-id="beinsports3premiumar.qa" ,beIN Sports Premium 3 SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/86
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/01.png" tvg-id="beinsports1ar.qa" ,beIN Sports 1 SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/77
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/02.png" tvg-id="beinseries2ar.qa" ,beIN Sports 2 SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/78
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/03.png" tvg-id="beinsports3ar.qa" ,beIN Sports 3 SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/79
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/04.png" tvg-id="beinsports4ar.qa" ,beIN Sports 4 SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/80
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/05.png" tvg-id="beinsports5ar.qa" ,beIN Sports 5 SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/81
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/06.png" tvg-id="beinsports6ar.qa" ,beIN Sports 6 SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/82
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/07.png" tvg-id="beinsports7ar.qa" ,beIN Sports 7 SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/83
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/Xtra-01.png" tvg-id="beinsportsxtra1ar.qa" ,beIN Sports XTRA 1 SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/48307
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/Xtra-02.png" tvg-id="beinsportsxtra2ar.qa" ,beIN Sports XTRA 2 SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/48308
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/nba.png" tvg-id="beinsportsnbaar.qa" ,beIN Sports NBA SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/93
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/news.png" tvg-id="beinsportsnewsar.qa" ,beIN Sports News SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/94
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/global.png" tvg-id="beinsportsglobalar.qa" ,beIN Sports Global SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/95
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/EN-01.png" tvg-id="beinsports1enar.qa" ,beIN Sports English 1 SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/87
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/EN-02.png" tvg-id="beinsports2enar.qa" ,beIN Sports English 2 SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/88
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/EN-03.png" tvg-id="beinsports3enar.qa" ,beIN Sports English 3 SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/89
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/FR-01.png" tvg-id="beinsports1frar.qa" ,beIN Sports French 1 SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/90
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/FR-02.png" tvg-id="beinsports2frar.qa" ,beIN Sports French 2 SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/91
-
-#EXTINF:-1 group-title="beIN Sports SD" tvg-logo="https://img.wajidtv.com/bein_sports/FR-03.png" tvg-id="beinsports3frar.qa" ,beIN Sports French 3 SD
-http://wjdtv.com:8080/WajidGifts50/MQ99U97lra/92
-
-
 
