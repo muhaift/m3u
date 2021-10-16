@@ -21,19 +21,19 @@ https://liveanevia.mncnow.id/live/eds/MNCsports-adaLiga1/sa_dash_vmx/MNCsports-a
 https://akamai.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1634365305~acl=/hls-b/ingest_6685_*/*~hmac=02796c0574175c512cef47e264ff195a10b6a2ca243ae5df0e7ba2443a3724be/hls-b/ingest_6685_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634384780~acl=/hls-b/ingest_6685_*/*~hmac=57c3c1d403434afb49076c184a9bc32fe20187fb7d29c4c85d65c6b1b0f27ebe/hls-b/ingest_6685_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1634365229~acl=/hls-b/ingest_6686_*/*~hmac=2ff7b12b8428fb39cc580bbc7de770a8c8cf217718d4523a6739bc175c140795/hls-b/ingest_6686_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634384819~acl=/hls-b/ingest_6686_*/*~hmac=8d76127014898e168d41b573fa68ae263867e6ccd1b4c2a93d0ea4f31ff0066f/hls-b/ingest_6686_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1634365268~acl=/hls-b/ingest_6786_*/*~hmac=35df4104621e01e8afcee85de937e0110da321e81e70f37ff04b6c1e3801c104/hls-b/ingest_6786_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634384844~acl=/hls-b/ingest_6786_*/*~hmac=6d3514d90353869bfc536af0ff672da232fac73c2e4b149252a864d823d786ec/hls-b/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1634365086~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=c427efc7c922bc713d0badee972a7ee355d14d37bf0ae5fe4df9dd23d65c5cc7/vp9/205_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1634384666~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=2a38c6d041fcae98952862eb97768bfa3e096fe074e9a91ee3c63b3033eb7c1a/vp9/205_stream.mpd
 
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
-https://etslive-2-vidio-com.akamaized.net/exp=1634365159~acl=/hls-p/ingest_206_*/*~hmac=53ea9ae0b6a4c8c655f35f1d947b3885d31f98eba14d560f949c9c1d58ee3f5b/hls-p/ingest_206_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634384744~acl=/hls-p/ingest_206_*/*~hmac=ba58c021529949d642c06c960321c36a3b7fd8ece036800b00a439118b3f73bc/hls-p/ingest_206_360p/index.m3u8
 
 ####TV Lokal####
 
@@ -574,4 +574,40 @@ http://93.152.174.144:4000/play/btsport1/index.m3u8?zz
 
 #EXTINF:-1 group-title="All Sports", BTSport 2HD
 http://93.152.174.144:4000/play/btsport2/index.m3u8?zz
+
+####beIN Sports SD####
+
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 1 Premium SD
+http://mo3ad.xyz:8080/mo3ad74/mo3ad74/2
+
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 2 Premium SD
+http://mo3ad.xyz:8080/mo3ad74/mo3ad74/4
+
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 3 Premium SD
+http://mo3ad.xyz:8080/mo3ad74/mo3ad74/6
+
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 1 SD
+http://mo3ad.xyz:8080/mo3ad74/mo3ad74/23
+
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 2 SD
+http://mo3ad.xyz:8080/mo3ad74/mo3ad74/24
+
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 3 SD
+http://mo3ad.xyz:8080/mo3ad74/mo3ad74/25
+
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 4 SD
+http://mo3ad.xyz:8080/mo3ad74/mo3ad74/8
+
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 5 SD
+http://mo3ad.xyz:8080/mo3ad74/mo3ad74/10
+
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 6 SD
+http://mo3ad.xyz:8080/mo3ad74/mo3ad74/12
+
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 7 SD
+http://mo3ad.xyz:8080/mo3ad74/mo3ad74/14
+
+
+
+
 
