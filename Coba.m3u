@@ -30,7 +30,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1634384819~acl=/hls-b/ingest_6686_
 https://etslive-2-vidio-com.akamaized.net/exp=1634384844~acl=/hls-b/ingest_6786_*/*~hmac=6d3514d90353869bfc536af0ff672da232fac73c2e4b149252a864d823d786ec/hls-b/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1634384666~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=2a38c6d041fcae98952862eb97768bfa3e096fe074e9a91ee3c63b3033eb7c1a/vp9/205_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1634397313~acl=/vp9/8015_stream.mpd!/vp9/8015/*~hmac=b1c540e9872d4bbb57074a86a8873a8e19a1419fbff3990bb80ecefdd0bf07e3/vp9/8015_stream.mpde074e9a91ee3c63b3033eb7c1a/vp9/205_stream.mpd
 
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
 https://etslive-2-vidio-com.akamaized.net/exp=1634384744~acl=/hls-p/ingest_206_*/*~hmac=ba58c021529949d642c06c960321c36a3b7fd8ece036800b00a439118b3f73bc/hls-p/ingest_206_360p/index.m3u8
