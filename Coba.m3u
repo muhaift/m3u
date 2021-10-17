@@ -21,13 +21,13 @@ https://liveanevia.mncnow.id/live/eds/MNCsports-adaLiga1/sa_dash_vmx/MNCsports-a
 https://akamai.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1634462464~acl=/hls-p/ingest_6685_*/*~hmac=2e499f0284bc97c760e39030a27269053f53be243e415ff76f75ba68ff86aa73/hls-p/ingest_6685_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634479848~acl=/hls-b/ingest_6685_*/*~hmac=c500a307ff5ca4f0131533eae7f5b728683d42cc7ba8d7b29184a7725f8cc86d/hls-b/ingest_6685_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1634462497~acl=/hls-p/ingest_6686_*/*~hmac=63a3d88cce411c9c861d1031489cc4ee8f2f7b6a94c1091e62fbc27b0c2af7dd/hls-p/ingest_6686_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634479889~acl=/hls-b/ingest_6686_*/*~hmac=77efe12ce493a707dc4c5c8e6a876bc8ba766de5c101f73747b59ed46abbe6f6/hls-b/ingest_6686_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1634462540~acl=/hls-p/ingest_6786_*/*~hmac=ede82ca43e10a81b62cc2da9864d0d03a1e8715c20f60fdaa624f71bb4bc9c62/hls-p/ingest_6786_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634479919~acl=/hls-p/ingest_6786_*/*~hmac=ea66f456a56b729bf56f0ce7dcacb8a3ed4d4a4b8d1db17dd6a792cf0c598b73/hls-p/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
 https://etslive-2-vidio-com.akamaized.net/exp=1634462565~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=3e33aa863f4736621f50c0d4a9ad445f3939b1a00eede2a33739e9e40677c263/vp9/205_stream.mpd
