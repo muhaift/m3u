@@ -21,19 +21,19 @@ https://liveanevia.mncnow.id/live/eds/MNCsports-adaLiga1/sa_dash_vmx/MNCsports-a
 https://akamai.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1634479848~acl=/hls-b/ingest_6685_*/*~hmac=c500a307ff5ca4f0131533eae7f5b728683d42cc7ba8d7b29184a7725f8cc86d/hls-b/ingest_6685_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634553086~acl=/hls-b/ingest_6685_*/*~hmac=734852d19ff27e09413e0365ae0a18fa264b8db54e0a60e0b65c498ff79f4ecb/hls-b/ingest_6685_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1634479889~acl=/hls-b/ingest_6686_*/*~hmac=77efe12ce493a707dc4c5c8e6a876bc8ba766de5c101f73747b59ed46abbe6f6/hls-b/ingest_6686_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634553156~acl=/hls-b/ingest_6686_*/*~hmac=13e9e3ff76ce99860b398298665093567ac3e5b58a4d2578ee96aeb9027cacdf/hls-b/ingest_6686_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1634479919~acl=/hls-p/ingest_6786_*/*~hmac=ea66f456a56b729bf56f0ce7dcacb8a3ed4d4a4b8d1db17dd6a792cf0c598b73/hls-p/ingest_6786_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634553193~acl=/hls-b/ingest_6786_*/*~hmac=01caae9add36ba05547638086e07e83638c815dd29d88df5a17b4212c9ed590a/hls-b/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1634462565~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=3e33aa863f4736621f50c0d4a9ad445f3939b1a00eede2a33739e9e40677c263/vp9/205_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1634553226~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=555dbfcd53f65f1db048282b28e485991a2324f9da02f4e1e30f9d1255ccce5c/vp9/205_stream.mpd
 
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
-https://etslive-2-vidio-com.akamaized.net/exp=1634463432~acl=/hls-p/ingest_206_*/*~hmac=dbab764c737e37e3b2f3f8724699c9b0d169283aa661413d3da7821f77afe85a/hls-p/ingest_206_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634553264~acl=/hls-p/ingest_206_*/*~hmac=9b2b3827df35a79a709c7bc8cfdb5e874c26611e7597e97431023e269992422e/hls-p/ingest_206_360p/index.m3u8
 
 ####TV Lokal####
 
@@ -80,13 +80,29 @@ https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="TV Lokal", JTV
+#EXTINF:-1 group-title="TV Lokal",JTV
 https://liveanevia.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="TV Lokal", Bandung TV
 https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+
+#EXTINF:-1 group-title="TV Lokal", Nusantara TV
+https://v6.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Lokal", O Channel
+http://dituduhmaling.xyz/V11710/Ochannel.m3u8
+
+#EXTINF:-1 group-title="TV Lokal", Bali TV
+http://cdn4.mbahnunungonline.net/m3u8/4c33d89bb7ac426.m3u8
+
+#EXTINF:-1 group-title="TV Lokal", Jawapos TV
+http://122.248.43.138:1935/ch6/myStream/chunklist_w1075328336.m3u8
+
+#EXTINF:-1 group-title="TV Lokal", Bandung TV
+http://202.150.153.254/bandungtv720p.m3u8
+
 
 ####Berita Lokal####
 
@@ -116,6 +132,10 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 group-title="Berita Lokal", Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+
+#EXTINF:-1 group-title="Berita Lokal", Jakarta Globe News Channel
+https://b1english.beritasatumedia.com/Beritasatu/B1English_960x540.m3u8
+
 
 ####TV Islami####
 
@@ -200,13 +220,13 @@ https://etslive-2-vidio-com.akamaized.net/exp=1634091712~acl=/hls-b/ingest_6678_
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 group-title="Japan",  Aniplus
-http://iptv.tvmalaysia.cc:80/624850/624850/6697
+http://rr1.dens.tv/h/h02/index.m3u8
 
 #EXTINF:-1 group-title="Japan",  Waku Waku Japan
 http://foctv.xyz:25510/Amir5641/YY5641/104
 
 #EXTINF:-1 group-title="Japan",  Sony Gem TV
-http://foctv.xyz:25510/Amir5641/YY5641/105
+http://rr.dens.tv/h/h19/index.m3u8
 
 ####HBO####
 
