@@ -31,7 +31,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1634827995~acl=/hls-b/ingest_6686_
 https://etslive-2-vidio-com.akamaized.net/exp=1634828026~acl=/hls-b/ingest_6786_*/*~hmac=69d9e25a06c8f36b53a9a50da4138499a218fe1fd3b531f523d2aecf11b43c00/hls-b/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1634827887~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=18c69a4aa645f7e7751149a2934bd8f3295cd21a4cc41e5a896703c791a6c370/vp9/205_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1634836068~acl=/vp9/8025_stream.mpd!/vp9/8025/*~hmac=ed8d28a61f3a74b25bca92ada06684b62527b57ee48453f6abe7709e67f21f74/vp9/8025_stream.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", SCTV HD
 https://etslive-2-vidio-com.akamaized.net/exp=1634827838~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=cd3b95be293262fd8a45970bb6abe6076b9836ef71faeaaf6b79b329b1c5b9a2/vp9/204_stream.mpd
@@ -217,7 +217,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1634091712~acl=/hls-b/ingest_6678_
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 group-title="Japan",  Aniplus
-http://rr1.dens.tv/h/h02/index.m3u8
+https://liveanevia.mncnow.id/live/eds/Aniplus/sa_dash_vmx/Aniplus.mpd
 
 #EXTINF:-1 group-title="Japan",  Waku Waku Japan
 http://foctv.xyz:25510/Amir5641/YY5641/104
@@ -229,6 +229,9 @@ http://rr.dens.tv/h/h19/index.m3u8
 
 #EXTINF:-1 group-title="HBO GO", HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+
+#EXTINF:-1 group-title="HBO GO", HBO 1
+https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -521,14 +524,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
 ####Sony Ten###
 
-#EXTINF:-1 group-title="Sony TEN",Sony TEN 1
+#EXTINF:-1 group-title="Sony TEN", Sony TEN 1
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8?zz
 
-#EXTINF:-1 group-title="Sony TEN",Sony TEN 2
+#EXTINF:-1 group-title="Sony TEN", Sony TEN 2
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8?zz
 
-#EXTINF:-1 group-title="Sony TEN",Sony TEN 3
+#EXTINF:-1 group-title="Sony TEN", Sony TEN 3
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8?zz
+
+#EXTINF:-1 group-title="Sony TEN", Sony Six
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 
 ####Sport TV####
 
