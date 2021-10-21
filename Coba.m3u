@@ -34,6 +34,9 @@ https://etslive-2-vidio-com.akamaized.net/exp=1634810503~acl=/hls-p/ingest_6786_
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
 https://etslive-2-vidio-com.akamaized.net/exp=1634810646~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=83f2307dc7e77f9accf2a51b1f4669f8c207ccb79ff56fbca475f883c5d01e5d/vp9/205_stream.mpd
 
+#EXTINF:-1 group-title=" Indo Sports", SCTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1634813800~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=89138e40e36e253c068ae2251fdddaca8ce0ff06f2812bb0490bff4f2e787938/vp9/204_stream.mpd
+
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
 https://etslive-2-vidio-com.akamaized.net/exp=1634810682~acl=/hls-p/ingest_206_*/*~hmac=bdf7c9c37f33cd2b8be020962278f6c045f0c910d4ed7e134dad29d78df17456/hls-p/ingest_206_360p/index.m3u8
 
