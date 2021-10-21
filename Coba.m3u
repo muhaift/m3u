@@ -22,22 +22,25 @@ https://liveanevia.mncnow.id/live/eds/MNCsports-adaLiga1/sa_dash_vmx/MNCsports-a
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1634827956~acl=/hls-b/ingest_6685_*/*~hmac=d2f1e687e7a617a488da9de0bb4cadb27ff422fc1efd04649f064b4a34954485/hls-b/ingest_6685_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634869672~acl=/hls-b/ingest_6685_*/*~hmac=f247b929efacce25e383dce5e7d37ad783080a7e9557726b352b686739021ad6/hls-b/ingest_6685_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1634827995~acl=/hls-b/ingest_6686_*/*~hmac=01fb97ae98016dadf738e1b5d371b9cd59f1dbff9e260ef41c0752cdd3e42f32/hls-b/ingest_6686_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634869700~acl=/hls-p/ingest_6686_*/*~hmac=5bc236ed107d73b8700d19a2ba0a4a860cedc5004da0035bcc7fb648eb70eee7/hls-p/ingest_6686_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
 https://etslive-2-vidio-com.akamaized.net/exp=1634828026~acl=/hls-b/ingest_6786_*/*~hmac=69d9e25a06c8f36b53a9a50da4138499a218fe1fd3b531f523d2aecf11b43c00/hls-b/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1634836068~acl=/vp9/8025_stream.mpd!/vp9/8025/*~hmac=ed8d28a61f3a74b25bca92ada06684b62527b57ee48453f6abe7709e67f21f74/vp9/8025_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1634869551~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=6fef84d5f56a6a15f09171417a3d97be334dffcb934d7e5eb83b4becdbf274f8/vp9/205_stream.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", SCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1634827838~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=cd3b95be293262fd8a45970bb6abe6076b9836ef71faeaaf6b79b329b1c5b9a2/vp9/204_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1634869603~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=55f8bbc5ed40758ec5b3f5c35009f4bdeeca296145305aac5e407ac09f8460fa/vp9/204_stream.mpd
 
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
-https://etslive-2-vidio-com.akamaized.net/exp=1634827926~acl=/hls-p/ingest_206_*/*~hmac=c41a720752ccbef4e95f96fa988fb2b487843fcd0dd7b1d8ce944e980ef3b529/hls-p/ingest_206_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634869637~acl=/hls-p/ingest_206_*/*~hmac=cbd6550bb206bf7a4d342fde0a7a59390f9f7feca009a925148f2591b5415fd7/hls-p/ingest_206_360p/index.m3u8
+
+#EXTINF:-1 group-title="Indo Sports", LFC TV
+https://etslive-2-vidio-com.akamaized.net/exp=1634869755~acl=/hls-p/ingest_7916_*/*~hmac=081cdee05204efca04973ec2fa900f859caf69d0fec75c1d2a1ffe3ff1ad4edf/hls-p/ingest_7916_360p/index.m3u8
 
 ####Indo TV####
 
