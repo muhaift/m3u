@@ -1,3 +1,5 @@
+#EXTM3U
+
 ####Indo Sports####
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -21,19 +23,19 @@ https://liveanevia.mncnow.id/live/eds/MNCsports-adaLiga1/sa_dash_vmx/MNCsports-a
 https://akamai.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1634553086~acl=/hls-b/ingest_6685_*/*~hmac=734852d19ff27e09413e0365ae0a18fa264b8db54e0a60e0b65c498ff79f4ecb/hls-b/ingest_6685_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634782488~acl=/hls-b/ingest_6685_*/*~hmac=2ff9e39f942b13e1a645c4a3df75a58b2c5afe0c86c81b9fc3cc65d9b446c13c/hls-b/ingest_6685_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1634553156~acl=/hls-b/ingest_6686_*/*~hmac=13e9e3ff76ce99860b398298665093567ac3e5b58a4d2578ee96aeb9027cacdf/hls-b/ingest_6686_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634782523~acl=/hls-p/ingest_6686_*/*~hmac=12ddd0255000ac459ba0b05d8ea8e45d6bc46bc9dc8f50dae63f72e4ec9ef736/hls-p/ingest_6686_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
 https://etslive-2-vidio-com.akamaized.net/exp=1634553193~acl=/hls-b/ingest_6786_*/*~hmac=01caae9add36ba05547638086e07e83638c815dd29d88df5a17b4212c9ed590a/hls-b/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1634553226~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=555dbfcd53f65f1db048282b28e485991a2324f9da02f4e1e30f9d1255ccce5c/vp9/205_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1634782358~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=01de048c8267f1d8d707bab29ea0393f3a0404b59559bc96f1d14e02dd378aa6/vp9/205_stream.mpd
 
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
-https://etslive-2-vidio-com.akamaized.net/exp=1634553264~acl=/hls-p/ingest_206_*/*~hmac=9b2b3827df35a79a709c7bc8cfdb5e874c26611e7597e97431023e269992422e/hls-p/ingest_206_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1634782425~acl=/hls-p/ingest_206_*/*~hmac=2e6f274d3e52746b6cc3f71321a9e33b1e4c233e96addb370459b4e2c2e2f91e/hls-p/ingest_206_360p/index.m3u8
 
 ####Indo TV####
 
@@ -91,18 +93,11 @@ https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #EXTINF:-1 group-title="Indo TV", Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Indo TV", O Channel
-http://dituduhmaling.xyz/V11710/Ochannel.m3u8
-
 #EXTINF:-1 group-title="Indo TV", Bali TV
 http://cdn4.mbahnunungonline.net/m3u8/4c33d89bb7ac426.m3u8
 
 #EXTINF:-1 group-title="Indo TV", Jawapos TV
 http://122.248.43.138:1935/ch6/myStream/chunklist_w1075328336.m3u8
-
-#EXTINF:-1 group-title="Indo TV", Bandung TV
-http://202.150.153.254/bandungtv720p.m3u8
-
 
 ####News Channel####
 
