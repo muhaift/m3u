@@ -22,25 +22,25 @@ https://liveanevia.mncnow.id/live/eds/MNCsports-adaLiga1/sa_dash_vmx/MNCsports-a
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1634996351~acl=/hls-b/ingest_6685_*/*~hmac=80909889044296b8400e337213085dcd991980758d2d2f9f4f2bd4b64378557c/hls-b/ingest_6685_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1635043395~acl=/hls-b/ingest_6685_*/*~hmac=8afe5efd7d8d813e24448d0bd5dc58433a57f468887e97ddfb07cc806db8e318/hls-b/ingest_6685_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1634996382~acl=/hls-p/ingest_6686_*/*~hmac=331d09244b3b4c0a44bb1d20bd46668490463e9994760f86005f456903fa6a20/hls-p/ingest_6686_360p/index.m3u8
+etslive-2-vidio-com.akamaized.net/exp=1635043435~acl=/hls-p/ingest_6686_*/*~hmac=c43089c84a590e55e890844c399a56aee7cf2ab8f1b89ff955ee24588d7ff1e0/hls-p/ingest_6686_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1634996410~acl=/hls-p/ingest_6786_*/*~hmac=a9e191203c3ceecb578e0341c997c8b14a4096207c15c40a0087972e8f672bba/hls-p/ingest_6786_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1635043460~acl=/hls-b/ingest_6786_*/*~hmac=73a773522e65336e0b6ac29e90f6ffe46332e8b86c5bc67b65b137f5264aa711/hls-b/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1634996434~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=5b9497819c7cb583bb4d5069915f2cba80ad016747eab340bb2b0dd370831983/vp9/205_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1635043258~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=e73a5e1113b5afd118f5b8162ebb783880757d0bc6033ca8bc3e132da5efeb4e/vp9/205_stream.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", SCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1634996469~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=5c4851c4e2044770cca3b33e64675015ee19578d8492bb7bca262d5987810c90/vp9/204_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1635043307~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=5684cf3dc294e5ad57d9f8a531747287fb955e7c8432eb6d590b948c4f528453/vp9/204_stream.mpd
 
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
-https://etslive-2-vidio-com.akamaized.net/exp=1634996505~acl=/hls-p/ingest_206_*/*~hmac=f60df8b6c899f1df51196fd5a6d31dd5055e7d30d62e9b114f04501b301414dd/hls-p/ingest_206_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1635043350~acl=/hls-p/ingest_206_*/*~hmac=5fe6c7615adc342b4c33a8bfe95842ae72de81a92de55434496c6120ed6f758f/hls-p/ingest_206_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports", LFC TV
-https://etslive-2-vidio-com.akamaized.net/exp=1634996558~acl=/hls-p/ingest_7916_*/*~hmac=4df388428c7d16233b47e2082e6e071958f85600149328486b09f24f341ad5e7/hls-p/ingest_7916_360p/index.m3u8
+etslive-2-vidio-com.akamaized.net/exp=1635043497~acl=/hls-p/ingest_7916_*/*~hmac=141f8b923a671d51b9661eb4af257320f6d68a391caf60469f1d49bf0e774df6/hls-p/ingest_7916_360p/index.m3u8
 
 ####Indo TV####
 
@@ -144,6 +144,9 @@ https://b1english.beritasatumedia.com/Beritasatu/B1English_960x540.m3u8
 #EXTINF:-1 group-title="TV Islami", Al Quran Al Kareem TV
 https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
+#EXTINF:-1 group-title="TV Islami", Sunnah TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="TV Islami", Muslim TV
@@ -195,22 +198,22 @@ https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 ####Hiburan####
 
 #EXTINF:-1 group-title="Hiburan",  Musica Studio
-https://etslive-2-vidio-com.akamaized.net/exp=1634091578~acl=/hls-p/ingest_7619_*/*~hmac=672f218643209aa5f961f37150daedc7d679bf975acbe07972c2f98df7f593f6/hls-p/ingest_7619_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1635043589~acl=/hls-p/ingest_7619_*/*~hmac=a978a3c68dd1a25d9a80af955013cd655a6c9652227f7e3cacb663097f432eeb/hls-p/ingest_7619_480p/index.m3u8
 
 #EXTINF:-1 group-title="Hiburan",  Citra Dangdut
-https://etslive-2-vidio-com.akamaized.net/exp=1634091610~acl=/hls-p/ingest_6587_*/*~hmac=605d057d5fc159be2cbc629a3f7e57dc88f15c759c1114ba2bc2e9f7b77ad1c1/hls-p/ingest_6587_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1635043617~acl=/hls-b/ingest_6587_*/*~hmac=97880147533477e8c3ac12efc6704d66074a858dbcc1f41f26064e5197e21401/hls-b/ingest_6587_360p/index.m3u8
 
 #EXTINF:-1 group-title="Hiburan", Citra Drama
-https://etslive-2-vidio-com.akamaized.net/exp=1634091637~acl=/hls-p/ingest_6401_*/*~hmac=4c9f5f64d6604256022595852f90e9c2b85eca9991c91f51fcce81677087c190/hls-p/ingest_6401_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1635043646~acl=/hls-p/ingest_6401_*/*~hmac=ffdd6f609ecfbc345fd7059b627732cb90ee0c0900008b4c865e10b7682d7863/hls-p/ingest_6401_360p/index.m3u8
 
 #EXTINF:-1 group-title="Hiburan", Citra Entertainment
-https://etslive-2-vidio-com.akamaized.net/exp=1634091659~acl=/hls-p/ingest_6402_*/*~hmac=a737ff18e06e9583bf055c6fc2283dd82e9ced6f08e93e2fb4b19cb2dd35c78a/hls-p/ingest_6402_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1635043672~acl=/hls-p/ingest_6402_*/*~hmac=7a02801ee43edd0c22248124627ce4a4b249dcbb011a817d454a2d60575f8fc9/hls-p/ingest_6402_360p/index.m3u8
 
 #EXTINF:-1 group-title="Hiburan",  Citra Bioskop
-https://etslive-2-vidio-com.akamaized.net/exp=1634091685~acl=/hls-p/ingest_6684_*/*~hmac=b9361e6a6b7c3028b9c38c40dcc139d68b8ab2a009e6b3a6fe39a22ea63decd4/hls-p/ingest_6684_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1635043698~acl=/hls-b/ingest_6684_*/*~hmac=25575f1af9455fa9acfafdb625fbac5ad4e185b0072c1e0490cc42a2b72f0acd/hls-b/ingest_6684_360p/index.m3u8
 
 #EXTINF:-1 group-title="Hiburan",  Citra Muslim
-https://etslive-2-vidio-com.akamaized.net/exp=1634091712~acl=/hls-b/ingest_6678_*/*~hmac=9f8937e09f59d26d3f1eb61307a1e14ae8abc58b8a0108c8eb00e21a181495f4/hls-b/ingest_6678_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1635043751~acl=/hls-p/ingest_6678_*/*~hmac=d5bf03d4c6d78b2a42457f5263db15c076d14595810c8b5d96da96bb6b2563ab/hls-p/ingest_6678_360p/index.m3u8
 
 ####Japan####
 
@@ -374,46 +377,34 @@ https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="Movies", Sinema Indonesia
 http://rr.dens.tv/h/h155/index2.m3u8
 
-####Knowledge####
+#####Knowledge#####
 
-#EXTINF:-1 group-title="Knowledge",  Love Nature
-http://foctv.xyz:25510/Amir5641/YY5641/89
+#EXTINF:-1 group-title="Knowlegdes", Animal Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
-#EXTINF:-1 group-title="Knowledge",  BBC Earth
-http://foctv.xyz:25510/Amir5641/YY5641/90
+#EXTINF:-1 group-title="Knowlegdes", Nat Geo Wild HD
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
-#EXTINF:-1 group-title="Knowledge",  DMax
-http://foctv.xyz:25510/Amir5641/YY5641/91
+#EXTINF:-1 group-title="Knowlegdes", National Geographic HD
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/7.ts
 
-#EXTINF:-1 group-title="Knowledge",  History
-http://foctv.xyz:25510/Amir5641/YY5641/92
+#EXTINF:-1 group-title="Knowlegdes", Nat Geo People HD
+http://iptv.tvmalaysia.cc/932633/932633/7080
 
-#EXTINF:-1 group-title="Knowledge",  National Geographic
-http://foctv.xyz:25510/Amir5641/YY5641/93
+#EXTINF:-1 group-title="Knowlegdes", Discovery Channel HD
+http://iptv.tvmalaysia.cc:80/989898/989898/7078
 
-#EXTINF:-1 group-title="Knowledge",  Nat Geo People
-http://foctv.xyz:25510/Amir5641/YY5641/94
+#EXTINF:-1 group-title="Knowlegdes", Discovery Asia HD
+http://iptv.tvmalaysia.cc/live/989898/989898/8856.m3u8
 
-#EXTINF:-1 group-title="Knowledge",  Nat Geo Wild
-http://foctv.xyz:25510/Amir5641/YY5641/95
+#EXTINF:-1 group-title="Knowlegdes", Discovery Science HD
+https://itvoign.multitvsolution.com/idvo/discoverscienceeng.m3u8
 
-#EXTINF:-1 group-title="Knowledge",  Animal Planet
-http://foctv.xyz:25510/Amir5641/YY5641/96
+#EXTINF:-1 group-title="Knowlegdes", CGTN
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
-#EXTINF:-1 group-title="Knowledge",  Discovery Channel
-http://foctv.xyz:25510/Amir5641/YY5641/97
-
-#EXTINF:-1 group-title="Knowledge",  Discovery Asia
-http://foctv.xyz:25510/Amir5641/YY5641/98
-
-#EXTINF:-1 group-title="Knowledge",  Discovery Science
-http://foctv.xyz:25510/Amir5641/YY5641/99
-
-#EXTINF:-1 group-title="Knowledge",  AFC
-http://foctv.xyz:25510/Amir5641/YY5641/100
-
-#EXTINF:-1 group-title="Knowledge",  TLC
-http://foctv.xyz:25510/Amir5641/YY5641/101
+#EXTINF:-1 group-title="Knowlegdes", Love Nature HD
+http://gpc.my.id/vidio/love-nature.m3u8
 
 ####beIN Sports####
 
