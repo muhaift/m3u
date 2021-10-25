@@ -22,19 +22,19 @@ https://liveanevia.mncnow.id/live/eds/MNCsports-adaLiga1/sa_dash_vmx/MNCsports-a
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1635066076~acl=/hls-b/ingest_6685_*/*~hmac=b09c36c857739df07ec06410d46f7ca787f1932a8da0c1107944344b430694b1/hls-b/ingest_6685_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1635146294~acl=/hls-p/ingest_6685_*/*~hmac=a9ee3e7b3d4417c585523838ea65023461e022f8cc4e2ab5d6b9a963c00c36dc/hls-p/ingest_6685_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1635066111~acl=/hls-b/ingest_6686_*/*~hmac=ed8aed6e6efdd866553ee3387cb2ffc65d03b16adbf968ed9d5eda87d3c28397/hls-b/ingest_6686_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1635146319~acl=/hls-b/ingest_6686_*/*~hmac=f8aa43c93d8b64771d914da7c2ed3f5e8146016888684d8fcb2b74b16a6584eb/hls-b/ingest_6686_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
 https://etslive-2-vidio-com.akamaized.net/exp=1635066142~acl=/hls-p/ingest_6786_*/*~hmac=7393d8f708fcb4166b1fde7b474402e9bbdf1be84905a0364da59cdb60bfc70a/hls-p/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1635065889~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=f5c34ee7bceaa7b68ab00fab1bfa6e94e921fcea920d81ee8dd3e6f3b890777b/vp9/205_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1635146056~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=66585103a0d9189f3051c6b4aa532a01ecb1ea8da815a1d693b23a88a802ac01/vp9/205_stream.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", SCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1635065960~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=0c1a3341641db567b946c50cf32625e59a18c8fb2e05f8619ffc080f0c53b4a4/vp9/204_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1635146200~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=087c427f4329a8c990d9030955e42f2888de545b73e9c7bdcf988c0967431ac7/vp9/204_stream.mpd
 
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
 https://etslive-2-vidio-com.akamaized.net/exp=1635066007~acl=/hls-p/ingest_206_*/*~hmac=a10c3b254ac4d4a86f5e39f57dcc5adc37de98327acef8e773a5a9320f8665a8/hls-p/ingest_206_360p/index.m3u8
@@ -460,7 +460,7 @@ http://tptv.cz:80/j0VleevfNiacGqL/uVonRtU62m/63876
 #EXTINF:-1 group-title="Astro Sports", Astro Arena
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeElJeGFjc1hxemFNSTVnY1ZhdVBCSFd0SjBJNUtjMDZpcnBtVWI1UElLRjNma0NBNVowdUhEa1VyaHROZ0E4eWd0MC1YRHVlbEx0eHpldXFOUWdMUGM0dGRKcUdBNC0zR1UydEpUZlpUUERRSUdkcEVLdjZLRWVkcHJmbzNSb1hFQjhJUFNpTlZxZ1hBV2xmU0lJSEtMTXhNZThITkg3QzFVX0ZnOU1aV0ZaXy02cUlsM3BIRVZzVEhHSm00TkhIQ1d5bVRJQUFTQmxfZks2dmRaZXZZUHZsSi1yNWh5TDQtLTQxVVRteDNJdHYzbjZ1NmFVZm1La0EzelMzZDB3Y1pSTVpGRVk1VnNkbTVFcU5LNG9CR0NkTVBaam1hUUJ1QzhNMlZoVWE1OWYxaE5rVzVnQXZETXI5bER3NU5yU3V0c2hnbEI1R1Y2QjJ1ek1XYUcxaDFvJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUxNjYiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiOWY5OWZmYTJfZDI3YV80Y2ZiX2EwNWJfODNiOTFkYjg0NmRmIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHhJSXhhY3NYcXphTUk1Z2NWYXVQQkhXdEowSTVLYzA2aXJwbVViNVBJS0YzZmtDQTVaMHVIRGtVcmh0TmdBOHlndDAtWER1ZWxMdHh6ZXVxTlFnTFBjNHRkSnFHQTQtM0dVMnRKVGZaVFBEUUlHZHBFS3Y2S0VlZHByZm8zUm9YRUI4SVBTaU5WcWdYQVdsZlNJSUhLTE14TWU4SE5IN0MxVV9GZzlNWldGWl8tNnFJbDNwSEVWc1RIR0ptNE5ISENXeW1USUFBU0JsX2ZLNnZkWmV2WVB2bEotcjVoeUw0LS00MVVUbXgzSXR2M242dTZhVWZtS2tBM3pTM2Qwd2NaUk1aRkVZNVZzZG01RXFOSzRvQkdDZE1QWmptYVFCdUM4TTJWaFVhNTlmMWhOa1c1Z0F2RE1yOWxEdzVOclN1dHNoZ2xCNUdWNkIydXpNV2FHMWgxbyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=GGtrH6Hannv2M77EoJkxySed4L0%3d&sessionId=fcaf9de1-166f-e5dc-18a3-2a906b535390:8c9f2db9-2601-f9c0-5893-5477ea41e7e0&clientTag=html5:v7.39&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L2J3Zi1waWFsYS11YmVyLTIwMjAtLWNobi1sd24tY2FuLzEwOTQ0OTAvcGxheWVyP2xpbmVhcklkPTEwMDA4MDIyNiZpc0xpdmU9dHJ1ZQ==
-# https://linear01-playback.sooka.my/CH3/masterCH3.mpd
+https://linear01-playback.sooka.my/CH3/masterCH3.mpd
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/3209/assetId/1094490/assetType/media/assetFileId/13225166/contextType/PLAYBACK/isAltUrl/False/a.mpd?playSessionId=b2beb5e4-c156-d04e-0055-52e0465d1720:d37b460b-5c3c-c863-0f1d-ab796eab86df&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L2J3Zi1waWFsYS11YmVyLTIwMjAtLWNobi1sd24tY2FuLzEwOTQ0OTAvcGxheWVyP2xpbmVhcklkPTEwMDA4MDIyNiZpc0xpdmU9dHJ1ZQ==&clientTag=html5:v7.39
 
 #EXTINF:-1 group-title="Astro Sports", Astro Arena (Backup)
