@@ -39,13 +39,6 @@ http://tevemobile.us.to/sc/play.m3u8?id=204
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
 http://tevemobile.us.to/sc/play.m3u8?id=206
 
-#EXTINF:-1 group-title="Indo Sports", LFC TV
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28949
-
-#EXTINF:-1 group-title="Indo Sports", MU TV
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2895
-
-
 ####Indo TV####
 
 #EXTINF:-1 group-title="Indo TV", Trans TV
@@ -458,11 +451,11 @@ http://31.220.41.88:8081/live/fr-sfr2.stream/playlist.m3u8
 #EXTINF:-1 group-title="All Sports", RMC Sport 3 SD
 http://31.220.41.88:8081/live/fr-sfr3.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="All Sports", SKYSport 1
-http://77.247.109.101/hls/A1.m3u8
+#EXTINF:-1 group-title="All Sports", LFC TV
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28949
 
-#EXTINF:-1 group-title="All Sports", SKY Sport 2
-http://89.187.185.100/SKY_SPORTS_FOOTBALL/index.m3u8
+#EXTINF:-1 group-title="All Sports", MU TV
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2895
 
 ####beIN Sports####
 
