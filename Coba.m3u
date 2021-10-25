@@ -410,103 +410,6 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 group-title="Knowlegdes", Love Nature HD
 http://gpc.my.id/vidio/love-nature.m3u8
 
-####beIN Sports####
-
-#EXTINF:-1 group-title="beIN Sports",  beIN Sports 1 English
-http://www.magicoiptv.org:8080/hasan/hasan123/25601
-
-#EXTINF:-1 group-title="beIN Sports",  beIN Sports 2 English
-http://www.magicoiptv.org:8080/hasan/hasan123/25602
-
-#EXTINF:-1 group-title="beIN Sports",  beIN Sports 3 English
-http://www.magicoiptv.org:8080/hasan/hasan123/25603
-
-####beIN Sports####
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 1 Premium
-http://tptv.cz:80/j0VleevfNiacGqL/uVonRtU62m/27901
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 2 Premium
-http://tptv.cz:80/j0VleevfNiacGqL/uVonRtU62m/27900
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 3 Premium
-http://tptv.cz:80/j0VleevfNiacGqL/uVonRtU62m/27899
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 1
-http://tptv.cz:80/j0VleevfNiacGqL/uVonRtU62m/27898
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 2
-http://tptv.cz:80/j0VleevfNiacGqL/uVonRtU62m/27897
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 3
-http://tptv.cz:80/j0VleevfNiacGqL/uVonRtU62m/27896
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 4
-http://tptv.cz:80/j0VleevfNiacGqL/uVonRtU62m/27895
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 5
-http://tptv.cz:80/j0VleevfNiacGqL/uVonRtU62m/27894
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 6
-http://tptv.cz:80/j0VleevfNiacGqL/uVonRtU62m/27893
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 7
-http://tptv.cz:80/j0VleevfNiacGqL/uVonRtU62m/27892
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports Xtra 1
-http://tptv.cz:80/j0VleevfNiacGqL/uVonRtU62m/27891
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports Xtra 2
-http://tptv.cz:80/j0VleevfNiacGqL/uVonRtU62m/63876
-
-#####Astro Sports#####
-
-#EXTINF:-1 group-title="Astro Sports", Astro Arena
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeElJeGFjc1hxemFNSTVnY1ZhdVBCSFd0SjBJNUtjMDZpcnBtVWI1UElLRjNma0NBNVowdUhEa1VyaHROZ0E4eWd0MC1YRHVlbEx0eHpldXFOUWdMUGM0dGRKcUdBNC0zR1UydEpUZlpUUERRSUdkcEVLdjZLRWVkcHJmbzNSb1hFQjhJUFNpTlZxZ1hBV2xmU0lJSEtMTXhNZThITkg3QzFVX0ZnOU1aV0ZaXy02cUlsM3BIRVZzVEhHSm00TkhIQ1d5bVRJQUFTQmxfZks2dmRaZXZZUHZsSi1yNWh5TDQtLTQxVVRteDNJdHYzbjZ1NmFVZm1La0EzelMzZDB3Y1pSTVpGRVk1VnNkbTVFcU5LNG9CR0NkTVBaam1hUUJ1QzhNMlZoVWE1OWYxaE5rVzVnQXZETXI5bER3NU5yU3V0c2hnbEI1R1Y2QjJ1ek1XYUcxaDFvJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUxNjYiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiOWY5OWZmYTJfZDI3YV80Y2ZiX2EwNWJfODNiOTFkYjg0NmRmIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHhJSXhhY3NYcXphTUk1Z2NWYXVQQkhXdEowSTVLYzA2aXJwbVViNVBJS0YzZmtDQTVaMHVIRGtVcmh0TmdBOHlndDAtWER1ZWxMdHh6ZXVxTlFnTFBjNHRkSnFHQTQtM0dVMnRKVGZaVFBEUUlHZHBFS3Y2S0VlZHByZm8zUm9YRUI4SVBTaU5WcWdYQVdsZlNJSUhLTE14TWU4SE5IN0MxVV9GZzlNWldGWl8tNnFJbDNwSEVWc1RIR0ptNE5ISENXeW1USUFBU0JsX2ZLNnZkWmV2WVB2bEotcjVoeUw0LS00MVVUbXgzSXR2M242dTZhVWZtS2tBM3pTM2Qwd2NaUk1aRkVZNVZzZG01RXFOSzRvQkdDZE1QWmptYVFCdUM4TTJWaFVhNTlmMWhOa1c1Z0F2RE1yOWxEdzVOclN1dHNoZ2xCNUdWNkIydXpNV2FHMWgxbyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=GGtrH6Hannv2M77EoJkxySed4L0%3d&sessionId=fcaf9de1-166f-e5dc-18a3-2a906b535390:8c9f2db9-2601-f9c0-5893-5477ea41e7e0&clientTag=html5:v7.39&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L2J3Zi1waWFsYS11YmVyLTIwMjAtLWNobi1sd24tY2FuLzEwOTQ0OTAvcGxheWVyP2xpbmVhcklkPTEwMDA4MDIyNiZpc0xpdmU9dHJ1ZQ==
-https://linear01-playback.sooka.my/CH3/masterCH3.mpd
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/3209/assetId/1094490/assetType/media/assetFileId/13225166/contextType/PLAYBACK/isAltUrl/False/a.mpd?playSessionId=b2beb5e4-c156-d04e-0055-52e0465d1720:d37b460b-5c3c-c863-0f1d-ab796eab86df&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L2J3Zi1waWFsYS11YmVyLTIwMjAtLWNobi1sd24tY2FuLzEwOTQ0OTAvcGxheWVyP2xpbmVhcklkPTEwMDA4MDIyNiZpc0xpdmU9dHJ1ZQ==&clientTag=html5:v7.39
-
-#EXTINF:-1 group-title="Astro Sports", Astro Arena (Backup)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/21fbcb9a-24c3-49d1-aba4-46192c84f38e
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
-
-#EXTINF:-1 group-title="Astro Sports", Astro Arena 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/9291a1ef-207c-4913-863e-4cabe214446b
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
-
-#EXTINF:-1 group-title="Astro Sports", Astro Arena Plus HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb18945925e65d411fbb986d72531010&key=15ff74ae1064c5f2fb00d2995fa88955
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default_ott.mpd
-
-#EXTINF:-1 group-title="Astro Sports", Astro SuperSport HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/025280da-36d6-4616-8400-e74af082ac2e
-http://nextlink.uk:25461/@@@godady/1234/6
-
-#EXTINF:-1 group-title="Astro Sports", Astro SuperSport 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/d09ee712-90da-46fd-8ea9-3d9f2fc68b22
-http://nextlink.uk:25461/@@@godady/1234/7
-
-#EXTINF:-1 group-title="Astro Sports", Astro SuperSport 3 HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/01343d4f-a8df-4082-a544-1ef98906ecee
-http://nextlink.uk:25461/@@@godady/1234/8
-
-#EXTINF:-1 group-title="Astro Sports", Astro SuperSport 4 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/e933cff4-aa51-4e8c-ae13-a755069262ee
-http://nextlink.uk:25461/@@@godady/1234/9
-
-#EXTINF:-1 group-title="Astro Sports", Astro SuperSport 5 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/ac6413ad-066e-43df-ad3d-5946408bb0ed
-http://nextlink.uk:25461/@@@godady/1234/10
-
 ####Sony Ten###
 
 #EXTINF:-1 group-title="Sony TEN", Sony TEN 1
@@ -520,60 +423,6 @@ https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8?zz
 
 #EXTINF:-1 group-title="Sony TEN", Sony Six
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
-
-####Sport TV####
-
-#EXTINF:-1 group-title="Sport TV", SPORT TV 1
-https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8?zz
-
-#EXTINF:-1 group-title="Sport TV", SPORT TV 2
-https://cloudserver.server-cdn-streaming.com/live-player/20/live.m3u8?zz
-
-#EXTINF:-1 group-title="Sport TV", SPORT TV 3
-https://cloudserver.server-cdn-streaming.com/live-player/21/live.m3u8?zz
-
-#EXTINF:-1 group-title="Sport TV", SPORT TV 4
-https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8?zz
-
-#EXTINF:-1 group-title="Sport TV", SPORT TV 5
-https://cloudserver.server-cdn-streaming.com/live-player/23/live.m3u8?zz
-
-####True Sports####
-
-#EXTINF:-1 group-title="True Sports", True Sports 1HD
-https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8?zz
-
-#EXTINF:-1 group-title="True Sports", True Sports 2 HD
-https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8?zz
-
-#EXTINF:-1 group-title="True Sports", True Sports 3 HD
-https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8?zz
-
-#EXTINF:-1 group-title="True Sports", True Visions 1
-https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8?zz
-
-#EXTINF:-1 group-title="True Sports", True Visions 2
-https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8?zz
-
-####Eleven Sports####
-
-#EXTINF:-1 group-title="Eleven Sports", Eleven 1 Sports
-http://www.magicoiptv.org:8080/hasan/hasan123/455
-
-#EXTINF:-1 group-title="Eleven Sports", Eleven 2 Sports
-http://www.magicoiptv.org:8080/hasan/hasan123/458
-
-#EXTINF:-1 group-title="Eleven Sports", Eleven 3 Sports
-http://www.magicoiptv.org:8080/hasan/hasan123/461
-
-#EXTINF:-1 group-title="Eleven Sports", Eleven 4 Sports
-http://www.magicoiptv.org:8080/hasan/hasan123/464
-
-#EXTINF:-1 group-title="Eleven Sports", Eleven 5 Sports
-http://www.magicoiptv.org:8080/hasan/hasan123/467
-
-#EXTINF:-1 group-title="Eleven Sports", Eleven 6 Sports
-http://www.magicoiptv.org:8080/hasan/hasan123/470
 
 ####Arab Sports####
 
@@ -615,15 +464,44 @@ http://77.247.109.101/hls/A1.m3u8
 #EXTINF:-1 group-title="All Sports", SKY Sport 2
 http://89.187.185.100/SKY_SPORTS_FOOTBALL/index.m3u8
 
-#EXTINF:-1 group-title="All Sports", BTsport 1HD
+####beIN Sports####
+
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 1 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28918
+
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 2 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28917
+
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 3 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28916
+
+####BT Sports####
+
+#EXTINF:-1 group-title="BT Sports", BT Sport 1HD
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 
-#EXTINF:-1 group-title="All Sports", BTSport 2HD
+#EXTINF:-1 group-title="BT Sports", BT Sport 2HD
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 
-#####Italy Sports#####
+#EXTINF:-1 group-title="BT Sports", BT Sport Extra 1
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28844
 
-#EXTINF:-1 group-title="Italy Sports", 
+#EXTINF:-1 group-title="BT Sports", BT Sport Extra 2
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28843
+
+#EXTINF:-1 group-title="BT Sports", BT Sport Extra 3
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28842
+
+#EXTINF:-1 group-title="BT Sports", BT Sport Extra 4
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28841
+
+#EXTINF:-1 group-title="BT Sports", BT Sport Extra 5
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28939
+
+#EXTINF:-1 group-title="BT Sports", BT Sports Extra 6
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28938
+
+#####Italy Sports#####
 
 #EXTINF:-1 group-title="Italy Sports", Euro Sport 1 HD
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2757
@@ -631,26 +509,11 @@ http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2757
 #EXTINF:-1 group-title="Italy Sports", Euro Sport 2 HD
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2756
 
-#EXTINF:-1 group-title="Italy Sports", Dazn1 Sat
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2743
-
 #EXTINF:-1 group-title="Italy Sports", Rai Sport+
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2736
 
 #EXTINF:-1 group-title="Italy Sports", RTV Sport
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2698
-
-#EXTINF:-1 group-title="Italy Sports", Sky Sport 24
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2696
-
-#EXTINF:-1 group-title="Italy Sports", SKY SPORT F1 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2695
-
-#EXTINF:-1 group-title="Italy Sports", Sky Sport 1 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2694
-
-#EXTINF:-1 group-title="Italy Sports", Sky Sport 2 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2693
 
 #EXTINF:-1 group-title="Italy Sports", MS Motor TV
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2692
@@ -664,77 +527,11 @@ http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2689
 #EXTINF:-1 group-title="Italy Sports", Super Tennis HD
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2688
 
-#EXTINF:-1 group-title="Italy Sports", Dazn1 Sat | SD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28471
-
-#EXTINF:-1 group-title="Italy Sports", Sky Sport Serie A | SD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28468
-
-#EXTINF:-1 group-title="Italy Sports", Sky Sport MotoGP | SD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28465
-
-#EXTINF:-1 group-title="Italy Sports", Sky Sport NBA HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28457
-
-#EXTINF:-1 group-title="Italy Sports", Sky Sport Collection HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28448
-
-#EXTINF:-1 group-title="Italy Sports", Sky Sport 251
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28447
-
-#EXTINF:-1 group-title="Italy Sports", Sky Sport 252
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28446
-
-#EXTINF:-1 group-title="Italy Sports", Sky Sport 253
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28445
-
-#EXTINF:-1 group-title="Italy Sports", Sky Sport 254
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28444
-
-#EXTINF:-1 group-title="Italy Sports", Sky Sport 255
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28443
-
-#EXTINF:-1 group-title="Italy Sports", DAZN 1 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28415
-
-#EXTINF:-1 group-title="Italy Sports", DAZN 2 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28414
-
-#EXTINF:-1 group-title="Italy Sports", DAZN 3 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28413
-
-#EXTINF:-1 group-title="Italy Sports", DAZN 4 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28412
-
-#EXTINF:-1 group-title="Italy Sports", DAZN 5 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28411
-
-#EXTINF:-1 group-title="Italy Sports", DAZN 6 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28410
-
-#EXTINF:-1 group-title="Italy Sports", DAZN 7 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28409
-
-#EXTINF:-1 group-title="Italy Sports", DAZN 8 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28408
-
-#EXTINF:-1 group-title="Italy Sports", DAZN 9 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28407
-
-#EXTINF:-1 group-title="Italy Sports", Rai Sport 3 (attivi solo ad evento in corso)
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28309
-
 #EXTINF:-1 group-title="Italy Sports", Rai Sport 2 (attivi solo ad evento in corso)
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28308
 
-#EXTINF:-1 group-title="Italy Sports", Sky Sport Football HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28307
-
-#EXTINF:-1 group-title="Italy Sports", Sky Sport Arena FHD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28306
-
-#EXTINF:-1 group-title="Italy Sports", Rai Sport + FHD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28297
+#EXTINF:-1 group-title="Italy Sports", Rai Sport 3 (attivi solo ad evento in corso)
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28309
 
 #EXTINF:-1 group-title="Italy Sports", Rai Sport
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28293
@@ -742,12 +539,89 @@ http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28293
 #EXTINF:-1 group-title="Italy Sports", Supercalcio HD
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28285
 
-#EXTINF:-1 group-title="Italy Sports", Sky Calcio 1
+
+####Sky Sports####
+
+#EXTINF:-1 group-title="Sky Sports", Sky Sport 24
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2696
+
+#EXTINF:-1 group-title="Sky Sports", SKY SPORT F1 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2695
+
+#EXTINF:-1 group-title="Sky Sports", Sky Sport 1 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2694
+
+#EXTINF:-1 group-title="Sky Sports", Sky Sport 2 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2693
+
+#EXTINF:-1 group-title="Sky Sports", Sky Sport MotoGP | SD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28465
+
+#EXTINF:-1 group-title="Sky Sports", Sky Sport NBA HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28457
+
+#EXTINF:-1 group-title="Sky Sports", Sky Sport Collection HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28448
+
+#EXTINF:-1 group-title="Sky Sports", Sky Sport 251
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28447
+
+#EXTINF:-1 group-title="Sky Sports", Sky Sport 252
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28446
+
+#EXTINF:-1 group-title="Sky Sports", Sky Sport 253
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28445
+
+#EXTINF:-1 group-title="Sky Sports", Sky Sport 254
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28444
+
+#EXTINF:-1 group-title="Sky Sports", Sky Sport 255
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28443
+
+#EXTINF:-1 group-title="Sky Sports", Sky Sport Arena FHD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28306
+
+#EXTINF:-1 group-title="Sky Sports", Sky Sport Football HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28307
+
+#EXTINF:-1 group-title="Sky Sports", Sky Calcio 1
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28284
 
-#EXTINF:-1 group-title="Italy Sports", Sky Calcio 2
+#EXTINF:-1 group-title="Sky Sports", Sky Calcio 2
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28282
 
+#EXTINF:-1 group-title="Sky Sports", Sky Sport Serie A
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28468
 
+####Dazn Sports####
 
+#EXTINF:-1 group-title="Dazn Sports", DAZN 1 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28415
+
+#EXTINF:-1 group-title="Dazn Sports", DAZN 2 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28414
+
+#EXTINF:-1 group-title="Dazn Sports", DAZN 3 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28413
+
+#EXTINF:-1 group-title="Dazn Sports", DAZN 4 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28412
+
+#EXTINF:-1 group-title="Dazn Sports", DAZN 5 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28411
+
+#EXTINF:-1 group-title="Dazn Sports", DAZN 6 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28410
+
+#EXTINF:-1 group-title="Dazn Sports", DAZN 7 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28409
+
+#EXTINF:-1 group-title="Dazn Sports", DAZN 8 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28408
+
+#EXTINF:-1 group-title="Dazn Sports", DAZN 9 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28407
+
+#EXTINF:-1 group-title="Dazn Sports", Dazn1 Sat
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28471
 
