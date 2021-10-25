@@ -621,3 +621,133 @@ http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 group-title="All Sports", BTSport 2HD
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 
+#####Italy Sports#####
+
+#EXTINF:-1 group-title="Italy Sports", 
+
+#EXTINF:-1 group-title="Italy Sports", Euro Sport 1 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2757
+
+#EXTINF:-1 group-title="Italy Sports", Euro Sport 2 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2756
+
+#EXTINF:-1 group-title="Italy Sports", Dazn1 Sat
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2743
+
+#EXTINF:-1 group-title="Italy Sports", Rai Sport+
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2736
+
+#EXTINF:-1 group-title="Italy Sports", RTV Sport
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2698
+
+#EXTINF:-1 group-title="Italy Sports", Sky Sport 24
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2696
+
+#EXTINF:-1 group-title="Italy Sports", SKY SPORT F1 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2695
+
+#EXTINF:-1 group-title="Italy Sports", Sky Sport 1 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2694
+
+#EXTINF:-1 group-title="Italy Sports", Sky Sport 2 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2693
+
+#EXTINF:-1 group-title="Italy Sports", MS Motor TV
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2692
+
+#EXTINF:-1 group-title="Italy Sports", Unire Sat
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2691
+
+#EXTINF:-1 group-title="Italy Sports", SportItalia Motori HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2689
+
+#EXTINF:-1 group-title="Italy Sports", Super Tennis HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2688
+
+#EXTINF:-1 group-title="Italy Sports", Dazn1 Sat | SD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28471
+
+#EXTINF:-1 group-title="Italy Sports", Sky Sport Serie A | SD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28468
+
+#EXTINF:-1 group-title="Italy Sports", Sky Sport MotoGP | SD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28465
+
+#EXTINF:-1 group-title="Italy Sports", Sky Sport NBA HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28457
+
+#EXTINF:-1 group-title="Italy Sports", Sky Sport Collection HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28448
+
+#EXTINF:-1 group-title="Italy Sports", Sky Sport 251
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28447
+
+#EXTINF:-1 group-title="Italy Sports", Sky Sport 252
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28446
+
+#EXTINF:-1 group-title="Italy Sports", Sky Sport 253
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28445
+
+#EXTINF:-1 group-title="Italy Sports", Sky Sport 254
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28444
+
+#EXTINF:-1 group-title="Italy Sports", Sky Sport 255
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28443
+
+#EXTINF:-1 group-title="Italy Sports", DAZN 1 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28415
+
+#EXTINF:-1 group-title="Italy Sports", DAZN 2 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28414
+
+#EXTINF:-1 group-title="Italy Sports", DAZN 3 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28413
+
+#EXTINF:-1 group-title="Italy Sports", DAZN 4 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28412
+
+#EXTINF:-1 group-title="Italy Sports", DAZN 5 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28411
+
+#EXTINF:-1 group-title="Italy Sports", DAZN 6 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28410
+
+#EXTINF:-1 group-title="Italy Sports", DAZN 7 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28409
+
+#EXTINF:-1 group-title="Italy Sports", DAZN 8 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28408
+
+#EXTINF:-1 group-title="Italy Sports", DAZN 9 HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28407
+
+#EXTINF:-1 group-title="Italy Sports", Rai Sport 3 (attivi solo ad evento in corso)
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28309
+
+#EXTINF:-1 group-title="Italy Sports", Rai Sport 2 (attivi solo ad evento in corso)
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28308
+
+#EXTINF:-1 group-title="Italy Sports", Sky Sport Football HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28307
+
+#EXTINF:-1 group-title="Italy Sports", Sky Sport Arena FHD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28306
+
+#EXTINF:-1 group-title="Italy Sports", Rai Sport + FHD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28297
+
+#EXTINF:-1 group-title="Italy Sports", Rai Sport
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28293
+
+#EXTINF:-1 group-title="Italy Sports", Supercalcio HD
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28285
+
+#EXTINF:-1 group-title="Italy Sports", Sky Calcio 1
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28284
+
+#EXTINF:-1 group-title="Italy Sports", Sky Calcio 2
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28282
+
+
+
+
