@@ -31,13 +31,13 @@ https://etslive-2-vidio-com.akamaized.net/exp=1635146319~acl=/hls-b/ingest_6686_
 https://etslive-2-vidio-com.akamaized.net/exp=1635066142~acl=/hls-p/ingest_6786_*/*~hmac=7393d8f708fcb4166b1fde7b474402e9bbdf1be84905a0364da59cdb60bfc70a/hls-p/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1635146056~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=66585103a0d9189f3051c6b4aa532a01ecb1ea8da815a1d693b23a88a802ac01/vp9/205_stream.mpd
+http://tevemobile.us.to/sc/play.m3u8?id=205
 
 #EXTINF:-1 group-title=" Indo Sports", SCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1635146200~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=087c427f4329a8c990d9030955e42f2888de545b73e9c7bdcf988c0967431ac7/vp9/204_stream.mpd
+http://tevemobile.us.to/sc/play.m3u8?id=204
 
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
-https://etslive-2-vidio-com.akamaized.net/exp=1635066007~acl=/hls-p/ingest_206_*/*~hmac=a10c3b254ac4d4a86f5e39f57dcc5adc37de98327acef8e773a5a9320f8665a8/hls-p/ingest_206_360p/index.m3u8
+http://tevemobile.us.to/sc/play.m3u8?id=206
 
 #EXTINF:-1 group-title="Indo Sports", LFC TV
 https://etslive-2-vidio-com.akamaized.net/exp=1635066034~acl=/hls-p/ingest_7916_*/*~hmac=32b5f5fbdb23645081c710bf9b81b3e2bd1c38a2d58d056059074da4330b1a50/hls-p/ingest_7916_360p/index.m3u8
@@ -198,7 +198,7 @@ https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 ####Hiburan####
 
 #EXTINF:-1 group-title="Hiburan",  Musica Studio
-https://etslive-2-vidio-com.akamaized.net/exp=1635043589~acl=/hls-p/ingest_7619_*/*~hmac=a978a3c68dd1a25d9a80af955013cd655a6c9652227f7e3cacb663097f432eeb/hls-p/ingest_7619_480p/index.m3u8
+http://tevemobile.us.to/sc/play.m3u8?id=7619
 
 #EXTINF:-1 group-title="Hiburan",  Citra Dangdut
 https://etslive-2-vidio-com.akamaized.net/exp=1635043617~acl=/hls-b/ingest_6587_*/*~hmac=97880147533477e8c3ac12efc6704d66074a858dbcc1f41f26064e5197e21401/hls-b/ingest_6587_360p/index.m3u8
@@ -606,14 +606,14 @@ http://31.220.41.88:8081/live/fr-sfr2.stream/playlist.m3u8
 http://31.220.41.88:8081/live/fr-sfr3.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="All Sports", SKYSport 1
-http://77.247.109.101/hls/A1.m3u8?zz
+http://77.247.109.101/hls/A1.m3u8
 
 #EXTINF:-1 group-title="All Sports", SKY Sport 2
-http://89.187.185.100/SKY_SPORTS_FOOTBALL/index.m3u8?zz
+http://89.187.185.100/SKY_SPORTS_FOOTBALL/index.m3u8
 
 #EXTINF:-1 group-title="All Sports", BTsport 1HD
-http://93.152.174.144:4000/play/btsport1/index.m3u8?zz
+http://93.152.174.144:4000/play/btsport1/index.m3u8
 
 #EXTINF:-1 group-title="All Sports", BTSport 2HD
-http://93.152.174.144:4000/play/btsport2/index.m3u8?zz
+http://93.152.174.144:4000/play/btsport2/index.m3u8
 
