@@ -40,7 +40,11 @@ http://tevemobile.us.to/sc/play.m3u8?id=204
 http://tevemobile.us.to/sc/play.m3u8?id=206
 
 #EXTINF:-1 group-title="Indo Sports", LFC TV
-https://etslive-2-vidio-com.akamaized.net/exp=1635066034~acl=/hls-p/ingest_7916_*/*~hmac=32b5f5fbdb23645081c710bf9b81b3e2bd1c38a2d58d056059074da4330b1a50/hls-p/ingest_7916_360p/index.m3u8
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28949
+
+#EXTINF:-1 group-title="Indo Sports", MU TV
+http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2895
+
 
 ####Indo TV####
 
