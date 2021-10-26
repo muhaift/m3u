@@ -22,13 +22,13 @@ https://liveanevia.mncnow.id/live/eds/MNCsports-adaLiga1/sa_dash_vmx/MNCsports-a
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1635146294~acl=/hls-p/ingest_6685_*/*~hmac=a9ee3e7b3d4417c585523838ea65023461e022f8cc4e2ab5d6b9a963c00c36dc/hls-p/ingest_6685_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1635267060~acl=/hls-b/ingest_6685_*/*~hmac=70b9b9faaaa4dce5d6db9267927454660f113f2bef5d5a049aabec25bced1596/hls-b/ingest_6685_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1635146319~acl=/hls-b/ingest_6686_*/*~hmac=f8aa43c93d8b64771d914da7c2ed3f5e8146016888684d8fcb2b74b16a6584eb/hls-b/ingest_6686_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1635267102~acl=/hls-p/ingest_6686_*/*~hmac=e59aef90ef8cb980046954e25e6f0280f8e2c34bfd5cba53a619fd4cb82ffa3a/hls-p/ingest_6686_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1635066142~acl=/hls-p/ingest_6786_*/*~hmac=7393d8f708fcb4166b1fde7b474402e9bbdf1be84905a0364da59cdb60bfc70a/hls-p/ingest_6786_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1635267127~acl=/hls-p/ingest_6786_*/*~hmac=aeb220e097056c583f8c38ebb54ce53cc16c33bad617ebe77da12101e6b28531/hls-p/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
 http://tevemobile.us.to/sc/play.m3u8?id=205
@@ -38,6 +38,9 @@ http://tevemobile.us.to/sc/play.m3u8?id=204
 
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
 http://tevemobile.us.to/sc/play.m3u8?id=206
+
+#EXTINF:-1 group-title=" Indo Sports", Indonesia VS Australia
+http://etslive-2-vidio-com.akamaized.net/exp=1635266661~acl=/vp9/8132_stream.mpd!/vp9/8132/*~hmac=5f17a74bd4f59a0bb9a1435b25e2a72b7f368ca2c0ee1551fe068bad97fbc984/vp9/8132_stream.mpd
 
 ####Indo TV####
 
