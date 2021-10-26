@@ -442,31 +442,117 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/rifky_oku.m
 #EXTINF:-1 group-title="All Sports", SPOTV
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
 
-#EXTINF:-1 group-title="All Sports", RMC Sport 1 SD
-http://31.220.41.88:8081/live/fr-sfr1.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="All Sports", RMC Sport 2 SD
-http://31.220.41.88:8081/live/fr-sfr2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="All Sports", RMC Sport 3 SD
-http://31.220.41.88:8081/live/fr-sfr3.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="All Sports", LFC TV
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28949
 
 #EXTINF:-1 group-title="All Sports", MU TV
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2895
 
+####RMC Sports####
+
+#EXTINF:-1 group-title="RMC Sports", RMC Sport 1
+http://rv.flysat.live:80/307211617365/307211617365/79038
+
+#EXTINF:-1 group-title="RMC Sports", RMC Sport 2
+http://rv.flysat.live:80/307211617365/307211617365/79037
+
+#EXTINF:-1 group-title="RMC Sports", RMC Sport 3
+http://rv.flysat.live:80/307211617365/307211617365/79036
+
+#EXTINF:-1 group-title="RMC Sports", RMC Sport  4
+http://rv.flysat.live:80/307211617365/307211617365/79035
+
+#EXTINF:-1 group-title="RMC Sports", RMC Sport 5
+http://rv.flysat.live:80/307211617365/307211617365/79034
+
+#EXTINF:-1 group-title="RMC Sports", RMC Sport 6
+http://rv.flysat.live:80/307211617365/307211617365/79033
+
+#EXTINF:-1 group-title="RMC Sports", RMC Sport 7
+http://rv.flysat.live:80/307211617365/307211617365/79032
+
+#EXTINF:-1 group-title="RMC Sports", RMC Sport 8
+http://rv.flysat.live:80/307211617365/307211617365/79031
+
+#EXTINF:-1 group-title="RMC Sports", RMC Sport 9
+http://rv.flysat.live:80/307211617365/307211617365/79030
+
+#EXTINF:-1 group-title="RMC Sports", RMC Sport 10
+http://rv.flysat.live:80/307211617365/307211617365/79029
+
+#EXTINF:-1 group-title="RMC Sports", RMC Sport 11
+http://rv.flysat.live:80/307211617365/307211617365/79028
+
+#EXTINF:-1 group-title="RMC Sports", RMC Sport 12
+http://rv.flysat.live:80/307211617365/307211617365/79027
+
+#EXTINF:-1 group-title="RMC Sports", RMC Sport 13
+http://rv.flysat.live:80/307211617365/307211617365/79026
+
+#EXTINF:-1 group-title="RMC Sports", RMC Sport 14
+http://rv.flysat.live:80/307211617365/307211617365/79025
+
+#EXTINF:-1 group-title="RMC Sports", RMC Sport 15
+http://rv.flysat.live:80/307211617365/307211617365/79024
+
 ####beIN Sports####
 
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 1 HD
+#EXTINF:-1 group-title="beIN Sports", UK | beIN Sports 1 HD
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28918
 
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 2 HD
+#EXTINF:-1 group-title="beIN Sports", UK | beIN Sports 2 HD
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28917
 
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 3 HD
+#EXTINF:-1 group-title="beIN Sports", UK | beIN Sports 3 HD
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28916
+
+####beIN Sports SD####
+
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 1 Premium
+http://rv.flysat.live:80/307211617365/307211617365/181720
+
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 2 Premium
+http://rv.flysat.live:80/307211617365/307211617365/181717
+
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 3 Premium
+http://rv.flysat.live:80/307211617365/307211617365/181714
+
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 1
+http://rv.flysat.live:80/307211617365/307211617365/181706
+
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 2
+http://rv.flysat.live:80/307211617365/307211617365/181703
+
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 3
+http://rv.flysat.live:80/307211617365/307211617365/181700
+
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 4
+http://rv.flysat.live:80/307211617365/307211617365/181697
+
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 5
+http://rv.flysat.live:80/307211617365/307211617365/181694
+
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 6
+http://rv.flysat.live:80/307211617365/307211617365/181691
+
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 7
+http://rv.flysat.live:80/307211617365/307211617365/181688
+
+#EXTINF:-1 group-title="beIN Sports SD", Bein Sport Xtra 1
+http://rv.flysat.live:80/307211617365/307211617365/181710
+
+#EXTINF:-1 group-title="beIN Sports SD", Bein Sport Xtra 2
+http://rv.flysat.live:80/307211617365/307211617365/181709
+
+#EXTINF:-1 group-title="beIN Sports SD", Bein Sport 1 English
+http://rv.flysat.live:80/307211617365/307211617365/181685
+
+#EXTINF:-1 group-title="beIN Sports SD", Bein Sport 2 English
+http://rv.flysat.live:80/307211617365/307211617365/181683
+
+#EXTINF:-1 group-title="beIN Sports SD", Bein Sport 3 English
+http://rv.flysat.live:80/307211617365/307211617365/181681
+
 
 ####BT Sports####
 
