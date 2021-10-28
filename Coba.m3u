@@ -39,9 +39,6 @@ http://tevemobile.us.to/sc/play.m3u8?id=204
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
 http://tevemobile.us.to/sc/play.m3u8?id=206
 
-#EXTINF:-1 group-title=" Indo Sports", BRI Liga 1
-http://etslive-2-vidio-com.akamaized.net/exp=1635269994~acl=/vp9/8014_stream.mpd!/vp9/8014/*~hmac=9346284b173e35d3f3180ec4837e8333314d0096d5e481d86bc813b2d45203ab/vp9/8014_stream.mpd
-
 ####Indo TV####
 
 #EXTINF:-1 group-title="Indo TV", Trans TV
@@ -201,19 +198,25 @@ https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 http://tevemobile.us.to/sc/play.m3u8?id=7619
 
 #EXTINF:-1 group-title="Hiburan",  Citra Dangdut
-https://etslive-2-vidio-com.akamaized.net/exp=1635043617~acl=/hls-b/ingest_6587_*/*~hmac=97880147533477e8c3ac12efc6704d66074a858dbcc1f41f26064e5197e21401/hls-b/ingest_6587_360p/index.m3u8
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=citradangdut&bandwidth=default&sync=0
 
 #EXTINF:-1 group-title="Hiburan", Citra Drama
-https://etslive-2-vidio-com.akamaized.net/exp=1635043646~acl=/hls-p/ingest_6401_*/*~hmac=ffdd6f609ecfbc345fd7059b627732cb90ee0c0900008b4c865e10b7682d7863/hls-p/ingest_6401_360p/index.m3u8
+http://gpc.my.id/vidio/citra-drama.m3u8
 
 #EXTINF:-1 group-title="Hiburan", Citra Entertainment
-https://etslive-2-vidio-com.akamaized.net/exp=1635043672~acl=/hls-p/ingest_6402_*/*~hmac=7a02801ee43edd0c22248124627ce4a4b249dcbb011a817d454a2d60575f8fc9/hls-p/ingest_6402_360p/index.m3u8
+http://gpc.my.id/vidio/citra-entertainment.m3u8
 
-#EXTINF:-1 group-title="Hiburan",  Citra Bioskop
-https://etslive-2-vidio-com.akamaized.net/exp=1635043698~acl=/hls-b/ingest_6684_*/*~hmac=25575f1af9455fa9acfafdb625fbac5ad4e185b0072c1e0490cc42a2b72f0acd/hls-b/ingest_6684_360p/index.m3u8
+#EXTINF:-1 group-title="Hiburan", Citra Bioskop
+http://gpc.my.id/vidio/citra-bioskop.m3u8
 
-#EXTINF:-1 group-title="Hiburan",  Citra Muslim
-https://etslive-2-vidio-com.akamaized.net/exp=1635043751~acl=/hls-p/ingest_6678_*/*~hmac=d5bf03d4c6d78b2a42457f5263db15c076d14595810c8b5d96da96bb6b2563ab/hls-p/ingest_6678_360p/index.m3u8
+#EXTINF:-1 group-title="Hiburan", Citra Muslim
+http://gpc.my.id/vidio/citra-muslim.m3u8
+
+#EXTINF:-1 group-title="Hiburan", Bioskop Indonesia
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
+
+#EXTINF:-1 group-title="Hiburan", Sinema Indonesia
+http://rr.dens.tv/h/h155/index2.m3u8
 
 ####Japan####
 
@@ -222,6 +225,8 @@ https://etslive-2-vidio-com.akamaized.net/exp=1635043751~acl=/hls-p/ingest_6678_
 #EXTINF:-1 group-title="Japan",  Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Japan",  Aniplus
 https://liveanevia.mncnow.id/live/eds/Aniplus/sa_dash_vmx/Aniplus.mpd
 
