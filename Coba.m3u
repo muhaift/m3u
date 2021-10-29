@@ -39,6 +39,9 @@ http://tevemobile.us.to/sc/play.m3u8?id=204
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
 http://tevemobile.us.to/sc/play.m3u8?id=206
 
+#EXTINF:-1 group-title="Indo Sports", AFC Live
+http://etslive-2-vidio-com.akamaized.net/exp=1635522572~acl=/vp9/8132_stream.mpd!/vp9/8132/*~hmac=b62b6c924a647c277e0a9b97f2f4b6d9cac449a6cd4194643e0c0506d4c98a21/vp9/8132_stream.mpd
+
 ####Indo TV####
 
 #EXTINF:-1 group-title="Indo TV", Trans TV
