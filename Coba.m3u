@@ -241,9 +241,6 @@ http://rr.dens.tv/h/h19/index.m3u8
 #EXTINF:-1 group-title="HBO GO", HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
-#EXTINF:-1 group-title="HBO GO", HBO 1
-https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="HBO GO", HBO Family
@@ -355,9 +352,6 @@ https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Movies", Zee Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/tracks-v3a1/index.m3u8
 
-#EXTINF:-1 group-title="Movies", Sinema Indonesia
-http://rr.dens.tv/h/h155/index2.m3u8
-
 #####Knowledge#####
 
 #EXTINF:-1 group-title="Knowlegdes", Animal Planet
@@ -432,6 +426,13 @@ http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28949
 #EXTINF:-1 group-title="All Sports", MU TV
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2895
 
+#EXTINF:-1 group-title="All Sports", Eleven Sports 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+
+#EXTINF:-1 group-title="All Sports", Eleven Sports 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+
+
 ####RMC Sports####
 
 #EXTINF:-1 group-title="RMC Sports", RMC Sport 1
@@ -498,9 +499,6 @@ http://iptv.tvmalaysia.cc:80/penang189/penang189/9020
 
 #EXTINF:-1 group-title="Astro Sports", ASSP 4
 http://iptv.tvmalaysia.cc:80/penang189/penang189/9026
-
-#EXTINF:-1 group-title="Astro Sports", ASSP 5
-http://51.79.147.95:8080/live/junior/junior/398.m3u8?token=SRdZUUFeRwtAAwVZVQ9SUFMHVgdaVgIKBgQLAwNQVgJRAFcIVwZVVwcQHhoSTUVTA15sDwZECwBaXhUWRRJVRm1cVRIIFFQJVgMQFENNXlsHEQlXVFUFClNVAAUBTRJEW1ETChADUwhbEB4aBEFDUxBdUgo9AlRFCgVcFgoPRVheGRNfXGkBVA9TXFxDAxUGQB8RDxEWEwkNE1VYHENSXUZHUERXFF8TUwQFDEMVFVUNRl0SEB8TCUEvfRYcQ1VMRlBfQ1tZCxNYEEZLQxUVXxFsQQMREkNWAgtcRhJbEgQQGRNdU046Ug1cXF0CTV5ZDEARXEBXEx9BC1ZaWRVfRm1FWFQQDEcDWwcACUNE
 
 ####beIN Sports####
 
@@ -586,23 +584,6 @@ http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28939
 
 #EXTINF:-1 group-title="BT Sports", BT Sports Extra 6
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28938
-
-####Eleven Sports####
-
-#EXTINF:-1 group-title="Eleven Sports", Eleven Sports 1
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-
-#EXTINF:-1 group-title="Eleven Sports", Eleven Sports 2
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-
-#EXTINF:-1 group-title="Eleven Sports", Eleven Sports 3
-http://mantul.biz.id:8888/020913/020913/8409
-
-#EXTINF:-1 group-title="Eleven Sports", Eleven Sports 4
-http://mantul.biz.id:8888/020913/020913/757
-
-#EXTINF:-1 group-title="Eleven Sports", Eleven Sports 5
-http://mantul.biz.id:8888/020913/020913/8673
 
 #####Italy Sports#####
 
