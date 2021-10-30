@@ -288,12 +288,6 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTINF:-1 group-title="Movies", Cinema World
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
-#EXTINF:-1 group-title="Movies", Cinema Europe
-http://playlist.urfan.web.id/uq2663/h/h18/index.m3u8
-
-#EXTINF:-1 group-title="Movies", IMC
-http://topwin-tv.my.id/2/master.m3u8?id=imc
-
 #EXTINF:-1 group-title="Movies", AVA Family
 http://51.210.199.5/hls/stream.m3u8
 
@@ -337,20 +331,6 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Movies", Hits Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Movies", Zee Bioskop
-http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
-
-#EXTINF:-1 group-title="Movies", Zee Action 
-https://f8e7y4c6.ssl.hwcdn.net/action/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 group-title="Movies", Zee Cafe 
-https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 group-title="Movies", Zee Cinema
-https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/tracks-v3a1/index.m3u8
 
 #####Knowledge#####
 
