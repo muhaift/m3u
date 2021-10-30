@@ -22,13 +22,13 @@ https://liveanevia.mncnow.id/live/eds/MNCsports-adaLiga1/sa_dash_vmx/MNCsports-a
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1635560455~acl=/hls-b/ingest_6685_*/*~hmac=118371a7f4673b8b385f6f975edf4cc8f6b46a102ea065a595d8fb2e059b12dc/hls-b/ingest_6685_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1635604513~acl=/hls-p/ingest_6685_*/*~hmac=f4c205009c74e255f3ce976244001dd8545d4f0271ea0ebd6e808bd50b6fe778/hls-p/ingest_6685_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1635560492~acl=/hls-p/ingest_6686_*/*~hmac=9ca95138d3a42cd3ad4efa4364513e7d4ec0d51e3fbd1723f73ee5029a67d220/hls-p/ingest_6686_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1635604541~acl=/hls-p/ingest_6686_*/*~hmac=a816939ce46caeff100d006608a6c54333172c34c3e6169785ff9fc064f702ba/hls-p/ingest_6686_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1635560519~acl=/hls-b/ingest_6786_*/*~hmac=d53fea68ffdc81f483f913fda08d92c6a11fb2b9c2f7514dab222576b4b0cdeb/hls-b/ingest_6786_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1635604567~acl=/hls-p/ingest_6786_*/*~hmac=c3d8e1de00b759ddb7d153df623fe1033f8cb012e59e8ba6abcb7b388833e53e/hls-p/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
 http://tevemobile.us.to/sc/play.m3u8?id=205
@@ -276,24 +276,6 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 group-title="Movies", AXN
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#EXTINF:-1 group-title="Movies", &Pictures 
-https://f8e7y4c6.ssl.hwcdn.net/andpicssd/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="Movies", &Prive
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 group-title="Movies", &Flix
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 group-title="Movies", Flik
-http://topwin-tv.my.id/2/master.m3u8?id=flik
-
-#EXTINF:-1 group-title="Movies", Galaxy
-http://topwin-tv.my.id/2/master.m3u8?id=galaxy
-
-#EXTINF:-1 group-title="Movies", Galaxy Premium
-http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Movies", KIX
@@ -320,12 +302,6 @@ http://51.210.199.5/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Movies", AVA Series
 http://51.210.199.4/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Movies", My Cinema
-http://rr.dens.tv/h/h90/index.m3u8
-
-#EXTINF:-1 group-title="Movies", My Cinema Asia
-http://rr.dens.tv/h/h93/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -503,6 +479,29 @@ http://rv.flysat.live:80/307211617365/307211617365/79025
 #EXTINF:-1 group-title="RMC Sports", RMC Sport 15
 http://rv.flysat.live:80/307211617365/307211617365/79024
 
+####Astro Super Sport####
+
+#EXTINF:-1 group-title="Astro Sports", Astro Arena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+
+#EXTINF:-1 group-title="Astro Sports", Astro Arena 2
+http://iptv.tvmalaysia.cc:80/penang189/penang189/9028
+
+#EXTINF:-1 group-title="Astro Sports", ASSP 1
+http://iptv.tvmalaysia.cc:80/penang189/penang189/9024
+
+#EXTINF:-1 group-title="Astro Sports", ASSP 2
+http://iptv.tvmalaysia.cc:80/penang189/penang189/9025
+
+#EXTINF:-1 group-title="Astro Sports", ASSP 3
+http://iptv.tvmalaysia.cc:80/penang189/penang189/9020
+
+#EXTINF:-1 group-title="Astro Sports", ASSP 4
+http://iptv.tvmalaysia.cc:80/penang189/penang189/9026
+
+#EXTINF:-1 group-title="Astro Sports", ASSP 5
+http://51.79.147.95:8080/live/junior/junior/398.m3u8?token=SRdZUUFeRwtAAwVZVQ9SUFMHVgdaVgIKBgQLAwNQVgJRAFcIVwZVVwcQHhoSTUVTA15sDwZECwBaXhUWRRJVRm1cVRIIFFQJVgMQFENNXlsHEQlXVFUFClNVAAUBTRJEW1ETChADUwhbEB4aBEFDUxBdUgo9AlRFCgVcFgoPRVheGRNfXGkBVA9TXFxDAxUGQB8RDxEWEwkNE1VYHENSXUZHUERXFF8TUwQFDEMVFVUNRl0SEB8TCUEvfRYcQ1VMRlBfQ1tZCxNYEEZLQxUVXxFsQQMREkNWAgtcRhJbEgQQGRNdU046Ug1cXF0CTV5ZDEARXEBXEx9BC1ZaWRVfRm1FWFQQDEcDWwcACUNE
+
 ####beIN Sports####
 
 #EXTINF:-1 group-title="beIN Sports", UK | beIN Sports 1 HD
@@ -587,6 +586,23 @@ http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28939
 
 #EXTINF:-1 group-title="BT Sports", BT Sports Extra 6
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28938
+
+####Eleven Sports####
+
+#EXTINF:-1 group-title="Eleven Sports", Eleven Sports 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+
+#EXTINF:-1 group-title="Eleven Sports", Eleven Sports 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+
+#EXTINF:-1 group-title="Eleven Sports", Eleven Sports 3
+http://mantul.biz.id:8888/020913/020913/8409
+
+#EXTINF:-1 group-title="Eleven Sports", Eleven Sports 4
+http://mantul.biz.id:8888/020913/020913/757
+
+#EXTINF:-1 group-title="Eleven Sports", Eleven Sports 5
+http://mantul.biz.id:8888/020913/020913/8673
 
 #####Italy Sports#####
 
