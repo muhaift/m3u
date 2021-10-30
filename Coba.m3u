@@ -384,13 +384,13 @@ http://gpc.my.id/vidio/love-nature.m3u8
 ####Sony Ten###
 
 #EXTINF:-1 group-title="Sony TEN", Sony TEN 1
-https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8?zz
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 
 #EXTINF:-1 group-title="Sony TEN", Sony TEN 2
-https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8?zz
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 
 #EXTINF:-1 group-title="Sony TEN", Sony TEN 3
-https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8?zz
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 
 #EXTINF:-1 group-title="Sony TEN", Sony Six
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
@@ -419,12 +419,6 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/rifky_oku.m
 
 #EXTINF:-1 group-title="All Sports", SPOTV
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
-
-#EXTINF:-1 group-title="All Sports", LFC TV
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28949
-
-#EXTINF:-1 group-title="All Sports", MU TV
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2895
 
 #EXTINF:-1 group-title="All Sports", Eleven Sports 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
@@ -503,194 +497,54 @@ http://iptv.tvmalaysia.cc:80/penang189/penang189/9026
 ####beIN Sports SD####
 
 #EXTINF:-1 group-title="beIN Sports SD", beIN Sports 1 Premium
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80079
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80155
 
 #EXTINF:-1 group-title="beIN Sports SD", beIN Sports 2 Premium
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80078
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80154
 
 #EXTINF:-1 group-title="beIN Sports SD", beIN Sports 3 Premium
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80077
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80153
 
 #EXTINF:-1 group-title="beIN Sports SD", beIN Sports 1
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80076
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80152
 
 #EXTINF:-1 group-title="beIN Sports SD", beIN Sports 2
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80075
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80151
 
 #EXTINF:-1 group-title="beIN Sports SD", beIN Sports 3
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80074
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80150
 
 #EXTINF:-1 group-title="beIN Sports SD", beIN Sports 4
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80073
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80149
 
 #EXTINF:-1 group-title="beIN Sports SD", beIN Sports 5
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80072
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80148
 
 #EXTINF:-1 group-title="beIN Sports SD", beIN Sports 6
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80071
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80147
 
 #EXTINF:-1 group-title="beIN Sports SD", beIN Sports 7
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80070
-
-#EXTINF:-1 group-title="beIN Sports SD", Bein Sport Xtra 1
-http://rv.flysat.live:80/307211617365/307211617365/181710
-
-#EXTINF:-1 group-title="beIN Sports SD", Bein Sport Xtra 2
-http://rv.flysat.live:80/307211617365/307211617365/181709
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80146
 
 #EXTINF:-1 group-title="beIN Sports SD", Bein Sport 1 English
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80069
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80144
 
 #EXTINF:-1 group-title="beIN Sports SD", Bein Sport 2 English
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80078
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80143
 
-####BT Sports####
+#EXTINF:-1 group-title="beIN Sports SD", Bein Sport 3 English
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80142
 
-#EXTINF:-1 group-title="BT Sports", BT Sport 1HD
-http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1 group-title="beIN Sports SD", Bein Sport 1 French
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80141
 
-#EXTINF:-1 group-title="BT Sports", BT Sport 2HD
-http://93.152.174.144:4000/play/btsport2/index.m3u8
-
-#EXTINF:-1 group-title="BT Sports", BT Sport Extra 1
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28844
-
-#EXTINF:-1 group-title="BT Sports", BT Sport Extra 2
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28843
-
-#EXTINF:-1 group-title="BT Sports", BT Sport Extra 3
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28842
-
-#EXTINF:-1 group-title="BT Sports", BT Sport Extra 4
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28841
-
-#EXTINF:-1 group-title="BT Sports", BT Sport Extra 5
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28939
-
-#EXTINF:-1 group-title="BT Sports", BT Sports Extra 6
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28938
-
-#####Italy Sports#####
-
-#EXTINF:-1 group-title="Italy Sports", Euro Sport 1 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2757
-
-#EXTINF:-1 group-title="Italy Sports", Euro Sport 2 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2756
-
-#EXTINF:-1 group-title="Italy Sports", Rai Sport+
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2736
-
-#EXTINF:-1 group-title="Italy Sports", RTV Sport
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2698
-
-#EXTINF:-1 group-title="Italy Sports", MS Motor TV
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2692
-
-#EXTINF:-1 group-title="Italy Sports", Unire Sat
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2691
-
-#EXTINF:-1 group-title="Italy Sports", SportItalia Motori HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2689
-
-#EXTINF:-1 group-title="Italy Sports", Super Tennis HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2688
-
-#EXTINF:-1 group-title="Italy Sports", Rai Sport 2 (attivi solo ad evento in corso)
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28308
-
-#EXTINF:-1 group-title="Italy Sports", Rai Sport 3 (attivi solo ad evento in corso)
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28309
-
-#EXTINF:-1 group-title="Italy Sports", Rai Sport
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28293
-
-#EXTINF:-1 group-title="Italy Sports", Supercalcio HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28285
+#EXTINF:-1 group-title="beIN Sports SD", Bein Sport 2 French
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80140
 
 
-####Sky Sports####
 
-#EXTINF:-1 group-title="Sky Sports", Sky Sport 24
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2696
 
-#EXTINF:-1 group-title="Sky Sports", SKY SPORT F1 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2695
 
-#EXTINF:-1 group-title="Sky Sports", Sky Sport 1 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2694
 
-#EXTINF:-1 group-title="Sky Sports", Sky Sport 2 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/2693
 
-#EXTINF:-1 group-title="Sky Sports", Sky Sport MotoGP | SD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28465
-
-#EXTINF:-1 group-title="Sky Sports", Sky Sport NBA HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28457
-
-#EXTINF:-1 group-title="Sky Sports", Sky Sport Collection HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28448
-
-#EXTINF:-1 group-title="Sky Sports", Sky Sport 251
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28447
-
-#EXTINF:-1 group-title="Sky Sports", Sky Sport 252
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28446
-
-#EXTINF:-1 group-title="Sky Sports", Sky Sport 253
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28445
-
-#EXTINF:-1 group-title="Sky Sports", Sky Sport 254
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28444
-
-#EXTINF:-1 group-title="Sky Sports", Sky Sport 255
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28443
-
-#EXTINF:-1 group-title="Sky Sports", Sky Sport Arena FHD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28306
-
-#EXTINF:-1 group-title="Sky Sports", Sky Sport Football HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28307
-
-#EXTINF:-1 group-title="Sky Sports", Sky Calcio 1
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28284
-
-#EXTINF:-1 group-title="Sky Sports", Sky Calcio 2
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28282
-
-#EXTINF:-1 group-title="Sky Sports", Sky Sport Serie A
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28468
-
-####Dazn Sports####
-
-#EXTINF:-1 group-title="Dazn Sports", DAZN 1 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28415
-
-#EXTINF:-1 group-title="Dazn Sports", DAZN 2 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28414
-
-#EXTINF:-1 group-title="Dazn Sports", DAZN 3 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28413
-
-#EXTINF:-1 group-title="Dazn Sports", DAZN 4 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28412
-
-#EXTINF:-1 group-title="Dazn Sports", DAZN 5 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28411
-
-#EXTINF:-1 group-title="Dazn Sports", DAZN 6 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28410
-
-#EXTINF:-1 group-title="Dazn Sports", DAZN 7 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28409
-
-#EXTINF:-1 group-title="Dazn Sports", DAZN 8 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28408
-
-#EXTINF:-1 group-title="Dazn Sports", DAZN 9 HD
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28407
-
-#EXTINF:-1 group-title="Dazn Sports", Dazn1 Sat
-http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/28471
 
