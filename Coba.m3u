@@ -39,6 +39,11 @@ http://tevemobile.us.to/sc/play.m3u8?id=204
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
 http://tevemobile.us.to/sc/play.m3u8?id=206
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Indo Sports", BRI Liga 1
+https://etslive-2-vidio-com.akamaized.net/exp=1635691974~acl=/vp9/8026_stream.mpd!/vp9/8026/*~hmac=ee3c1b4093ec34826562289eba0515cd54cc4af0d00134847f54ed631fb4c6bf/vp9/8026_stream.mpd
+
 ####Indo TV####
 
 #EXTINF:-1 group-title="Indo TV", Trans TV
