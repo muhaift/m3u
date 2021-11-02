@@ -103,22 +103,25 @@ https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 group-title="Indo TV", Bali TV
 http://cdn4.mbahnunungonline.net/m3u8/4c33d89bb7ac426.m3u8
 
-#EXTINF:-1 group-title="Indo TV", Jawapos TV
-http://122.248.43.138:1935/ch6/myStream/chunklist_w1075328336.m3u8
+#EXTINF:-1 group-title="Indo TV", TVRI Nasional
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
 ####News Channel####
 
 #EXTINF:-1 group-title="News Channel", TvOne
-https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
+https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybFjRkijeplbQ_AcuzMhUr8k)/dm/3/x619221/s/live-1.m3u8#cell=lsg1
 
 #EXTINF:-1 group-title="News Channel", Metro TV
-https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.m3u8
+https://stream-05.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCSwuabsbLKzkoEI6TjZoB6P4)/dm/3/x75p70w/d/live-2.m3u8#cell=lsg1
 
 #EXTINF:-1 group-title="News Channel", Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
 #EXTINF:-1 group-title="News Channel", iNews TV
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
+
+#EXTINF:-1 group-title="News Channel", Jawa Pos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="News Channel", MNC News
 https://cdn-livetv-studio.metube.id/mncnews.m3u8
@@ -132,12 +135,17 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b38
 #EXTINF:-1 group-title="News Channel", Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
+#EXTINF:-1 group-title="News Channel", IDX Channel
+https://cdn-livetv-studio.metube.id/idxchannel_480/index.m3u8
+
 #EXTINF:-1 group-title="News Channel", Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 #EXTINF:-1 group-title="News Channel", Jakarta Globe News Channel
 https://b1english.beritasatumedia.com/Beritasatu/B1English_960x540.m3u8
 
+#EXTINF:-1 group-title="News Channel", NHK World
+https://nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
 ####TV Islami####
 
@@ -245,6 +253,11 @@ http://rr.dens.tv/h/h19/index.m3u8
 
 #EXTINF:-1 group-title="HBO GO", HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="HBO GO", HBO 1
+https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
