@@ -22,27 +22,22 @@ https://liveanevia.mncnow.id/live/eds/MNCsports-adaLiga1/sa_dash_vmx/MNCsports-a
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1635604513~acl=/hls-p/ingest_6685_*/*~hmac=f4c205009c74e255f3ce976244001dd8545d4f0271ea0ebd6e808bd50b6fe778/hls-p/ingest_6685_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1636161513~acl=/hls-p/ingest_6685_*/*~hmac=1e26df0a97c33d5e6da7a5f928829390a322aca292610689a85b0c13757df83f/hls-p/ingest_6685_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1635604541~acl=/hls-p/ingest_6686_*/*~hmac=a816939ce46caeff100d006608a6c54333172c34c3e6169785ff9fc064f702ba/hls-p/ingest_6686_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1636161537~acl=/hls-b/ingest_6686_*/*~hmac=ec552bc2cef8d3f5e8d7acd85cdf5d235223d47895ef3e1031be7bdd7a5f6abb/hls-b/ingest_6686_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1635604567~acl=/hls-p/ingest_6786_*/*~hmac=c3d8e1de00b759ddb7d153df623fe1033f8cb012e59e8ba6abcb7b388833e53e/hls-p/ingest_6786_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1636161579~acl=/hls-b/ingest_6786_*/*~hmac=63ccea1c8347eedb901d0e6945668e4977c5a1fe663dd4d886401247bcf885e4/hls-b/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-http://tevemobile.us.to/sc/play.m3u8?id=205
+https://etslive-2-vidio-com.akamaized.net/exp=1636161390~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=febd823c532054cf435b1578218e2d7e477a5ad0b12cd7823105e4a59e9800f2/vp9/205_stream.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", SCTV HD
-http://tevemobile.us.to/sc/play.m3u8?id=204
+https://etslive-2-vidio-com.akamaized.net/exp=1636161443~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=72bbff1c61283cfef6531ecf93e4e730a4b24072503ce90915a88309a237b929/vp9/204_stream.mpd
 
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
-http://tevemobile.us.to/sc/play.m3u8?id=206
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Indo Sports", BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1635691974~acl=/vp9/8026_stream.mpd!/vp9/8026/*~hmac=ee3c1b4093ec34826562289eba0515cd54cc4af0d00134847f54ed631fb4c6bf/vp9/8026_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1636161478~acl=/hls-p/ingest_206_*/*~hmac=7a2171b58d1b8076eaf65588715d8c7e7b252df4c31ecb96e06780e6eec570a5/hls-p/ingest_206_360p/index.m3u8
 
 ####Indo TV####
 
@@ -92,6 +87,9 @@ https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #EXTINF:-1 group-title="Indo TV",JTV
 https://liveanevia.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 
+#EXTINF:-1 group-title="Indo TV", Arek TV
+http://wowza58.indostreamserver.com:1935/arektv/live/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Indo TV", Bandung TV
@@ -103,10 +101,10 @@ https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 group-title="Indo TV", Bali TV
 http://cdn4.mbahnunungonline.net/m3u8/4c33d89bb7ac426.m3u8
 
-#EXTINF:-1 group-title="Indo TV", TVRI Nasional
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-
 ####News Channel####
+
+#EXTINF:-1 group-title="News Channel", TVRI Nasional
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
 #EXTINF:-1 group-title="News Channel", TvOne
 https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybFjRkijeplbQ_AcuzMhUr8k)/dm/3/x619221/s/live-1.m3u8#cell=lsg1
@@ -126,14 +124,14 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTINF:-1 group-title="News Channel", MNC News
 https://cdn-livetv-studio.metube.id/mncnews.m3u8
 
+#EXTINF:-1 group-title="News Channel", Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
 #EXTINF:-1 group-title="News Channel", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="News Channel", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
-
-#EXTINF:-1 group-title="News Channel", Berita Satu
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 group-title="News Channel", IDX Channel
 https://cdn-livetv-studio.metube.id/idxchannel_480/index.m3u8
@@ -146,6 +144,9 @@ https://b1english.beritasatumedia.com/Beritasatu/B1English_960x540.m3u8
 
 #EXTINF:-1 group-title="News Channel", NHK World
 https://nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
+#EXTINF:-1 group-title="News Channel", TV 5 Monde
+http://v3fbs247hls-i.akamaihd.net/hls/live/219079/v3fbs247hls/index.m3u8
 
 ####TV Islami####
 
@@ -205,32 +206,6 @@ https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainmen
 #EXTINF:-1 group-title="MNC Visions", Be Smart
 https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
-####Hiburan####
-
-#EXTINF:-1 group-title="Hiburan",  Musica Studio
-http://tevemobile.us.to/sc/play.m3u8?id=7619
-
-#EXTINF:-1 group-title="Hiburan",  Citra Dangdut
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=citradangdut&bandwidth=default&sync=0
-
-#EXTINF:-1 group-title="Hiburan", Citra Drama
-http://gpc.my.id/vidio/citra-drama.m3u8
-
-#EXTINF:-1 group-title="Hiburan", Citra Entertainment
-http://gpc.my.id/vidio/citra-entertainment.m3u8
-
-#EXTINF:-1 group-title="Hiburan", Citra Bioskop
-http://gpc.my.id/vidio/citra-bioskop.m3u8
-
-#EXTINF:-1 group-title="Hiburan", Citra Muslim
-http://gpc.my.id/vidio/citra-muslim.m3u8
-
-#EXTINF:-1 group-title="Hiburan", Bioskop Indonesia
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
-
-#EXTINF:-1 group-title="Hiburan", Sinema Indonesia
-http://rr.dens.tv/h/h155/index2.m3u8
-
 ####Japan####
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -253,11 +228,6 @@ http://rr.dens.tv/h/h19/index.m3u8
 
 #EXTINF:-1 group-title="HBO GO", HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="HBO GO", HBO 1
-https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -495,7 +465,7 @@ http://iptv.tvmalaysia.cc:80/penang189/penang189/9026
 ####beIN Sports SD####
 
 #EXTINF:-1 group-title="beIN Sports SD", beIN Sports 1 Premium
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80155
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80144
 
 #EXTINF:-1 group-title="beIN Sports SD", beIN Sports 2 Premium
 http://pyramidsiptv.com:8080/mohamed/mohamed123/80154
@@ -525,13 +495,13 @@ http://pyramidsiptv.com:8080/mohamed/mohamed123/80147
 http://pyramidsiptv.com:8080/mohamed/mohamed123/80146
 
 #EXTINF:-1 group-title="beIN Sports SD", Bein Sport 1 English
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80144
+http://eaiptv.net:8888/hamza/hamza/34885
 
 #EXTINF:-1 group-title="beIN Sports SD", Bein Sport 2 English
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80143
+http://eaiptv.net:8888/hamza/hamza/34886
 
 #EXTINF:-1 group-title="beIN Sports SD", Bein Sport 3 English
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80142
+http://eaiptv.net:8888/hamza/hamza/34887
 
 #EXTINF:-1 group-title="beIN Sports SD", Bein Sport 1 French
 http://pyramidsiptv.com:8080/mohamed/mohamed123/80141
