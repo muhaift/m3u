@@ -31,13 +31,13 @@ https://etslive-2-vidio-com.akamaized.net/exp=1636161537~acl=/hls-b/ingest_6686_
 https://etslive-2-vidio-com.akamaized.net/exp=1636161579~acl=/hls-b/ingest_6786_*/*~hmac=63ccea1c8347eedb901d0e6945668e4977c5a1fe663dd4d886401247bcf885e4/hls-b/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1636161390~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=febd823c532054cf435b1578218e2d7e477a5ad0b12cd7823105e4a59e9800f2/vp9/205_stream.mpd
+http://tevemobile.us.to/sc/play.m3u8?id=205
 
 #EXTINF:-1 group-title=" Indo Sports", SCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1636161443~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=72bbff1c61283cfef6531ecf93e4e730a4b24072503ce90915a88309a237b929/vp9/204_stream.mpd
+http://tevemobile.us.to/sc/play.m3u8?id=204
 
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
-https://etslive-2-vidio-com.akamaized.net/exp=1636161478~acl=/hls-p/ingest_206_*/*~hmac=7a2171b58d1b8076eaf65588715d8c7e7b252df4c31ecb96e06780e6eec570a5/hls-p/ingest_206_360p/index.m3u8
+http://tevemobile.us.to/sc/play.m3u8?id=206
 
 ####Indo TV####
 
