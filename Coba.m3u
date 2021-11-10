@@ -91,7 +91,7 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 group-title="Indo TV",  NET TV
-https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1636561984~acl=/vp9/875_stream.mpd!/vp9/875/*~hmac=d9457f0cdc1f3161058f465540e4e2c927407bce78fe7817a801d6d822fa8813/vp9/875_stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
