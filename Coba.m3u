@@ -103,30 +103,30 @@ https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Indo TV", Bali TV
-http://cdn4.mbahnunungonline.net/m3u8/4c33d89bb7ac426.m3u8
+https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
 
 ####News Channel####
 
 #EXTINF:-1 group-title="News Channel", TVRI Nasional
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #EXTINF:-1 group-title="News Channel", TvOne
-https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybFjRkijeplbQ_AcuzMhUr8k)/dm/3/x619221/s/live-1.m3u8#cell=lsg1
+https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 group-title="News Channel", Metro TV
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189510
+https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
 
 #EXTINF:-1 group-title="News Channel", Kompas TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:-1 group-title="News Channel", iNews TV
-https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
+https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
 
 #EXTINF:-1 group-title="News Channel", Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="News Channel", MNC News
-https://cdn-livetv-studio.metube.id/mncnews.m3u8
+https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
 
 #EXTINF:-1 group-title="News Channel", Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -145,6 +145,15 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 #EXTINF:-1 group-title="News Channel", Jakarta Globe News Channel
 https://b1english.beritasatumedia.com/Beritasatu/B1English_960x540.m3u8
+
+#EXTINF:-1 group-title="News Channel", DW
+https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+
+#EXTINF:-1 group-title="News Channel", Sea Today
+https://liveanevia.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+
+#EXTINF:-1 group-title="News Channel", CGTN
+https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 
 #EXTINF:-1 group-title="News Channel", NHK World
 https://nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
@@ -209,6 +218,26 @@ https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainmen
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="MNC Visions", Be Smart
 https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+
+#EXTINF:-1 group-title="MNC Visions", Music TV
+https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+####ChineseTV####
+
+#EXTINF:-1 group-title="Chinese TV", Shanghai Dargon TV
+https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+
+#EXTINF:-1 group-title="Chinese TV", Jiangsu TV
+https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+
+#EXTINF:-1 group-title="Chinese TV", Hunan TV
+https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+
+#EXTINF:-1 group-title="Chinese TV", XingKong TV
+https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+
+#EXTINF:-1 group-title="Chinese TV", Anhui TV
+https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 ####Japan####
 
