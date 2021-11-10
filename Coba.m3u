@@ -27,22 +27,22 @@ https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1636535382~acl=/hls-p/ingest_6685_*/*~hmac=152f8e464c3cdd3e84e478bb784bbe8bbca8c9236c083381add1aab0e6182539/hls-p/ingest_6685_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1636596824~acl=/hls-b/ingest_6685_*/*~hmac=d1e1745cc56895740ccf84967c40d8537a5b20b24f7636f6f1812e94fb0bc50c/hls-b/ingest_6685_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1636535408~acl=/hls-p/ingest_6686_*/*~hmac=a16425804a625fc14c8d4d2a634127325731e4b89332a4ba094ef5a15e4ccd69/hls-p/ingest_6686_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1636596873~acl=/hls-b/ingest_6686_*/*~hmac=f664c0a36eb57a64aa7e88413571e3d1391ce49ba451375f3c17af2bc2b2bad0/hls-b/ingest_6686_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1636535431~acl=/hls-p/ingest_6786_*/*~hmac=8df65816139c1dad9e1f9564bb9b4c804741ce7ea37cc6e9a88a31e86c6a9c3f/hls-p/ingest_6786_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1636596919~acl=/hls-b/ingest_6786_*/*~hmac=9b035eefa327cc66dc8edfbb93d7fc39767739dac644347371b758399d981ce3/hls-b/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1636535455~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=83fb8403393c7c460207141342e6ea934009e40399de965712ba876f65df877d/vp9/205_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1636596947~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=9fed84429e6b6b1a1ae07db1d0cd435f266174fd62181495c43a6ba4381b8908/vp9/205_stream.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", SCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1636535499~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=015f469b6d3cf4cf053c151d935b4c25624746f3fcdcc643edf983e66acf616a/vp9/204_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1636597029~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=35b207ff4990360b60abd94092d4d23bf4b495f6feac8077d9ed8572cd2b4da5/vp9/204_stream.mpd
 
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
-https://etslive-2-vidio-com.akamaized.net/exp=1636535537~acl=/hls-p/ingest_206_*/*~hmac=a7b9dc0f5e51bed1b5eb76673587205faa062299b4f34684faeab373468d67e1/hls-p/ingest_206_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1636597071~acl=/hls-p/ingest_206_*/*~hmac=7faec1c700faa7d7ac3c5eb144016a1bbccc325c4770b8eb0da755efe56c8863/hls-p/ingest_206_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
@@ -330,6 +330,32 @@ https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 #EXTINF:-1 group-title="Chinese TV", Anhui TV
 https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
+####MalayTV####
+
+#EXTINF:-1 group-title="Malay TV", TV 1
+http://sonyiptv.net:8080/66289/66289/229681
+
+#EXTINF:-1 group-title="Malay TV", TV 2
+http://sonyiptv.net:8080/66289/66289/229682
+
+#EXTINF:-1 group-title="Malay TV", TV 3
+http://sonyiptv.net:8080/66289/66289/229683
+
+#EXTINF:-1 group-title="Malay TV", TV 8
+http://sonyiptv.net:8080/66289/66289/229684
+
+#EXTINF:-1 group-title="Malay TV", TV 9
+http://sonyiptv.net:8080/66289/66289/229685
+
+#EXTINF:-1 group-title="Malay TV", 
+
+
+#EXTINF:-1 group-title="Malay TV", 
+
+
+#EXTINF:-1 group-title="Malay TV", 
+
+
 ####Japan####
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -402,17 +428,6 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Movies", Cinema Europe
-https://liveanevia.mncnow.id/live/eds/CinemaEurope/sa_dash_vmx/CinemaEurope.mpd
-
-#EXTINF:-1 group-title="Movies", AVA Family
-http://51.210.199.5/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Movies", AVA Series
-http://51.210.199.4/hls/stream.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Movies", tvN
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
@@ -443,11 +458,6 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Movies", Zee Cinema
-https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Movies", TV 5 Monde Asia
 https://liveanevia.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
@@ -474,7 +484,6 @@ https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #####Knowledge#####
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -565,11 +574,32 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/rifky_oku.m
 #EXTINF:-1 group-title="All Sports", SPOTV
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
 
+#EXTINF:-1 group-title="All Sports", Unifi Sport 2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+
+#EXTINF:-1 group-title="All Sports", Unifi Sport 3
+http://sonyiptv.net:8080/66289/66289/229698
+
+#EXTINF:-1 group-title="All Sports", Unifi Sport 4
+http://sonyiptv.net:8080/66289/66289/229699
+
+#EXTINF:-1 group-title="All Sports", Unifi Sport 5
+http://sonyiptv.net:8080/66289/66289/229700
+
 #EXTINF:-1 group-title="All Sports", Eleven Sports 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
 #EXTINF:-1 group-title="All Sports", Eleven Sports 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+
+#EXTINF:-1 group-title="All Sports", BT SPORTS 1
+http://sonyiptv.net:8080/66289/66289/179902
+
+#EXTINF:-1 group-title="All Sports", BT SPORTS 2
+http://sonyiptv.net:8080/66289/66289/179903
+
+#EXTINF:-1 group-title="All Sports", BT SPORTS 3
+http://sonyiptv.net:8080/66289/66289/179904
 
 
 ####RMC Sports####
