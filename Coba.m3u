@@ -27,19 +27,19 @@ https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1636596824~acl=/hls-b/ingest_6685_*/*~hmac=d1e1745cc56895740ccf84967c40d8537a5b20b24f7636f6f1812e94fb0bc50c/hls-b/ingest_6685_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1636622743~acl=/hls-b/ingest_6685_*/*~hmac=84a3be48410b57318214136d1d861d58cd07a17731804c2b2484b1f960272ce0/hls-b/ingest_6685_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1636596873~acl=/hls-b/ingest_6686_*/*~hmac=f664c0a36eb57a64aa7e88413571e3d1391ce49ba451375f3c17af2bc2b2bad0/hls-b/ingest_6686_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1636622810~acl=/hls-p/ingest_6686_*/*~hmac=db9c42d0e26349a2fe5bd0def33c675f0e822f57d05a5f42720a0b4e5689ffa8/hls-p/ingest_6686_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1636596919~acl=/hls-b/ingest_6786_*/*~hmac=9b035eefa327cc66dc8edfbb93d7fc39767739dac644347371b758399d981ce3/hls-b/ingest_6786_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1636622871~acl=/hls-b/ingest_6786_*/*~hmac=b92d9c6b567b4363137f1f7629d73e50713da6c1aa2734bdcff8f73569c7c897/hls-b/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1636596947~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=9fed84429e6b6b1a1ae07db1d0cd435f266174fd62181495c43a6ba4381b8908/vp9/205_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1636623030~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=65bf2d2899fae3ea512d7bd6c127ffa995510b2819dcbb48df246f22035a1d7c/vp9/205_stream.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", SCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1636597029~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=35b207ff4990360b60abd94092d4d23bf4b495f6feac8077d9ed8572cd2b4da5/vp9/204_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1636623053~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=4a30a00792d5c68c388264476fced2daada6a24556e3a08ebc3730028ced394f/vp9/204_stream.mpd
 
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
 https://etslive-2-vidio-com.akamaized.net/exp=1636597071~acl=/hls-p/ingest_206_*/*~hmac=7faec1c700faa7d7ac3c5eb144016a1bbccc325c4770b8eb0da755efe56c8863/hls-p/ingest_206_360p/index.m3u8
@@ -333,19 +333,19 @@ https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 ####MalayTV####
 
 #EXTINF:-1 group-title="Malay TV", TV 1
-http://sonyiptv.net:8080/66289/66289/229681
+
 
 #EXTINF:-1 group-title="Malay TV", TV 2
-http://sonyiptv.net:8080/66289/66289/229682
+
 
 #EXTINF:-1 group-title="Malay TV", TV 3
-http://sonyiptv.net:8080/66289/66289/229683
+
 
 #EXTINF:-1 group-title="Malay TV", TV 8
-http://sonyiptv.net:8080/66289/66289/229684
+
 
 #EXTINF:-1 group-title="Malay TV", TV 9
-http://sonyiptv.net:8080/66289/66289/229685
+
 
 #EXTINF:-1 group-title="Malay TV", 
 
@@ -577,30 +577,11 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
 #EXTINF:-1 group-title="All Sports", Unifi Sport 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
-#EXTINF:-1 group-title="All Sports", Unifi Sport 3
-http://sonyiptv.net:8080/66289/66289/229698
-
-#EXTINF:-1 group-title="All Sports", Unifi Sport 4
-http://sonyiptv.net:8080/66289/66289/229699
-
-#EXTINF:-1 group-title="All Sports", Unifi Sport 5
-http://sonyiptv.net:8080/66289/66289/229700
-
 #EXTINF:-1 group-title="All Sports", Eleven Sports 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
 #EXTINF:-1 group-title="All Sports", Eleven Sports 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-
-#EXTINF:-1 group-title="All Sports", BT SPORTS 1
-http://sonyiptv.net:8080/66289/66289/179902
-
-#EXTINF:-1 group-title="All Sports", BT SPORTS 2
-http://sonyiptv.net:8080/66289/66289/179903
-
-#EXTINF:-1 group-title="All Sports", BT SPORTS 3
-http://sonyiptv.net:8080/66289/66289/179904
-
 
 ####RMC Sports####
 
