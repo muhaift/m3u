@@ -603,52 +603,25 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 group-title="All Sports", Eleven Sports 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
-####RMC Sports####
+#EXTINF:-1 group-title="All Sports", BT Sport 1
+http://nasaip.com:8080/3yt47646347dg/d6hH7a09u0/98195
 
-#EXTINF:-1 group-title="RMC Sports", RMC Sport 1
-http://rv.flysat.live:80/307211617365/307211617365/79038
+#EXTINF:-1 group-title="All Sports", BT Sport 2
+http://nasaip.com:8080/3yt47646347dg/d6hH7a09u0/98196
 
-#EXTINF:-1 group-title="RMC Sports", RMC Sport 2
-http://rv.flysat.live:80/307211617365/307211617365/79037
+#EXTINF:-1 group-title="All Sports", BT Sport 3
+http://nasaip.com:8080/3yt47646347dg/d6hH7a09u0/98197
 
-#EXTINF:-1 group-title="RMC Sports", RMC Sport 3
-http://rv.flysat.live:80/307211617365/307211617365/79036
+####Sports TV####
 
-#EXTINF:-1 group-title="RMC Sports", RMC Sport  4
-http://rv.flysat.live:80/307211617365/307211617365/79035
+#EXTINF:-1 group-title="Sports TV", Sports TV1
+http://nasaip.com:8080/3yt47646347dg/d6hH7a09u0/70844
 
-#EXTINF:-1 group-title="RMC Sports", RMC Sport 5
-http://rv.flysat.live:80/307211617365/307211617365/79034
+#EXTINF:-1 group-title="Sports TV", Sports TV2
+http://nasaip.com:8080/3yt47646347dg/d6hH7a09u0/70846
 
-#EXTINF:-1 group-title="RMC Sports", RMC Sport 6
-http://rv.flysat.live:80/307211617365/307211617365/79033
-
-#EXTINF:-1 group-title="RMC Sports", RMC Sport 7
-http://rv.flysat.live:80/307211617365/307211617365/79032
-
-#EXTINF:-1 group-title="RMC Sports", RMC Sport 8
-http://rv.flysat.live:80/307211617365/307211617365/79031
-
-#EXTINF:-1 group-title="RMC Sports", RMC Sport 9
-http://rv.flysat.live:80/307211617365/307211617365/79030
-
-#EXTINF:-1 group-title="RMC Sports", RMC Sport 10
-http://rv.flysat.live:80/307211617365/307211617365/79029
-
-#EXTINF:-1 group-title="RMC Sports", RMC Sport 11
-http://rv.flysat.live:80/307211617365/307211617365/79028
-
-#EXTINF:-1 group-title="RMC Sports", RMC Sport 12
-http://rv.flysat.live:80/307211617365/307211617365/79027
-
-#EXTINF:-1 group-title="RMC Sports", RMC Sport 13
-http://rv.flysat.live:80/307211617365/307211617365/79026
-
-#EXTINF:-1 group-title="RMC Sports", RMC Sport 14
-http://rv.flysat.live:80/307211617365/307211617365/79025
-
-#EXTINF:-1 group-title="RMC Sports", RMC Sport 15
-http://rv.flysat.live:80/307211617365/307211617365/79024
+#EXTINF:-1 group-title="Sports TV", Sports TV3
+http://nasaip.com:8080/3yt47646347dg/d6hH7a09u0/70848
 
 ####Astro Super Sport####
 
