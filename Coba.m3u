@@ -635,6 +635,12 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
 #EXTINF:-1 group-title="All Sports", Unifi Sport 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
+#EXTINF:-1 group-title="All Sports", Usee sports 1
+http://194.233.78.49:2082/live/DurianTv/EbnZTI6oI8/8285.ts
+
+#EXTINF:-1 group-title="All Sports", Usee sports 2
+http://194.233.78.49:2082/live/DurianTv/EbnZTI6oI8/8286.ts
+
 #EXTINF:-1 group-title="All Sports", Eleven Sports 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
@@ -662,17 +668,59 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=
 #EXTINF:-1 group-title="All Sports", LookSport 3
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
-#EXTINF:-1 group-title="All Sports", TNT Sports 2 Brasil
+####TNT Sports####
+
+#EXTINF:-1 group-title="TNT Sports", TNT Sports 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:-1 group-title="All Sports", TNT Sports 3 Brasil
+#EXTINF:-1 group-title="TNT Sports", TNT Sports 3
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 
-#EXTINF:-1 group-title="All Sports", TNT Sports 4 Brasil
+#EXTINF:-1 group-title="TNT Sports", TNT Sports 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
-#EXTINF:-1 group-title="All Sports", Esporte Interativo
+#EXTINF:-1 group-title="TNT Sports", TNT Sports 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+####SkyNet Sports####
+
+#EXTINF:-1 group-title="Skynet Sports", Skynet Sport 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist.m3u8
+
+#EXTINF:-1 group-title="Skynet Sports", Skynet Sport 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/playlist.m3u8
+
+#EXTINF:-1 group-title="Skynet Sports", Skynet Sport 3
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports3/playlist.m3u8
+
+#EXTINF:-1 group-title="Skynet Sports", Skynet Sport 4
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports4/playlist.m3u8
+
+#EXTINF:-1 group-title="Skynet Sports", Skynet Sport 5
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports5/playlist.m3u8
+
+#EXTINF:-1 group-title="Skynet Sports", Skynet Sport 6
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports6/playlist.m3u8
+
+#### TyC Sports####
+
+#EXTINF:-1 group-title="TyC Sports", TyC Sports Play 1
+https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
+
+#EXTINF:-1 group-title="TyC Sports", TyC Sports Play 2
+https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
+
+#EXTINF:-1 group-title="TyC Sports", TyC Sports Play 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
+
+#EXTINF:-1 group-title="TyC Sports", TyC Sports Play 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
+
+#EXTINF:-1 group-title="TyC Sports", TyC Sports Play 5
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
+
+#EXTINF:-1 group-title="TyC Sports", TyC Sports Play 6
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
 
 ####Astro Super Sport####
 
