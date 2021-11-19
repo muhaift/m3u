@@ -42,28 +42,23 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerc
 #EXTINF:-1 group-title=" Indo Sports",  Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title=" Indo Sports",  Fight Sports
-https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1637248422~acl=/hls-b/ingest_6685_*/*~hmac=0300fbcf09d63c4f575145ec1b157beee70c5687d83511079250ec7f8276a92a/hls-b/ingest_6685_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1637376419~acl=/hls-b/ingest_6685_*/*~hmac=2e37a4bb00e1d335c0944454e15e24c16fef7041dcdb65fb46c5411db339aa4e/hls-b/ingest_6685_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1637248477~acl=/hls-p/ingest_6686_*/*~hmac=0b76bbf67b48396ccd2e01f0b3c20b53923351ef25059f1e093740d06f247dbf/hls-p/ingest_6686_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1637376511~acl=/hls-p/ingest_6686_*/*~hmac=480571fce9856168a593826e28f66908e2de2004bbbc4995c23505ccd3def273/hls-p/ingest_6686_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1637248511~acl=/hls-p/ingest_6786_*/*~hmac=45b06cdf3cb447f8ee709c25e1e521ebc94d17c7ceea984c05f480339413c285/hls-p/ingest_6786_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1637376662~acl=/hls-p/ingest_6786_*/*~hmac=516c41d7cd18420112bef2b660d9bb0a83879a8f6f7d57d7fff24cf14b644ad8/hls-p/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1637306938~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=13824c7e7ba0ba35577fd1fc522b1a48b378a052fb9238173a535cfacd322d2e/vp9/205_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1637376690~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=dec943550a3fc2c52652c8c1df3acd8157754d425f6f7da68e6c477e7953c916/vp9/205_stream.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", SCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1637307239~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=d6e4bb586c5cc7f62ad7ddefd0b669a119cf74db9e95af9983a34d1d36ed8074/vp9/204_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1637376742~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=3d2164af80ed9506bb0c12f6033c2d24c5ad03552c07eee72e4cb87d703e377a/vp9/204_stream.mpd
 
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
-https://etslive-2-vidio-com.akamaized.net/exp=1637306994~acl=/hls-p/ingest_206_*/*~hmac=634b25715f930a198daf58a61af9f2583174bd2a25a4fc8868f640e806db77e9/hls-p/ingest_206_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1637376792~acl=/hls-p/ingest_206_*/*~hmac=4602c1d336447e5ce6c6aeeee318a8efe53a157b03ba587ad5b6f54546b18141/hls-p/ingest_206_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
@@ -613,6 +608,22 @@ https://fashs043.cloudycdn.services/scte/pg13/pg13_480p_chunklist.m3u8
 
 #EXTINF:-1 group-title="Fashion TV", Fashion TV 5
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8?live_suff
+
+####FightSports####
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title=" Fight Sports",  Fight Sports
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTINF:-1 group-title=" Fight Sports",  WWE
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+
+#EXTINF:-1 group-title=" Fight Sports",  Stadium Live
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1 group-title=" Fight Sports",  UFC
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 ####Sony Ten###
 
