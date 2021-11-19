@@ -51,13 +51,13 @@ https://etslive-2-vidio-com.akamaized.net/exp=1637248477~acl=/hls-p/ingest_6686_
 https://etslive-2-vidio-com.akamaized.net/exp=1637248511~acl=/hls-p/ingest_6786_*/*~hmac=45b06cdf3cb447f8ee709c25e1e521ebc94d17c7ceea984c05f480339413c285/hls-p/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1637248546~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=3eddf450617e246c660bfd0e057b489bb57ab88e0754ec69b30dd4e5228e0711/vp9/205_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1637306938~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=13824c7e7ba0ba35577fd1fc522b1a48b378a052fb9238173a535cfacd322d2e/vp9/205_stream.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", SCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1637248595~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=13b5d214592b665c7c79ff8d7eb6918eddfa99c8468826566ab65a1deaede785/vp9/204_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1637307239~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=d6e4bb586c5cc7f62ad7ddefd0b669a119cf74db9e95af9983a34d1d36ed8074/vp9/204_stream.mpd
 
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
-https://etslive-2-vidio-com.akamaized.net/exp=1637158785~acl=/vp9/206_stream.mpd!/vp9/206/*~hmac=e8554fa5bc59682321e695b134508c32e1f9960f0e357696171e0546fcd5035d/vp9/206_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1637306994~acl=/hls-p/ingest_206_*/*~hmac=634b25715f930a198daf58a61af9f2583174bd2a25a4fc8868f640e806db77e9/hls-p/ingest_206_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
@@ -510,6 +510,16 @@ https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #EXTINF:-1 group-title="Kids Channels", Cbeebies
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Kids Channels", Nick Jr
+https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Kids Channels", Nickelodeon
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
 #####Knowledge#####
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -522,9 +532,13 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #EXTINF:-1 group-title="Knowlegdes", Nat Geo Wild
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 group-title="Knowlegdes", National Geographic HD
-http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/7.ts
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Knowlegdes", National Geographic
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Knowlegdes", Nat Geo People HD
 http://iptv.tvmalaysia.cc/932633/932633/7080
 
@@ -626,6 +640,39 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
 #EXTINF:-1 group-title="All Sports", Eleven Sports 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+
+#EXTINF:-1 group-title="All Sports", CCTV 5
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
+
+#EXTINF:-1 group-title="All Sports", CCTV 5+
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
+
+#EXTINF:-1 group-title="All Sports", Football 1
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+
+#EXTINF:-1 group-title="All Sports", Football 2
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+
+#EXTINF:-1 group-title="All Sports", LookSport +
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+#EXTINF:-1 group-title="All Sports", LookSport 2
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+#EXTINF:-1 group-title="All Sports", LookSport 3
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+#EXTINF:-1 group-title="All Sports", TNT Sports 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="All Sports", TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="All Sports", TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="All Sports", Esporte Interativo
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 ####Astro Super Sport####
 
