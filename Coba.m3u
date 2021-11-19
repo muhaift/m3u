@@ -11,6 +11,12 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:-1 group-title="Indo Sports",  beIN Sports 2 ID
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
+#EXTINF:-1 group-title="Indo Sports", Usee sports 1
+http://194.233.78.49:2082/live/DurianTv/EbnZTI6oI8/8285.ts
+
+#EXTINF:-1 group-title="Indo Sports", Usee sports 2
+http://194.233.78.49:2082/live/DurianTv/EbnZTI6oI8/8286.ts
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Indo Sports",  MNC Sports
@@ -360,27 +366,47 @@ https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 ####MalayTV####
 
 #EXTINF:-1 group-title="Malay TV", TV 1
-
+http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="Malay TV", TV 2
-
+http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="Malay TV", TV 3
+http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
 
+#EXTINF:-1 group-title="Malay TV", NTV 7
+http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 
-#EXTINF:-1 group-title="Malay TV", TV 8
-
+#EXTINF:-1 group-title="Malay TV", 8 TV
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
 #EXTINF:-1 group-title="Malay TV", TV 9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
+#####AstroTV#####
 
-#EXTINF:-1 group-title="Malay TV", 
+#EXTINF:-1 group-title="Astro TV", Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
+#EXTINF:-1 group-title="Astro TV", Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
-#EXTINF:-1 group-title="Malay TV", 
+#EXTINF:-1 group-title="Astro TV", Astro Ria
+http://198.16.106.61:8278/streams/d/Ria/playlist.m3u8
 
+#EXTINF:-1 group-title="Astro TV", Astro Prima
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
-#EXTINF:-1 group-title="Malay TV", 
+#EXTINF:-1 group-title="Astro TV", Astro Naura
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+
+#EXTINF:-1 group-title="Astro TV", Astro Awani
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+
+#EXTINF:-1 group-title="Astro TV", Astro Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1 group-title="Astro TV", 
 
 
 ####Japan####
@@ -539,32 +565,8 @@ https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mp
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Knowlegdes", Nat Geo People HD
-http://iptv.tvmalaysia.cc/932633/932633/7080
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Knowlegdes", Discovery Channel
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
-
-#EXTINF:-1 group-title="Knowlegdes", Discovery Asia HD
-http://iptv.tvmalaysia.cc/live/989898/989898/8856.m3u8
-
-#EXTINF:-1 group-title="Knowlegdes", Discovery Science HD
-https://itvoign.multitvsolution.com/idvo/discoverscienceeng.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Knowlegdes", CGTN Documentary
-https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
-
-#EXTINF:-1 group-title="Knowlegdes", Love Nature HD
-http://gpc.my.id/vidio/love-nature.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Knowlegdes", History Channel
-https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -573,8 +575,27 @@ https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Knowlegdes", CGTN Documentary
+https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Knowlegdes", History Channel
+https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Knowlegdes", Crime Invetigation
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#EXTINF:-1 group-title="Knowlegdes", Discovery Asia HD
+http://iptv.tvmalaysia.cc/live/989898/989898/8856.m3u8
+
+#EXTINF:-1 group-title="Knowlegdes", Discovery Science HD
+https://itvoign.multitvsolution.com/idvo/discoverscienceeng.m3u8
+
+#EXTINF:-1 group-title="Knowlegdes", Love Nature HD
+http://gpc.my.id/vidio/love-nature.m3u8
 
 ####FashionTV####
 
@@ -607,26 +628,6 @@ https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1 group-title="Sony TEN", Sony Six
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 
-####Arab Sports####
-
-#EXTINF:-1 group-title="Arab Sports", Dubai Sports 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/rifky_oku.m3u8
-
-#EXTINF:-1 group-title="Arab Sports", Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/rifky_oku.m3u8
-
-#EXTINF:-1 group-title="Arab Sports", Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/rifky_oku.m3u8
-
-#EXTINF:-1 group-title="Arab Sports", Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/rifky_oku.m3u8
-
-#EXTINF:-1 group-title="Arab Sports", Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/rifky_oku.m3u8
-
-#EXTINF:-1 group-title="Arab Sports", Abu Dhabi Sports 3
-http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/rifky_oku.m3u8
-
 ####All-Sports####
 
 #EXTINF:-1 group-title="All Sports", SPOTV
@@ -634,12 +635,6 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
 
 #EXTINF:-1 group-title="All Sports", Unifi Sport 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-
-#EXTINF:-1 group-title="All Sports", Usee sports 1
-http://194.233.78.49:2082/live/DurianTv/EbnZTI6oI8/8285.ts
-
-#EXTINF:-1 group-title="All Sports", Usee sports 2
-http://194.233.78.49:2082/live/DurianTv/EbnZTI6oI8/8286.ts
 
 #EXTINF:-1 group-title="All Sports", Eleven Sports 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
@@ -667,6 +662,26 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=
 
 #EXTINF:-1 group-title="All Sports", LookSport 3
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+####Arab Sports####
+
+#EXTINF:-1 group-title="Arab Sports", Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/rifky_oku.m3u8
+
+#EXTINF:-1 group-title="Arab Sports", Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/rifky_oku.m3u8
+
+#EXTINF:-1 group-title="Arab Sports", Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/rifky_oku.m3u8
+
+#EXTINF:-1 group-title="Arab Sports", Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/rifky_oku.m3u8
+
+#EXTINF:-1 group-title="Arab Sports", Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/rifky_oku.m3u8
+
+#EXTINF:-1 group-title="Arab Sports", Abu Dhabi Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/rifky_oku.m3u8
 
 ####TNT Sports####
 
@@ -701,26 +716,6 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports5/playlist.m3u8
 
 #EXTINF:-1 group-title="Skynet Sports", Skynet Sport 6
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports6/playlist.m3u8
-
-#### TyC Sports####
-
-#EXTINF:-1 group-title="TyC Sports", TyC Sports Play 1
-https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
-
-#EXTINF:-1 group-title="TyC Sports", TyC Sports Play 2
-https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
-
-#EXTINF:-1 group-title="TyC Sports", TyC Sports Play 3
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
-
-#EXTINF:-1 group-title="TyC Sports", TyC Sports Play 4
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
-
-#EXTINF:-1 group-title="TyC Sports", TyC Sports Play 5
-https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
-
-#EXTINF:-1 group-title="TyC Sports", TyC Sports Play 6
-https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
 
 ####Astro Super Sport####
 
