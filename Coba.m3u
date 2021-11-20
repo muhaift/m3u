@@ -748,52 +748,54 @@ http://iptv.tvmalaysia.cc:80/penang189/penang189/9020
 #EXTINF:-1 group-title="Astro Sports", ASSP 4
 http://iptv.tvmalaysia.cc:80/penang189/penang189/9026
 
-####beIN Sports SD####
+####beIN Sports Channel####
 
-#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 1 Premium
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80144
+#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 1 Premium
 
-#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 2 Premium
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80154
 
-#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 3 Premium
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80153
+#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 2 Premium
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3674
 
-#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 1
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80152
+#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 3 Premium
 
-#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 2
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80151
 
-#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 3
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80150
+#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 1
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3666
 
-#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 4
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80149
+#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 2
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3667
 
-#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 5
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80148
+#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 3
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3668
 
-#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 6
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80147
+#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 4
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3669
 
-#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 7
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80146
+#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 5
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3673
 
-#EXTINF:-1 group-title="beIN Sports SD", Bein Sport 1 English
-http://eaiptv.net:8888/hamza/hamza/34885
+#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 6
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3671
 
-#EXTINF:-1 group-title="beIN Sports SD", Bein Sport 2 English
-http://eaiptv.net:8888/hamza/hamza/34886
+#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 7
 
-#EXTINF:-1 group-title="beIN Sports SD", Bein Sport 3 English
-http://eaiptv.net:8888/hamza/hamza/34887
+#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports Olympic
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3675
 
-#EXTINF:-1 group-title="beIN Sports SD", Bein Sport 1 French
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80141
+#EXTINF:-1 group-title="beIN Sports Channel", Bein Sport 1 English
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3676
 
-#EXTINF:-1 group-title="beIN Sports SD", Bein Sport 2 French
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80140
+#EXTINF:-1 group-title="beIN Sports Channel", Bein Sport 2 English
+
+
+#EXTINF:-1 group-title="beIN Sports Channel", Bein Sport 3 English
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3678
+
+#EXTINF:-1 group-title="beIN Sports Channel", Bein Sport 1 French
+
+
+#EXTINF:-1 group-title="beIN Sports Channel", Bein Sport 2 French
+
 
 
 
