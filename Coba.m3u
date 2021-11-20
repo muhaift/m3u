@@ -52,7 +52,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1637376511~acl=/hls-p/ingest_6686_
 https://etslive-2-vidio-com.akamaized.net/exp=1637376662~acl=/hls-p/ingest_6786_*/*~hmac=516c41d7cd18420112bef2b660d9bb0a83879a8f6f7d57d7fff24cf14b644ad8/hls-p/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1637376690~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=dec943550a3fc2c52652c8c1df3acd8157754d425f6f7da68e6c477e7953c916/vp9/205_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1637420711~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=ae377007f9ae021b9d31f48a801890b67198f8ef7c6d3f2028a0cf9e0dad7f85/vp9/205_stream.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", SCTV HD
 https://etslive-2-vidio-com.akamaized.net/exp=1637376742~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=3d2164af80ed9506bb0c12f6033c2d24c5ad03552c07eee72e4cb87d703e377a/vp9/204_stream.mpd
@@ -796,6 +796,8 @@ http://new-pro.tv:8080/waelwael/2r1sBY8wJK/33693
 
 
 #EXTINF:-1 group-title="beIN Sports Channel", Bein Sport 2 French
+
+
 
 
 
