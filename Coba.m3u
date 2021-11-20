@@ -43,22 +43,22 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerc
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1637376419~acl=/hls-b/ingest_6685_*/*~hmac=2e37a4bb00e1d335c0944454e15e24c16fef7041dcdb65fb46c5411db339aa4e/hls-b/ingest_6685_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1637461261~acl=/hls-b/ingest_6685_*/*~hmac=a70d1fe8bd06dfa381749a85667ee1498063313e64c4c3aa3617aa8b6131fdfe/hls-b/ingest_6685_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1637376511~acl=/hls-p/ingest_6686_*/*~hmac=480571fce9856168a593826e28f66908e2de2004bbbc4995c23505ccd3def273/hls-p/ingest_6686_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1637461299~acl=/hls-p/ingest_6686_*/*~hmac=2fc5ef8f89eececeb5ad43aab46e0dc9e5d4197323b106478956971b433f84ba/hls-p/ingest_6686_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1637376662~acl=/hls-p/ingest_6786_*/*~hmac=516c41d7cd18420112bef2b660d9bb0a83879a8f6f7d57d7fff24cf14b644ad8/hls-p/ingest_6786_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1637461333~acl=/hls-p/ingest_6786_*/*~hmac=06076a0b29fbbc712a6a4d32a18c7699708442eeddeb833b574731d748dde855/hls-p/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1637420711~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=ae377007f9ae021b9d31f48a801890b67198f8ef7c6d3f2028a0cf9e0dad7f85/vp9/205_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1637461361~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=7794e5b53138eb16fa0e78f62934da66970a61c2669e45055ffa7fa7b735fbbe/vp9/205_stream.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", SCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1637376742~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=3d2164af80ed9506bb0c12f6033c2d24c5ad03552c07eee72e4cb87d703e377a/vp9/204_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1637461396~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=eaa88b23cb194bcec91d0ab6224e0b17638809ab876fd9e6d8a7075d8984ac9f/vp9/204_stream.mpd
 
 #EXTINF:-1 group-title="Indo Sports", O Channel HD
-https://etslive-2-vidio-com.akamaized.net/exp=1637376792~acl=/hls-p/ingest_206_*/*~hmac=4602c1d336447e5ce6c6aeeee318a8efe53a157b03ba587ad5b6f54546b18141/hls-p/ingest_206_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1637461499~acl=/hls-p/ingest_206_*/*~hmac=9336efde8a0bc247302d1bd45331073f58b68d71f5316ba570071707143d6c3e/hls-p/ingest_206_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
@@ -751,34 +751,34 @@ http://iptv.tvmalaysia.cc:80/penang189/penang189/9026
 ####beIN Sports Channel####
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 1 Premium
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/154695
+http://portal.alliptvapp.com:8080/194794670314/654316208617/31248
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 2 Premium
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/154696
+http://portal.alliptvapp.com:8080/194794670314/654316208617/8298
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 3 Premium
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/154697
+http://portal.alliptvapp.com:8080/194794670314/654316208617/8300
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 1
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/154698
+http://portal.alliptvapp.com:8080/194794670314/654316208617/8276
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 2
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/154699
+http://portal.alliptvapp.com:8080/194794670314/654316208617/8279
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 3
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/154700
+http://portal.alliptvapp.com:8080/194794670314/654316208617/8282
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 4
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/154701
+http://portal.alliptvapp.com:8080/194794670314/654316208617/8285
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 5
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/154702
+http://portal.alliptvapp.com:8080/194794670314/654316208617/8288
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 6
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/154703
+http://portal.alliptvapp.com:8080/194794670314/654316208617/8291
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 7
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/154704
+http://portal.alliptvapp.com:8080/194794670314/654316208617/8294
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports Olympic
 http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3675
