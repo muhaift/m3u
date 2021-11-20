@@ -43,7 +43,7 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerc
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://shorturl.at/deluE
+https://etslive-2-vidio-com.akamaized.net/exp=1637376419~acl=/hls-b/ingest_6685_*/*~hmac=2e37a4bb00e1d335c0944454e15e24c16fef7041dcdb65fb46c5411db339aa4e/hls-b/ingest_6685_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
 https://etslive-2-vidio-com.akamaized.net/exp=1637376511~acl=/hls-p/ingest_6686_*/*~hmac=480571fce9856168a593826e28f66908e2de2004bbbc4995c23505ccd3def273/hls-p/ingest_6686_360p/index.m3u8
@@ -751,45 +751,46 @@ http://iptv.tvmalaysia.cc:80/penang189/penang189/9026
 ####beIN Sports Channel####
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 1 Premium
-
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/154695
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 2 Premium
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3674
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/154696
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 3 Premium
-
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/154697
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 1
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3666
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/154698
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 2
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3667
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/154699
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 3
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3668
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/154700
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 4
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3669
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/154701
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 5
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3673
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/154702
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 6
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3671
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/154703
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 7
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/154704
 
 #EXTINF:-1 group-title="beIN Sports Channel", beIN Sports Olympic
 http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3675
 
-#EXTINF:-1 group-title="beIN Sports Channel", Bein Sport 1 English
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3676
+#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 1 English
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/33690
 
-#EXTINF:-1 group-title="beIN Sports Channel", Bein Sport 2 English
+#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 2 English
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/33694
 
-
-#EXTINF:-1 group-title="beIN Sports Channel", Bein Sport 3 English
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3678
+#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 3 English
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/33693
 
 #EXTINF:-1 group-title="beIN Sports Channel", Bein Sport 1 French
 
