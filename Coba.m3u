@@ -609,6 +609,9 @@ https://fashs043.cloudycdn.services/scte/pg13/pg13_480p_chunklist.m3u8
 #EXTINF:-1 group-title="Fashion TV", Fashion TV 5
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8?live_suff
 
+#EXTINF:-1 group-title="Fashion TV", Fashion TV 6
+https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg13_adaptive_v3.smil/playlist.m3u8
+
 ####FightSports####
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
