@@ -37,10 +37,10 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerc
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1637461261~acl=/hls-b/ingest_6685_*/*~hmac=a70d1fe8bd06dfa381749a85667ee1498063313e64c4c3aa3617aa8b6131fdfe/hls-b/ingest_6685_360p/index.m3u8
+http://opplex.tv:8080/993300/993300/204782
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1637461299~acl=/hls-p/ingest_6686_*/*~hmac=2fc5ef8f89eececeb5ad43aab46e0dc9e5d4197323b106478956971b433f84ba/hls-p/ingest_6686_360p/index.m3u8
+http://opplex.tv:8080/993300/993300/204783
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
 https://etslive-2-vidio-com.akamaized.net/exp=1637461333~acl=/hls-p/ingest_6786_*/*~hmac=06076a0b29fbbc712a6a4d32a18c7699708442eeddeb833b574731d748dde855/hls-p/ingest_6786_360p/index.m3u8
@@ -388,7 +388,7 @@ http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 
 #EXTINF:-1 group-title="Astro TV", Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6725
 
 #EXTINF:-1 group-title="Astro TV", 
 
@@ -756,72 +756,110 @@ http://iptv.tvmalaysia.cc:80/penang189/penang189/9020
 #EXTINF:-1 group-title="Astro Sports", ASSP 4
 http://iptv.tvmalaysia.cc:80/penang189/penang189/9026
 
-####beIN Sports Channels####
+####beIN Sports Channels HD####
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 1 HD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14980
+#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 1 Premium HD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94498
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 2 HD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14982
+#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 2 Premium HD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94494
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 3 HD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14984
+#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 3 Premium HD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94490
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 4 HD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14986
+#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 1 HD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94486
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 5 HD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14988
+#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 2 HD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94482
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 6 HD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14990
+#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 3 HD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94478
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 7 HD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14992
+#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 4 HD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94474
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 1 SD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14981
+#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 5 HD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94470
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 2 SD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14983
+#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 6 HD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94466
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 3 SD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14985
+#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 7 HD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94462
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 4 SD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14987
+#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports Xtra 1 HD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94459
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 5 SD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14989
+#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports Xtra 2 HD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94456
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 6 SD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14991
+#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 1 English HD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94452
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 7 SD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14993
+#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 2 English HD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94448
+
+#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 3 English HD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94444
+
+####beIN Sports Channel SD####
+
+#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 1 Premium SD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94496
+
+#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 2 Premium SD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94492
+
+#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 3 Premium SD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94488
+
+#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 1 SD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94484
+
+#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 2 SD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94480
+
+#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 3 SD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94476
+
+#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 4 SD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94472
+
+#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 5 SD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94468
+
+#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 6 SD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94464
+
+#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 7 SD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94460
+
+#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports Xtra 1 SD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94457
+
+#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports Xtra 2 SD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94454
+
+#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 1 English SD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94450
+
+#EXTINF:-1 group-title="beIN Sports Channels Szd", beIN Sports 2 English SD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94446
+
+#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 3 English SD
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94442
 
 ####MatchSports####
 
-#EXTINF:-1 group-title="Match Sports", MATCH! HD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/15334
-
-#EXTINF:-1 group-title="Match Sports", MATCH! ARENA
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/15278
-
-#EXTINF:-1 group-title="Match Sports", MATCH! ARENA HD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/15260
-
-#EXTINF:-1 group-title="Match Sports", MATCH! NASH
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/15259
-
 #EXTINF:-1 group-title="Match Sports", MATCH! FUTBOOL 1
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/15247
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/34080
 
 #EXTINF:-1 group-title="Match Sports", MATCH! FUTBOOL 2
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/15246
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/34079
 
 #EXTINF:-1 group-title="Match Sports", MATCH! FUTBOOL 3
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/15245
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/34077
 
 
 ####BTSports####
@@ -847,16 +885,16 @@ http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/2673
 ####ArenaSports####
 
 #EXTINF:-1 group-title="Arena Sports", Arena Sports 1 HD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/1436
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/41396
 
 #EXTINF:-1 group-title="Arena Sports", Arena Sports 2 HD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/1437
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/41395
 
 #EXTINF:-1 group-title="Arena Sports", Arena Sports 3 HD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/1438
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/41394
 
 #EXTINF:-1 group-title="Arena Sports", Arena Sports 4 HD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/1439
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/41393
 
 #EXTINF:-1 group-title="Arena Sports", Arena Sports 5 HD
 http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/13827
@@ -867,22 +905,22 @@ http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/13828
 ####SportsTV####
 
 #EXTINF:-1 group-title="Sports TV", Sports TV +
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/9499
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/69000
 
 #EXTINF:-1 group-title="Sports TV", Sports TV 1 HD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/7846
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/68990
 
 #EXTINF:-1 group-title="Sports TV", Sports TV 2 HD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/7845
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/68993
 
 #EXTINF:-1 group-title="Sports TV", Sports TV 3 HD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/7844
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/68995
 
 #EXTINF:-1 group-title="Sports TV", Sports TV 4 HD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/7843
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/68997
 
 #EXTINF:-1 group-title="Sports TV", Sports TV 5 HD
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/7842
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/68999
 
 #EXTINF:-1 group-title="Sports TV", Sports TV 1 SD
 http://iptvworld.xyz:2095/live/hXZp0zPK/djDM7bPC/68989.m3u8
@@ -910,99 +948,36 @@ http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/87131
 ####Eleven Sports####
 
 #EXTINF:-1 group-title="Eleven Sports", Eleven Sports 1
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/23325
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/69002
 
 #EXTINF:-1 group-title="Eleven Sports", Eleven Sports 2
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/23320
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/69005
 
 #EXTINF:-1 group-title="Eleven Sports", Eleven Sports 3
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/23321
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/69008
 
 #EXTINF:-1 group-title="Eleven Sports", Eleven Sports 4
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/23322
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/69011
 
 #EXTINF:-1 group-title="Eleven Sports", Eleven Sports 5
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/23323
-
-####SportKlub####
-
-#EXTINF:-1 group-title="Sport Klub", Sport Klub 1
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/17252
-
-#EXTINF:-1 group-title="Sport Klub", Sport Klub 2
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/13833
-
-#EXTINF:-1 group-title="Sport Klub", Sport Klub 3
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/13834
-
-#EXTINF:-1 group-title="Sport Klub", Sport Klub 4
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/1724
-
-#EXTINF:-1 group-title="Sport Klub", Sport Klub 5
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/17250
-
-#EXTINF:-1 group-title="Sport Klub", Sport Klub 6
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/17251
-
-####PrimeVideo####
-
-#EXTINF:-1 group-title="Prime Video", PRIME VIDEO 1
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/86109
-
-#EXTINF:-1 group-title="Prime Video", PRIME VIDEO 2
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/86110
-
-#EXTINF:-1 group-title="Prime Video", PRIME VIDEO 3
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/86111
-
-#EXTINF:-1 group-title="Prime Video", PRIME VIDEO 4
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/86112
-
-#EXTINF:-1 group-title="Prime Video", PRIME VIDEO 5
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/86113
-
-#EXTINF:-1 group-title="Prime Video", PRIME VIDEO 6
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/86114
-
-#EXTINF:-1 group-title="Prime Video", PRIME VIDEO 7
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/86115
-
-#EXTINF:-1 group-title="Prime Video", PRIME VIDEO 8
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/86116
-
-####ESPN Sports####
-
-#EXTINF:-1 group-title="ESPN Sports", ESPN 1
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/15843
-
-#EXTINF:-1 group-title="ESPN Sports", ESPN 2
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/4170
-
-#EXTINF:-1 group-title="ESPN Sports", ESPN 3
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/4171
-
-#EXTINF:-1 group-title="ESPN Sports", ESPN 4
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/4172
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/69012
 
 ####NovaSports####
 
-#EXTINF:-1 group-title="Nova Sports", Nova Sports Prime
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/88330
-
 #EXTINF:-1 group-title="Nova Sports", Nova Sports 1
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/26818
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/44142
 
 #EXTINF:-1 group-title="Nova Sports", Nova Sports 2
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/26819
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/44143
 
 #EXTINF:-1 group-title="Nova Sports", Nova Sports 3
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/64906
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/44144
 
 #EXTINF:-1 group-title="Nova Sports", Nova Sports 4
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/64907
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/44145
 
-
-
+#EXTINF:-1 group-title="Nova Sports", Nova Sports 5
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/44146
 
 
 
