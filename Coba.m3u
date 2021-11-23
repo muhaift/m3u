@@ -756,98 +756,51 @@ http://iptv.tvmalaysia.cc:80/penang189/penang189/9020
 #EXTINF:-1 group-title="Astro Sports", ASSP 4
 http://iptv.tvmalaysia.cc:80/penang189/penang189/9026
 
-####beIN Sports Channels HD####
+####beIN Sports Channels####
 
-#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 1 Premium HD
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94498
-
-#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 2 Premium HD
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94494
-
-#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 3 Premium HD
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94490
-
-#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 1 HD
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94486
-
-#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 2 HD
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94482
-
-#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 3 HD
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94478
-
-#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 4 HD
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94474
-
-#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 5 HD
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94470
-
-#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 6 HD
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94466
-
-#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 7 HD
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94462
-
-#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports Xtra 1 HD
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94459
-
-#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports Xtra 2 HD
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94456
-
-#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 1 English HD
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94452
-
-#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 2 English HD
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94448
-
-#EXTINF:-1 group-title="beIN Sports Channels HD", beIN Sports 3 English HD
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94444
-
-####beIN Sports Channel SD####
-
-#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 1 Premium SD
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 1 Premium
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94496
 
-#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 2 Premium SD
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 2 Premium
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94492
 
-#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 3 Premium SD
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 3 Premium
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94488
 
-#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 1 SD
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 1
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94484
 
-#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 2 SD
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 2
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94480
 
-#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 3 SD
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 3
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94476
 
-#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 4 SD
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 4
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94472
 
-#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 5 SD
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 5
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94468
 
-#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 6 SD
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 6
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94464
 
-#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 7 SD
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 7
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94460
 
-#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports Xtra 1 SD
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports Xtra 1
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94457
 
-#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports Xtra 2 SD
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports Xtra 2
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94454
 
-#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 1 English SD
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 1 English
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94450
 
-#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 2 English SD
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 2 English
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94446
 
-#EXTINF:-1 group-title="beIN Sports Channels SD", beIN Sports 3 English SD
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 3 English
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94442
 
 ####MatchSports####
