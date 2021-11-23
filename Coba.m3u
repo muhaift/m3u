@@ -11,12 +11,6 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:-1 group-title="Indo Sports",  beIN Sports 2 ID
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#EXTINF:-1 group-title="Indo Sports", Usee sports 1
-http://194.233.78.49:2082/live/DurianTv/EbnZTI6oI8/8285.ts
-
-#EXTINF:-1 group-title="Indo Sports", Usee sports 2
-http://194.233.78.49:2082/live/DurianTv/EbnZTI6oI8/8286.ts
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Indo Sports",  MNC Sports
@@ -67,11 +61,6 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title=" Indo Sports",  BWF 1
 https://liveanevia.mncnow.id/live/eds/MNC-Sports2/sa_dash_vmx/MNC-Sports2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title=" Indo Sports",  BWF 2
-https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 ####Indo TV####
 
@@ -417,7 +406,7 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 https://liveanevia.mncnow.id/live/eds/Aniplus/sa_dash_vmx/Aniplus.mpd
 
 #EXTINF:-1 group-title="Japan",  Waku Waku Japan
-http://foctv.xyz:25510/Amir5641/YY5641/104
+http://opplex.tv:8080/993300/993300/204857
 
 #EXTINF:-1 group-title="Japan",  Sony Gem TV
 http://rr.dens.tv/h/h19/index.m3u8
@@ -425,7 +414,7 @@ http://rr.dens.tv/h/h19/index.m3u8
 ####HBO####
 
 #EXTINF:-1 group-title="HBO GO", HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+http://opplex.tv:8080/993300/993300/204801
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -619,6 +608,9 @@ https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg1
 #EXTINF:-1 group-title=" Fight Sports",  Fight Sports
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
+#EXTINF:-1 group-title="Fight Sports", Fight Box
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/19666
+
 #EXTINF:-1 group-title=" Fight Sports",  WWE
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 
@@ -627,6 +619,12 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 #EXTINF:-1 group-title=" Fight Sports",  UFC
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1 group-title="Fight Sports", UFC Fight Pass
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/18170
+
+#EXTINF:-1 group-title="Fight Sports", UFC TV
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/27221
 
 ####Sony Ten###
 
@@ -646,6 +644,12 @@ https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 
 #EXTINF:-1 group-title="All Sports", SPOTV
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
+
+#EXTINF:-1 group-title="All Sports", SPO TV 1
+http://iptvworld.xyz:2095/live/hXZp0zPK/djDM7bPC/115427.m3u8
+
+#EXTINF:-1 group-title="All Sports", SPO TV 2
+http://iptvworld.xyz:2095/live/hXZp0zPK/djDM7bPC/115433.m3u8
 
 #EXTINF:-1 group-title="All Sports", Unifi Sport 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
@@ -751,54 +755,253 @@ http://iptv.tvmalaysia.cc:80/penang189/penang189/9020
 #EXTINF:-1 group-title="Astro Sports", ASSP 4
 http://iptv.tvmalaysia.cc:80/penang189/penang189/9026
 
-####beIN Sports Channel####
+####beIN Sports Channels####
 
-#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 1 Premium
-http://portal.alliptvapp.com:8080/194794670314/654316208617/31248
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 1 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14980
 
-#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 2 Premium
-http://portal.alliptvapp.com:8080/194794670314/654316208617/8298
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 2 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14982
 
-#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 3 Premium
-http://portal.alliptvapp.com:8080/194794670314/654316208617/8300
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 3 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14984
 
-#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 1
-http://portal.alliptvapp.com:8080/194794670314/654316208617/8276
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 4 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14986
 
-#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 2
-http://portal.alliptvapp.com:8080/194794670314/654316208617/8279
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 5 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14988
 
-#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 3
-http://portal.alliptvapp.com:8080/194794670314/654316208617/8282
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 6 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14990
 
-#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 4
-http://portal.alliptvapp.com:8080/194794670314/654316208617/8285
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 7 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14992
 
-#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 5
-http://portal.alliptvapp.com:8080/194794670314/654316208617/8288
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 1 SD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14981
 
-#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 6
-http://portal.alliptvapp.com:8080/194794670314/654316208617/8291
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 2 SD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14983
 
-#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 7
-http://portal.alliptvapp.com:8080/194794670314/654316208617/8294
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 3 SD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14985
 
-#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports Olympic
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3675
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 4 SD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14987
 
-#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 1 English
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/33690
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 5 SD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14989
 
-#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 2 English
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/33694
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 6 SD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14991
 
-#EXTINF:-1 group-title="beIN Sports Channel", beIN Sports 3 English
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/33693
+#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 7 SD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/14993
 
-#EXTINF:-1 group-title="beIN Sports Channel", Bein Sport 1 French
+####MatchSports####
+
+#EXTINF:-1 group-title="Match Sports", MATCH! HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/15334
+
+#EXTINF:-1 group-title="Match Sports", MATCH! ARENA
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/15278
+
+#EXTINF:-1 group-title="Match Sports", MATCH! ARENA HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/15260
+
+#EXTINF:-1 group-title="Match Sports", MATCH! NASH
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/15259
+
+#EXTINF:-1 group-title="Match Sports", MATCH! FUTBOOL 1
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/15247
+
+#EXTINF:-1 group-title="Match Sports", MATCH! FUTBOOL 2
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/15246
+
+#EXTINF:-1 group-title="Match Sports", MATCH! FUTBOOL 3
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/15245
 
 
-#EXTINF:-1 group-title="beIN Sports Channel", Bein Sport 2 French
+####BTSports####
+
+#EXTINF:-1 group-title="BT Sports", BT SPORT 1 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/1991
+
+#EXTINF:-1 group-title="BT Sports", BT SPORT 2 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/1992
+
+#EXTINF:-1 group-title="BT Sports", BT SPORT 3 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/1965
+
+#EXTINF:-1 group-title="BT Sports", BT SPORT 1 SD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/3586
+
+#EXTINF:-1 group-title="BT Sports", BT SPORT 2 SD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/3588
+
+#EXTINF:-1 group-title="BT Sports", BT SPORT ESPN
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/2673
+
+####ArenaSports####
+
+#EXTINF:-1 group-title="Arena Sports", Arena Sports 1 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/1436
+
+#EXTINF:-1 group-title="Arena Sports", Arena Sports 2 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/1437
+
+#EXTINF:-1 group-title="Arena Sports", Arena Sports 3 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/1438
+
+#EXTINF:-1 group-title="Arena Sports", Arena Sports 4 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/1439
+
+#EXTINF:-1 group-title="Arena Sports", Arena Sports 5 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/13827
+
+#EXTINF:-1 group-title="Arena Sports", Arena Sports 6 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/13828
+
+####SportsTV####
+
+#EXTINF:-1 group-title="Sports TV", Sports TV +
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/9499
+
+#EXTINF:-1 group-title="Sports TV", Sports TV 1 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/7846
+
+#EXTINF:-1 group-title="Sports TV", Sports TV 2 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/7845
+
+#EXTINF:-1 group-title="Sports TV", Sports TV 3 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/7844
+
+#EXTINF:-1 group-title="Sports TV", Sports TV 4 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/7843
+
+#EXTINF:-1 group-title="Sports TV", Sports TV 5 HD
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/7842
+
+#EXTINF:-1 group-title="Sports TV", Sports TV 1 SD
+http://iptvworld.xyz:2095/live/hXZp0zPK/djDM7bPC/68989.m3u8
+
+#EXTINF:-1 group-title="Sports TV", Sports TV 2 SD
+http://iptvworld.xyz:2095/live/hXZp0zPK/djDM7bPC/68993.m3u8
+
+####DaznSports####
+
+#EXTINF:-1 group-title="Dazn Sports", Dazn Sports 1
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/72648
+
+#EXTINF:-1 group-title="Dazn Sports", Dazn Sports 2
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/87128
+
+#EXTINF:-1 group-title="Dazn Sports", Dazn Sports 3
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/87129
+
+#EXTINF:-1 group-title="Dazn Sports", Dazn Sports 4
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/87130
+
+#EXTINF:-1 group-title="Dazn Sports", Dazn Sports 5
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/87131
+
+####Eleven Sports####
+
+#EXTINF:-1 group-title="Eleven Sports", Eleven Sports 1
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/23325
+
+#EXTINF:-1 group-title="Eleven Sports", Eleven Sports 2
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/23320
+
+#EXTINF:-1 group-title="Eleven Sports", Eleven Sports 3
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/23321
+
+#EXTINF:-1 group-title="Eleven Sports", Eleven Sports 4
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/23322
+
+#EXTINF:-1 group-title="Eleven Sports", Eleven Sports 5
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/23323
+
+####SportKlub####
+
+#EXTINF:-1 group-title="Sport Klub", Sport Klub 1
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/17252
+
+#EXTINF:-1 group-title="Sport Klub", Sport Klub 2
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/13833
+
+#EXTINF:-1 group-title="Sport Klub", Sport Klub 3
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/13834
+
+#EXTINF:-1 group-title="Sport Klub", Sport Klub 4
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/1724
+
+#EXTINF:-1 group-title="Sport Klub", Sport Klub 5
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/17250
+
+#EXTINF:-1 group-title="Sport Klub", Sport Klub 6
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/17251
+
+####PrimeVideo####
+
+#EXTINF:-1 group-title="Prime Video", PRIME VIDEO 1
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/86109
+
+#EXTINF:-1 group-title="Prime Video", PRIME VIDEO 2
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/86110
+
+#EXTINF:-1 group-title="Prime Video", PRIME VIDEO 3
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/86111
+
+#EXTINF:-1 group-title="Prime Video", PRIME VIDEO 4
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/86112
+
+#EXTINF:-1 group-title="Prime Video", PRIME VIDEO 5
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/86113
+
+#EXTINF:-1 group-title="Prime Video", PRIME VIDEO 6
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/86114
+
+#EXTINF:-1 group-title="Prime Video", PRIME VIDEO 7
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/86115
+
+#EXTINF:-1 group-title="Prime Video", PRIME VIDEO 8
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/86116
+
+####ESPN Sports####
+
+#EXTINF:-1 group-title="ESPN Sports", ESPN 1
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/15843
+
+#EXTINF:-1 group-title="ESPN Sports", ESPN 2
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/4170
+
+#EXTINF:-1 group-title="ESPN Sports", ESPN 3
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/4171
+
+#EXTINF:-1 group-title="ESPN Sports", ESPN 4
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/4172
+
+####NovaSports####
+
+#EXTINF:-1 group-title="Nova Sports", Nova Sports Prime
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/88330
+
+#EXTINF:-1 group-title="Nova Sports", Nova Sports 1
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/26818
+
+#EXTINF:-1 group-title="Nova Sports", Nova Sports 2
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/26819
+
+#EXTINF:-1 group-title="Nova Sports", Nova Sports 3
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/64906
+
+#EXTINF:-1 group-title="Nova Sports", Nova Sports 4
+http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/64907
+
+
+
 
 
 
