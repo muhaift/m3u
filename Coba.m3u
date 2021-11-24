@@ -36,6 +36,12 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerc
 #EXTINF:-1 group-title=" Indo Sports",  Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
+#EXTINF:-1 group-title=" Indo Sports", Usee Sports 1
+https://m3u-editor.com/serve/cb4e33e0-4c31-11ec-9d3d-47060972a409/432232261
+
+#EXTINF:-1 group-title=" Indo Sports", Usee Sports 2
+https://m3u-editor.com/serve/cb4e33e0-4c31-11ec-9d3d-47060972a409/432232262
+
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
 http://opplex.tv:8080/993300/993300/204782
 
@@ -43,7 +49,10 @@ http://opplex.tv:8080/993300/993300/204782
 http://opplex.tv:8080/993300/993300/204783
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1637461333~acl=/hls-p/ingest_6786_*/*~hmac=06076a0b29fbbc712a6a4d32a18c7699708442eeddeb833b574731d748dde855/hls-p/ingest_6786_360p/index.m3u8
+https://m3u-editor.com/serve/cb4e33e0-4c31-11ec-9d3d-47060972a409/432232268
+
+#EXTINF:-1 group-title=" Indo Sports", Champions TV 4
+https://m3u-editor.com/serve/cb4e33e0-4c31-11ec-9d3d-47060972a409/432232269
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
 https://etslive-2-vidio-com.akamaized.net/exp=1637461361~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=7794e5b53138eb16fa0e78f62934da66970a61c2669e45055ffa7fa7b735fbbe/vp9/205_stream.mpd
@@ -390,8 +399,8 @@ http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1 group-title="Astro TV", Astro Oasis
 http://iptv.tvmalaysia.cc:80/penang189/penang189/6725
 
-#EXTINF:-1 group-title="Astro TV", 
-
+#EXTINF:-1 group-title="Astro TV", Astro Aura
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6713
 
 ####Japan####
 
@@ -756,51 +765,54 @@ http://iptv.tvmalaysia.cc:80/penang189/penang189/9020
 #EXTINF:-1 group-title="Astro Sports", ASSP 4
 http://iptv.tvmalaysia.cc:80/penang189/penang189/9026
 
-####beIN Sports Channels####
+#EXTINF:-1 group-title="Astro Sports", ASSP 5
+http://iptv.tvmalaysia.cc:80/penang189/penang189/9029
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 1 Premium
+####beIN Sports####
+
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 1 Premium
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94496
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 2 Premium
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 2 Premium
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94492
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 3 Premium
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 3 Premium
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94488
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 1
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 1
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94484
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 2
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 2
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94480
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 3
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 3
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94476
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 4
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 4
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94472
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 5
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 5
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94468
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 6
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 6
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94464
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 7
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 7
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94460
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports Xtra 1
+#EXTINF:-1 group-title="beIN Sports", beIN Sports Xtra 1
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94457
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports Xtra 2
+#EXTINF:-1 group-title="beIN Sports", beIN Sports Xtra 2
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94454
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 1 English
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 1 English
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94450
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 2 English
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 2 English
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94446
 
-#EXTINF:-1 group-title="beIN Sports Channels", beIN Sports 3 English
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 3 English
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/94442
 
 ####MatchSports####
@@ -880,23 +892,6 @@ http://iptvworld.xyz:2095/live/hXZp0zPK/djDM7bPC/68989.m3u8
 
 #EXTINF:-1 group-title="Sports TV", Sports TV 2 SD
 http://iptvworld.xyz:2095/live/hXZp0zPK/djDM7bPC/68993.m3u8
-
-####DaznSports####
-
-#EXTINF:-1 group-title="Dazn Sports", Dazn Sports 1
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/72648
-
-#EXTINF:-1 group-title="Dazn Sports", Dazn Sports 2
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/87128
-
-#EXTINF:-1 group-title="Dazn Sports", Dazn Sports 3
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/87129
-
-#EXTINF:-1 group-title="Dazn Sports", Dazn Sports 4
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/87130
-
-#EXTINF:-1 group-title="Dazn Sports", Dazn Sports 5
-http://cloudcdn.tk:80/1MXkQjAYE978/HwRXv7865/87131
 
 ####Eleven Sports####
 
