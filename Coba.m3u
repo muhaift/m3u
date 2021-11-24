@@ -37,10 +37,10 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerc
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Usee Sports 1
-https://m3u-editor.com/serve/cb4e33e0-4c31-11ec-9d3d-47060972a409/432232261
+http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/8285
 
 #EXTINF:-1 group-title=" Indo Sports", Usee Sports 2
-https://m3u-editor.com/serve/cb4e33e0-4c31-11ec-9d3d-47060972a409/432232262
+http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/8286
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
 http://opplex.tv:8080/993300/993300/204782
@@ -55,7 +55,7 @@ https://m3u-editor.com/serve/cb4e33e0-4c31-11ec-9d3d-47060972a409/432232268
 https://m3u-editor.com/serve/cb4e33e0-4c31-11ec-9d3d-47060972a409/432232269
 
 #EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1637461361~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=7794e5b53138eb16fa0e78f62934da66970a61c2669e45055ffa7fa7b735fbbe/vp9/205_stream.mpd
+http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/5117
 
 #EXTINF:-1 group-title=" Indo Sports", SCTV HD
 https://etslive-2-vidio-com.akamaized.net/exp=1637461396~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=eaa88b23cb194bcec91d0ab6224e0b17638809ab876fd9e6d8a7075d8984ac9f/vp9/204_stream.mpd
