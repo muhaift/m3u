@@ -54,15 +54,6 @@ https://m3u-editor.com/serve/cb4e33e0-4c31-11ec-9d3d-47060972a409/432232268
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 4
 https://m3u-editor.com/serve/cb4e33e0-4c31-11ec-9d3d-47060972a409/432232269
 
-#EXTINF:-1 group-title=" Indo Sports", Indosiar HD
-http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/5117
-
-#EXTINF:-1 group-title=" Indo Sports", SCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1637461396~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=eaa88b23cb194bcec91d0ab6224e0b17638809ab876fd9e6d8a7075d8984ac9f/vp9/204_stream.mpd
-
-#EXTINF:-1 group-title="Indo Sports", O Channel HD
-https://etslive-2-vidio-com.akamaized.net/exp=1637461499~acl=/hls-p/ingest_206_*/*~hmac=9336efde8a0bc247302d1bd45331073f58b68d71f5316ba570071707143d6c3e/hls-p/ingest_206_360p/index.m3u8
-
 #EXTINF:-1 group-title="Indo Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
 
@@ -70,6 +61,20 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title=" Indo Sports",  BWF 1
 https://liveanevia.mncnow.id/live/eds/MNC-Sports2/sa_dash_vmx/MNC-Sports2.mpd
+
+####Indo TV HD####
+
+#EXTINF:-1 group-title=" Indo TV HD", Indosiar HD
+http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/5117
+
+#EXTINF:-1 group-title=" Indo TV HD", SCTV HD
+http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/5147
+
+#EXTINF:-1 group-title="Indo TV HD", O Channel HD
+https://etslive-2-vidio-com.akamaized.net/exp=1637461499~acl=/hls-p/ingest_206_*/*~hmac=9336efde8a0bc247302d1bd45331073f58b68d71f5316ba570071707143d6c3e/hls-p/ingest_206_360p/index.m3u8
+
+#EXTINF:-1 group-title="Indo TV HD", Trans TV HD
+http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/5151
 
 ####Indo TV####
 
