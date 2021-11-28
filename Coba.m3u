@@ -37,19 +37,19 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerc
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Usee Sports 1
-http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/8285
+https://dik.si/SEuseesports?SHAREEXT.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Usee Sports 2
-http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/8286
+https://dik.si/SEuseesport2?SHAREEXT.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1638071287~acl=/hls-b/ingest_6685_*/*~hmac=0e6c2a813b646b745d65cba372df70470e21522ef0eca937c41140222bc174cd/hls-b/ingest_6685_360p/index.m3u8
+https://dik.si/SEchampiontv1?shareext.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-http://mantul.biz.id:8888/edy7/704/253
+https://dik.si/SEchampiontv2?shareext.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-http://mantul.biz.id:8888/edy7/704/77
+https://dik.si/SEchampiontv3?shareext.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 4
 http://mantul.biz.id:8888/edy7/704/13922
@@ -65,16 +65,16 @@ https://liveanevia.mncnow.id/live/eds/MNC-Sports2/sa_dash_vmx/MNC-Sports2.mpd
 ####Indo TV HD####
 
 #EXTINF:-1 group-title=" Indo TV HD", Indosiar HD
-http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/5117
+https://link.zozotv.xyz:443/ding/ding/45
 
 #EXTINF:-1 group-title=" Indo TV HD", SCTV HD
-http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/5147
+https://link.zozotv.xyz:443/ding/ding/46
 
 #EXTINF:-1 group-title="Indo TV HD", O Channel HD
 http://mantul.biz.id:8888/edy7/704/8251
 
 #EXTINF:-1 group-title="Indo TV HD", Trans TV HD
-http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/5151
+https://link.zozotv.xyz:443/ding/ding/43
 
 ####Indo TV####
 
