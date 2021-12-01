@@ -11,31 +11,6 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:-1 group-title="Indo Sports",  beIN Sports 2 ID
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Indo Sports",  MNC Sports
-https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Indo Sports",  MNC Sports 3
-https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Indo Sports",  MNC Sports Plus
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title=" Indo Sports",  Soccer Channel Plus
-https://liveanevia.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerchannel-NonLiga1.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title=" Indo Sports",  Soccer Channel
-https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
 #EXTINF:-1 group-title="Indo Sports", BRI Liga 1 Match Live
 https://etslive-2-vidio-com.akamaized.net/exp=1638114171~acl=/vp9/8015_stream.mpd!/vp9/8015/*~hmac=cbef5a2caaefd68eee4dc1f7f19879bb59243b065728adbcdd0e76d6e350cf92/vp9/8015_stream.mpd
 
@@ -60,10 +35,37 @@ http://mantul.biz.id:8888/edy7/704/13922
 #EXTINF:-1 group-title="Indo Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
 
+####MNC Sports Channels####
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title=" Indo Sports",  BWF 1
+#EXTINF:-1 group-title="MNC Sports Channels",  MNC Sports
+https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title=" MNC Sports Channels",  MNC Sports 2
 https://liveanevia.mncnow.id/live/eds/MNC-Sports2/sa_dash_vmx/MNC-Sports2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="MNC Sports Channels",  MNC Sports 3
+https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="MNC Sports Channels",  MNC Sports Plus
+https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title=" MNC Sports Channels",  Soccer Channel Plus
+https://liveanevia.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerchannel-NonLiga1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title=" MNC Sports Channels",  Soccer Channel
+https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 ####Indo TV HD####
 
@@ -367,22 +369,22 @@ https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 ####MalayTV####
 
 #EXTINF:-1 group-title="Malay TV", TV 1
-http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang189/penang189/7177
 
 #EXTINF:-1 group-title="Malay TV", TV 2
-http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang189/penang189/7178
 
 #EXTINF:-1 group-title="Malay TV", TV 3
-http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/40761
 
 #EXTINF:-1 group-title="Malay TV", NTV 7
-http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/40760
 
 #EXTINF:-1 group-title="Malay TV", 8 TV
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/40766
 
 #EXTINF:-1 group-title="Malay TV", TV 9
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/40765
 
 #####AstroTV#####
 
@@ -390,25 +392,43 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 #EXTINF:-1 group-title="Astro TV", Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang189/penang189/7267
 
 #EXTINF:-1 group-title="Astro TV", Astro Ria
-http://198.16.106.61:8278/streams/d/Ria/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6730
 
 #EXTINF:-1 group-title="Astro TV", Astro Prima
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6727
+
+#EXTINF:-1 group-title="Astro TV", Astro Warna
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6740
 
 #EXTINF:-1 group-title="Astro TV", Astro Naura
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6724
 
 #EXTINF:-1 group-title="Astro TV", Astro Awani
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6714
 
 #EXTINF:-1 group-title="Astro TV", Astro Oasis
 http://iptv.tvmalaysia.cc:80/penang189/penang189/6725
 
 #EXTINF:-1 group-title="Astro TV", Astro Aura
 http://iptv.tvmalaysia.cc:80/penang189/penang189/6713
+
+#EXTINF:-1 group-title="Astro TV", ASTRO AOD 351 HD
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6702
+
+#EXTINF:-1 group-title="Astro TV", ASTRO AOD 352 HD
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6703
+
+#EXTINF:-1 group-title="Astro TV", ASTRO AOD 353 HD
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6704
+
+#EXTINF:-1 group-title="Astro TV", ASTRO AOD 354 HD
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6705
+
+#EXTINF:-1 group-title="Astro TV", ASTRO AOD 355 HD
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6706
 
 ####Japan####
 
@@ -756,7 +776,7 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports6/playlist.m3u8
 ####Astro Super Sport####
 
 #EXTINF:-1 group-title="Astro Sports", Astro Arena
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6707
 
 #EXTINF:-1 group-title="Astro Sports", Astro Arena 2
 http://iptv.tvmalaysia.cc:80/penang189/penang189/9028
