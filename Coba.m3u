@@ -15,10 +15,10 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 https://etslive-2-vidio-com.akamaized.net/exp=1638114171~acl=/vp9/8015_stream.mpd!/vp9/8015/*~hmac=cbef5a2caaefd68eee4dc1f7f19879bb59243b065728adbcdd0e76d6e350cf92/vp9/8015_stream.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Usee Sports 1
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
+https://dik.si/SEuseesports?SHAREEXT.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Usee Sports 2
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport2&bandwidth=default&sync=0
+https://dik.si/SEuseesport2?SHAREEXT.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
 https://dik.si/SEchampiontv1?shareext.m3u8
@@ -804,169 +804,43 @@ http://iptv.tvmalaysia.cc:80/penang189/penang189/9029
 ####beIN Sports####
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 1 Premium
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/111600
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/20915
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 2 Premium
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/111605
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/20913
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 3 Premium
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/111610
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/20911
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 1
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/111615
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/20929
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 2
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/111620
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/20927
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 3
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/111625
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/20925
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 4
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/111630
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/20923
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 5
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/111635
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/20921
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 6
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/111640
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/20919
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 7
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/111645
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports Xtra 1
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/111649
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports Xtra 2
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/111653
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/20917
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 1 English
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/94450
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/20910
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 2 English
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/94446
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/20909
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 3 English
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/94442
-
-####MatchSports####
-
-#EXTINF:-1 group-title="Match Sports", MATCH! FUTBOOL 1
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/34080
-
-#EXTINF:-1 group-title="Match Sports", MATCH! FUTBOOL 2
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/34079
-
-#EXTINF:-1 group-title="Match Sports", MATCH! FUTBOOL 3
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/34077
-
-
-####BTSports####
-
-#EXTINF:-1 group-title="BT Sports", BT Sports 1 HD
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/128229
-
-#EXTINF:-1 group-title="BT Sports", BT Sports 2 HD
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/128230
-
-#EXTINF:-1 group-title="BT Sports", BT Sports 3 HD
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/128231
-
-#EXTINF:-1 group-title="BT Sports", BT Sport Extra 1 HD
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/9813
-
-#EXTINF:-1 group-title="BT Sports", BT Sport Extra 2 HD
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/9814
-
-#EXTINF:-1 group-title="BT Sports", BT Sport Extra 3 HD
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/9815
-
-#EXTINF:-1 group-title="BT Sports", BT Sport Extra 4 HD
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/9816
-
-#EXTINF:-1 group-title="BT Sports", BT Sport Extra 5 HD
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/9817
-
-####ArenaSports####
-
-#EXTINF:-1 group-title="Arena Sports", Arena Sports 1 HD
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/41396
-
-#EXTINF:-1 group-title="Arena Sports", Arena Sports 2 HD
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/41395
-
-#EXTINF:-1 group-title="Arena Sports", Arena Sports 3 HD
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/41394
-
-#EXTINF:-1 group-title="Arena Sports", Arena Sports 4 HD
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/41393
-
-#EXTINF:-1 group-title="Arena Sports", Arena Sports 5 HD
-http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/13827
-
-#EXTINF:-1 group-title="Arena Sports", Arena Sports 6 HD
-http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/13828
-
-####SportsTV####
-
-#EXTINF:-1 group-title="Sports TV", Sports TV +
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/69000
-
-#EXTINF:-1 group-title="Sports TV", Sports TV 1 HD
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/68990
-
-#EXTINF:-1 group-title="Sports TV", Sports TV 2 HD
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/68993
-
-#EXTINF:-1 group-title="Sports TV", Sports TV 3 HD
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/68995
-
-#EXTINF:-1 group-title="Sports TV", Sports TV 4 HD
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/68997
-
-#EXTINF:-1 group-title="Sports TV", Sports TV 5 HD
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/68999
-
-#EXTINF:-1 group-title="Sports TV", Sports TV 1 SD
-http://iptvworld.xyz:2095/live/hXZp0zPK/djDM7bPC/68989.m3u8
-
-#EXTINF:-1 group-title="Sports TV", Sports TV 2 SD
-http://iptvworld.xyz:2095/live/hXZp0zPK/djDM7bPC/68993.m3u8
-
-####Eleven####
-
-#EXTINF:-1 group-title="Eleven", Eleven 1
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/69002?
-
-#EXTINF:-1 group-title="Eleven", Eleven 2
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/69005?
-
-#EXTINF:-1 group-title="Eleven", Eleven 3
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/69008?
-
-#EXTINF:-1 group-title="Eleven", Eleven 4
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/69011?
-
-#EXTINF:-1 group-title="Eleven", Eleven 5
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/69012?
-
-####NovaSports####
-
-#EXTINF:-1 group-title="Nova Sports", Nova Sports 1
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/44142?
-
-#EXTINF:-1 group-title="Nova Sports", Nova Sports 2
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/44143?
-
-#EXTINF:-1 group-title="Nova Sports", Nova Sports 3
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/44144?
-
-#EXTINF:-1 group-title="Nova Sports", Nova Sports 4
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/44145?
-
-#EXTINF:-1 group-title="Nova Sports", Nova Sports 5
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/44146?
-
-
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/20908
 
 
 
