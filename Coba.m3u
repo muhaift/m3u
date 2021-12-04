@@ -12,7 +12,7 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:-1 group-title="Indo Sports", BRI Liga 1 Match Live
-https://etslive-2-vidio-com.akamaized.net/exp=1638114171~acl=/vp9/8015_stream.mpd!/vp9/8015/*~hmac=cbef5a2caaefd68eee4dc1f7f19879bb59243b065728adbcdd0e76d6e350cf92/vp9/8015_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1638628420~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=bd5dddbf29cec6ed1fdc1c94b2f18f47db32d4ef4b62a2e946d0b75b77c28de1/vp9/205_stream.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Usee Sports 1
 http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/8285
@@ -852,4 +852,28 @@ https://bal.varcdn1.ru/lb/m2/index.m3u8
 
 #EXTINF:-1 group-title="Match Sports", Match Futbool 3
 https://bal.varcdn1.ru/lb/m3/index.m3u8
+
+####Layangan Putus####
+
+#EXTINF:-1 group-title="Layangan Putus", Episode 1A
+https://apd-ae426284cf902d5d98f48eea65ba3679.v.smtcdns.com/varietyts.tc.qq.com/A2NpkZZdjLpoBUevS33d3dNJOhWKGSw8SLtJz_FE1nmc/svp_50125/agxOrGX-TfphS0ubA1_fhxxrySY-hI4anV-GhNL8QnkwxGcIzEaDyh9uZ9m-BHIR5hNmPu3YLiH0ZAD_eV-PasFc6HbWGIxFhSYLtnyL5p8N2_ArCtcbUP9gU8U3z1nlVqeD8AcHwkeDiB4IgYDZt6Tmv1aTork1/gzc_1000117_0b53hiaacaaawual6i45svq42owdae3aabca.f321002.ts.m3u8?ver=4
+
+#EXTINF:-1 group-title="Layangan Putus", Episode 1B
+https://ltsakm.wetvinfo.com/svp_50125/01DE18C0FA9AC924A8BA4936C6E77BF1B868DE422F8D2F49750CA07C589CCE17D77AD4B3B46F1EF49A3457BDB7AE43C12DFAABDC0D8D9FBE871AC74DC6EC4C10B9FD56D7B4A8B9D8CFFA3AF71682A7584A3EEF46D950626027CBE0229886D9ADF7E9CFF72EEEE52516357071F8487680F241E6AFDAC7F9060A50F6F3C37317D008/gzc_1000117_0b53heaacaaawyal6ie5svq42oodae2qabca.f321002.ts.m3u8?ver=4
+
+#EXTINF:-1 group-title="Layangan Putus", Episode 2A
+https://ltsakm.wetvinfo.com/svp_50125/01798F8B8373251A0D06E7653A29C76E3D340FAD4BEBDD7606C5D4B69A6148C5626103BF278663B00F7875CAD540C072ED2957AA7AB6D429043422382D8E9A3CE14A52D0EF2722EEA892BDDB9E117A0BCABABA9816E9906938FB322DB0190DE388D34788D23125E571C408D2C32962404B4DDD9FDEDAC36678073148B0C14187EA/gzc_1000117_0b53sqaagaaadmal3q45o5q43fgdaomaabsa.f321002.ts.m3u8?ver=4
+
+#EXTINF:-1 group-title="Layangan Putus", Episode 2B
+https://apd-5444ad7beb4a4c4ff3a2c43bf500553f.v.smtcdns.com/varietyts.tc.qq.com/A0BErRtNCuUH4jW_XxRougtfKInhT3h4Aab6T7gbyzC0/svp_50125/8grV9Ln0QXv4Q54Wf-vEKLcRJskWqFUDlppm8tLJodTXKaALNDDrn_VoTK_MhhMFnundLoj13e5U54k5WDHLLDHpNjHUpkT1uW1t7iBEKlW26y_mKozRfZNzK0qem5dDlkFogUJ_36NCNpcs4LpD7HfQr--6qJsC/gzc_1000117_0b53iuaacaaazial6u45svq42rodafeqabca.f321002.ts.m3u8?ver=4
+
+#EXTINF:-1 group-title="Layangan Putus", Episode 3A
+https://ltsakm.wetvinfo.com/svp_50125/01A01D82F872D1C4C957477621ED62E3C29EFAECC730E99300A9B5F31D1E42D19EB44C878A8D685AAD81373F008E74C8ACDBDAF4A37ADEAF9CF7F4C2B518DFB48C21071CCAB3559DB273867FAFBB86189DC19973B8784E9AC7AE19E832332DB9D0FCE481E63D6380AE62BA272472523B4E80659BBE9774D3F8A090467ADBE4A12C/gzc_1000117_0b53seabaaaaaaafw3fhivq43eodccoqafka.f321002.ts.m3u8?ver=4
+
+#EXTINF:-1 group-title="Layangan Putus", Episode 3B
+
+
+
+
+
 
