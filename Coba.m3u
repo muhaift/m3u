@@ -744,6 +744,12 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/rifky_oku.
 #EXTINF:-1 group-title="Arab Sports", Abu Dhabi Sports 3
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/rifky_oku.m3u8
 
+#EXTINF:-1 group-title="All Sports", Eleven 1 SD
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/11152
+
+#EXTINF:-1 group-title="All Sports", Eleven 2 SD
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/11151
+
 ####TNT Sports####
 
 #EXTINF:-1 group-title="TNT Sports", TNT Sports 2
