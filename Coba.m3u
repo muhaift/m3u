@@ -15,19 +15,19 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 https://etslive-2-vidio-com.akamaized.net/exp=1638114171~acl=/vp9/8015_stream.mpd!/vp9/8015/*~hmac=cbef5a2caaefd68eee4dc1f7f19879bb59243b065728adbcdd0e76d6e350cf92/vp9/8015_stream.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Usee Sports 1
-https://dik.si/SEuseesports?SHAREEXT.m3u8
+http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/8285
 
 #EXTINF:-1 group-title=" Indo Sports", Usee Sports 2
-https://dik.si/SEuseesport2?SHAREEXT.m3u8
+http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/8286
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://dik.si/SEchampiontv1?shareext.m3u8
+http://103.226.232.199:8005/play/a060/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://dik.si/SEchampiontv2?shareext.m3u8
+http://103.226.232.199:8005/play/a061/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-https://dik.si/SEchampiontv3?shareext.m3u8
+http://103.226.232.199:8005/play/a062/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 4
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/13922
@@ -842,5 +842,14 @@ http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/20909
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 3 English
 http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/20908
 
+####MatchSports####
 
+#EXTINF:-1 group-title="Match Sports", Match Futbool 1
+https://bal.varcdn1.ru/lb/m1/index.m3u8
+
+#EXTINF:-1 group-title="Match Sports", Match Futbool 2
+https://bal.varcdn1.ru/lb/m2/index.m3u8
+
+#EXTINF:-1 group-title="Match Sports", Match Futbool 3
+https://bal.varcdn1.ru/lb/m3/index.m3u8
 
