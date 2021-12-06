@@ -21,13 +21,13 @@ http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/8285
 http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/8286
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-http://103.226.232.199:8005/play/a060/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1638796429~acl=/hls-b/ingest_6685_*/*~hmac=45b7cdd329e341bc8b4cff17452db3e1e78e9504edbf0a629ecbec83e71fba22/hls-b/ingest_6685_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-http://103.226.232.199:8005/play/a061/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1638796485~acl=/hls-b/ingest_6686_*/*~hmac=7e4025a93906735a5ebb90691becd56d7f1a146318cf1cab752c10a959f2f41f/hls-b/ingest_6686_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-http://103.226.232.199:8005/play/a062/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1638796540~acl=/hls-b/ingest_6786_*/*~hmac=428b225f3834112b0c688c1fa74706443999b1e5f63f7dbeff90aaa3018413e5/hls-b/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 4
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/13922
