@@ -12,7 +12,7 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:-1 group-title="Indo Sports", BRI Liga 1 Match Live
-https://etslive-2-vidio-com.akamaized.net/exp=1638629806~acl=/vp9/8014_stream.mpd!/vp9/8014/*~hmac=266a7e223eab2a5c8239282f9014c71cf6c39f6d554c02539253f3e5a02b4f51/vp9/8014_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1638984267~acl=/vp9/8015_stream.mpd!/vp9/8015/*~hmac=2cfb27dfae232c8b09c6fceb687fe258734eb7349b527197837020b309fd88ca/vp9/8015_stream.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Usee Sports 1
 http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/8285
@@ -389,7 +389,7 @@ http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/40765
 #####AstroTV#####
 
 #EXTINF:-1 group-title="Astro TV", Astro Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6715
 
 #EXTINF:-1 group-title="Astro TV", Astro Citra
 http://iptv.tvmalaysia.cc:80/penang189/penang189/7267
