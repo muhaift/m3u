@@ -18,16 +18,16 @@ https://etslive-2-vidio-com.akamaized.net/exp=1638984267~acl=/vp9/8015_stream.mp
 http://103.226.232.199:8004/play/a04l/index.m3u8?shareext.m3u8?by Zz
 
 #EXTINF:-1 group-title=" Indo Sports", Usee Sports 2
-http://103.226.232.199:8004/play/a04l/index.m3u8?shareext.m3u8?by Zz
+http://103.226.232.199:8004/play/a042/index.m3u8?shareext.m3u8?by Zz
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-http://103.226.232.199:8005/play/a060/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1639915428~acl=/hls-p/ingest_6685_*/*~hmac=18a835f87f8b60849df1db3d00bdb664f1f50f95ff0ea2bbe7736ee2ed6a8764/hls-p/ingest_6685_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-http://103.226.232.199:8005/play/a061/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1639915492~acl=/hls-b/ingest_6686_*/*~hmac=b9f5fe442bccb1547c61fe8edcecd7ec5455e5920865192cc47360f23d04df2c/hls-b/ingest_6686_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-http://103.226.232.199:8005/play/a062/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1639915535~acl=/hls-p/ingest_6786_*/*~hmac=a78525af399e88e18c2f19c36b56a2daef701999508e6f0031e12c300d278777/hls-p/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 4
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/13922
@@ -77,6 +77,9 @@ http://tevemobile.us.to/sc/play.m3u8?id=204
 
 #EXTINF:-1 group-title="Indo TV HD", O Channel HD
 http://tevemobile.us.to/sc/play.m3u8?id=206
+
+#EXTINF:-1 group-title="Indo TV HD", RCTI HD
+https://link.zozotv.xyz:443/ding/ding/47
 
 #EXTINF:-1 group-title="Indo TV HD", Trans TV HD
 https://link.zozotv.xyz:443/ding/ding/43
@@ -375,16 +378,19 @@ http://iptv.tvmalaysia.cc:80/penang189/penang189/7177
 http://iptv.tvmalaysia.cc:80/penang189/penang189/7178
 
 #EXTINF:-1 group-title="Malay TV", TV 3
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/40761
+https://link.zozotv.xyz:443/ding/ding/18
 
 #EXTINF:-1 group-title="Malay TV", NTV 7
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/40760
+https://link.zozotv.xyz:443/ding/ding/20
 
 #EXTINF:-1 group-title="Malay TV", 8 TV
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/40766
+https://link.zozotv.xyz:443/ding/ding/21
 
 #EXTINF:-1 group-title="Malay TV", TV 9
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/40765
+https://link.zozotv.xyz:443/ding/ding/22
+
+#EXTINF:-1 group-title="Malay TV", Okey TV
+https://link.zozotv.xyz:443/ding/ding/24
 
 #####AstroTV#####
 
