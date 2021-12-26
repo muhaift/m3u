@@ -35,7 +35,9 @@ http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/13922
 #EXTINF:-1 group-title="Indo Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
 
-#EXTINF:-1 group-title="Indo Sports", Test
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Indo Sports",  Test
 https://on-load.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 ####MNC Sports Channels####
@@ -919,8 +921,6 @@ https://apd-36bf6d85d99ecbc343703155428e457c.v.smtcdns.com/varietyts.tc.qq.com/A
 
 #EXTINF:-1 group-title="Layangan Putus", Episode 4B
 https://apd-36bf6d85d99ecbc343703155428e457c.v.smtcdns.com/varietyts.tc.qq.com/A4wJJuBmQ09z6XuLODLgrTjbtE1cUbyHdAx-bWOgcUqA/svp_50125/jcVvEIsUlBrnqLffjKXwQ_oknoSFEWaAOjE7wmaCBv31qoQ5EId6j1JT0oIY8940jnU7KwEtlglNhfRGdzxirH1MrQwrhI8sb5zigYZ-acc1Zi5ARUPVLHugCeo27OP8Uji-vQtkiyMgXqidy6xyfaSy_WXoRH25/gzc_1000117_0b53ciaaqaaaqaaegwvhpzq42ewdbapaadka.f321002.ts.m3u8?ver=4
-
-
 
 
 
