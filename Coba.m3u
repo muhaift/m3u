@@ -21,24 +21,19 @@ http://103.226.232.199:8004/play/a04l/index.m3u8?shareext.m3u8?by Zz
 http://103.226.232.199:8004/play/a042/index.m3u8?shareext.m3u8?by Zz
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1639915428~acl=/hls-p/ingest_6685_*/*~hmac=18a835f87f8b60849df1db3d00bdb664f1f50f95ff0ea2bbe7736ee2ed6a8764/hls-p/ingest_6685_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1641052286~acl=/hls-b/ingest_6685_*/*~hmac=325d0d24f43ef529c173fd30feaee2def53fa5c2e930a4ad9b4a266efbde3e5c/hls-b/ingest_6685_360p/index.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1639915492~acl=/hls-b/ingest_6686_*/*~hmac=b9f5fe442bccb1547c61fe8edcecd7ec5455e5920865192cc47360f23d04df2c/hls-b/ingest_6686_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1641052332~acl=/hls-b/ingest_6686_*/*~hmac=6f8017d6e404b7e0bb49f5507d0fe8ca5f450a72ac4cc31f77b9d5b782a7d3fb/hls-b/ingest_6686_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1639915535~acl=/hls-p/ingest_6786_*/*~hmac=a78525af399e88e18c2f19c36b56a2daef701999508e6f0031e12c300d278777/hls-p/ingest_6786_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1641052357~acl=/hls-b/ingest_6786_*/*~hmac=68c32f8b19c0f9b1a1dc3d98d81049c5f70c5ce61fb4473c99fe8f6bfedef3fa/hls-b/ingest_6786_360p/index.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 4
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/13922
 
 #EXTINF:-1 group-title="Indo Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Indo Sports",  Test
-https://on-load.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 ####MNC Sports Channels####
 
@@ -103,12 +98,12 @@ https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Indo TV", RCTI
-https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Indo TV", MNC TV
-https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+https://on-load.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -118,7 +113,7 @@ https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Indo TV", GTV
-https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+https://on-load.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -842,8 +837,6 @@ https://wopep.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="True Sports", True Sports 4
 https://wopep.com/02_2sporthd4_720p/chunklist.m3u8
 
-
-
 ####beIN Sports####
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 1 Premium
@@ -895,36 +888,6 @@ https://bal.varcdn1.ru/lb/m2/index.m3u8
 
 #EXTINF:-1 group-title="Match Sports", Match Futbool 3
 https://bal.varcdn1.ru/lb/m3/index.m3u8
-
-####Layangan Putus####
-
-#EXTINF:-1 group-title="Layangan Putus", Episode 1A
-https://ltsakm.wetvinfo.com/svp_50125/0123E07E1C7B15CF97F43EA492926B163D3D95FAC1F8AB90D54A4FE4B326AA87127E2F6B5C484633A7408914C646913077C0A8D094886911874808454748A79DBFD5291DB39CB46A04EBDE61B39D9144D960F88C6A25D70E059650C26750BFE89F5D2DE3BFF63F45B28DFC0ED74A2D6D2FEB8CD3ED85EF9E088347772E8FC4A671/gzc_1000117_0b53hiaacaaawual6i45svq42owdae3aabca.f321002.ts.m3u8?ver=4
-
-#EXTINF:-1 group-title="Layangan Putus", Episode 1B
-https://ltsakm.wetvinfo.com/svp_50125/01967FCCD17B766B234B2B7C5DA070B0CD511C3A345602C9FEA433A3B062493DE85BB87ADAB545F4C3BFBCD4696FF2EE64B0CED94852CA661B082D337CEDBCD998E4BB2C053EE8CE0E9E3B5F19935B70079DA5D1BC4B7870EA7BC743CE27E2036C98B3D461432B3946A13BE5E241348FCBB3901BC443A28146D37A1550618F94CA/gzc_1000117_0b53heaacaaawyal6ie5svq42oodae2qabca.f321002.ts.m3u8?ver=4
-
-#EXTINF:-1 group-title="Layangan Putus", Episode 2A
-https://ltsakm.wetvinfo.com/svp_50125/01C62CF662760596735EFF23BB7AB7A9E6C190797942B3648A9E9EB0841CE1A1B42A15BBE92A96D3B5E340D17898D309C4213D6F4C9C3A9BAAAC112E41EA3194CE4C5A511982D946FF1273D384655AA93EF8A63C5C0DD83314B1C5AF623568804D1D488CCA6F8237FE77DEFD3E61C06E6056BB78D6EA6890C6D7B0B12C5952A9B8/gzc_1000117_0b53sqaagaaadmal3q45o5q43fgdaomaabsa.f321002.ts.m3u8?ver=4
-
-#EXTINF:-1 group-title="Layangan Putus", Episode 2B
-https://apd-36bf6d85d99ecbc343703155428e457c.v.smtcdns.com/varietyts.tc.qq.com/A-5qVltz1_0pyz8g1g5n0Wb4ykFWX8wSipaO7CQJCGaM/svp_50125/Ky6aizaDTca99s4qwbVm3wEWNwbtz-ff3RkE1P4eyNoLb7p-lfb_y521nNBHF3KOB8V6O3Zfr7GYXqeaAAM1zOHLRNHPIoYEDEWoIZj5arRNr-BjjXy-W5nW-H1yQDBA-oqotV0-SHKL0jbGFD3hPtISR_O7thXQ/gzc_1000117_0b53iuaacaaazial6u45svq42rodafeqabca.f321002.ts.m3u8?ver=4
-
-#EXTINF:-1 group-title="Layangan Putus", Episode 3A
-https://ltsakm.wetvinfo.com/svp_50125/01CF90FD1B9276CEEC90A7A1DBE926FE924A40CB71CBBCC60808075AF2DEB6E65E5F307F30F965C6E8D703377AB7AF8210592B7A32AF681A97D19A49811133C466BBDF8C27E075BB7200B203F95E27251C4FEA1367AD4FFDF21F68228FE0FEE9A5EBA8AB1BF85F1D249462F05457ABFE55AA15A5FCD2287130F25D1C1D68A6ECEC/gzc_1000117_0b53seabaaaaaaafw3fhivq43eodccoqafka.f321002.ts.m3u8?ver=4
-
-#EXTINF:-1 group-title="Layangan Putus", Episode 3B
-https://apd-36bf6d85d99ecbc343703155428e457c.v.smtcdns.com/varietyts.tc.qq.com/AVG8Aw4zeazYNvPL4ZpcNcrMU3l0_GnqmSRAWBmsx9JI/svp_50125/Liq-zpRZ1_juLxikwCVJEsLEoe6kUoPFhXhey6R__UbbUmpdDPrbeQRkWyNNozUkfmWisBxEzQAIgz9d5ics6PQR3qfUKHmdICd-e-VhWHUdZy1GhqzcN0JZA9_vev1iZmKXe6XgZAZKjXrcfhi--w4W-rq7ZyQp/gzc_1000117_0b53cmaaqaaaqeaegw5hpzq42e6dbapqadka.f321002.ts.m3u8?ver=4
-
-#EXTINF:-1 group-title="Layangan Putus", Episode 4A
-https://apd-36bf6d85d99ecbc343703155428e457c.v.smtcdns.com/varietyts.tc.qq.com/ACVY-iJwa-2zgUyU5WoMqAuEYxpMXLKtJjsElbr_CxNw/svp_50125/bipicEKWONfb4nJzep-54qaXWo_5MXBn2e2AO9HYiJDU_x-3bpZ1eF_Q7bEBKNXYh2NqW3sYlB4NKWp-GTJ4_0kvgw46oOuxi0XBk3XZqrmK_1dECRHLxCAFakUWrSnrhJXIqj1oiVHJdSc_wCkd6P_iXtWjibWk/gzc_1000117_0b53hyaamaaavqae3afhonq42pwdayzaaa2a.f321002.ts.m3u8?ver=4
-
-#EXTINF:-1 group-title="Layangan Putus", Episode 4B
-https://apd-36bf6d85d99ecbc343703155428e457c.v.smtcdns.com/varietyts.tc.qq.com/A4wJJuBmQ09z6XuLODLgrTjbtE1cUbyHdAx-bWOgcUqA/svp_50125/jcVvEIsUlBrnqLffjKXwQ_oknoSFEWaAOjE7wmaCBv31qoQ5EId6j1JT0oIY8940jnU7KwEtlglNhfRGdzxirH1MrQwrhI8sb5zigYZ-acc1Zi5ARUPVLHugCeo27OP8Uji-vQtkiyMgXqidy6xyfaSy_WXoRH25/gzc_1000117_0b53ciaaqaaaqaaegwvhpzq42ewdbapaadka.f321002.ts.m3u8?ver=4
-
-
-
-
 
 
 
