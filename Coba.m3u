@@ -70,7 +70,7 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 ####Indo TV HD####
 
 #EXTINF:-1 group-title=" Indo TV HD", Indosiar HD
-http://tevemobile.us.to/sc/play.m3u8?id=205
+https://etslive-2-vidio-com.akamaized.net/exp=1641656856~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=93d4b4803fb52f8bfd66464352045df42a4e893eb18b7298b024a42e9fd3e871/vp9/205_stream.mpd
 
 #EXTINF:-1 group-title=" Indo TV HD", SCTV HD
 http://tevemobile.us.to/sc/play.m3u8?id=204
