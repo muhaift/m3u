@@ -35,6 +35,9 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
 #EXTINF:-1 group-title="Indo Sports", TVRI Ott
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
+#EXTINF:-1 group-title="Indo Sports", Indosiar HD
+https://etslive-2-vidio-com.akamaized.net/exp=1642529036~acl=/vp9/8015_stream.mpd!/vp9/8015/*~hmac=fe587fea7fe137a9f7e05c7ebb35dc4f2f4e9fc55560e34e2b07330b9e19f800/vp9/8015_stream.mpd
+
 ####MNC Sports Channels####
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
