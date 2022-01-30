@@ -18,13 +18,13 @@ http://103.226.232.199:8004/play/a04l/index.m3u8?shareext.m3u8?by Zz
 http://103.226.232.199:8004/play/a042/index.m3u8?shareext.m3u8?by Zz
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1641052286~acl=/hls-b/ingest_6685_*/*~hmac=325d0d24f43ef529c173fd30feaee2def53fa5c2e930a4ad9b4a266efbde3e5c/hls-b/ingest_6685_360p/index.m3u8
+http://tvnid.wapgem.com/vidio/7.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1641052332~acl=/hls-b/ingest_6686_*/*~hmac=6f8017d6e404b7e0bb49f5507d0fe8ca5f450a72ac4cc31f77b9d5b782a7d3fb/hls-b/ingest_6686_360p/index.m3u8
+http://tvnid.wapgem.com/vidio/8.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1641052357~acl=/hls-b/ingest_6786_*/*~hmac=68c32f8b19c0f9b1a1dc3d98d81049c5f70c5ce61fb4473c99fe8f6bfedef3fa/hls-b/ingest_6786_360p/index.m3u8
+http://tvnid.wapgem.com/vidio/9.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 4
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/13922
@@ -34,6 +34,12 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
 
 #EXTINF:-1 group-title="Indo Sports", TVRI Ott
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 group-title="Indo Sports", BRI Liga 1 Live
+http://tvnid.wapgem.com/vidio/1.m3u8
+
+#EXTINF:-1 group-title="Indo Sports", test1
+https://raw.githubusercontent.com/muhaift/m3u/main/tes.m3u8
 
 ####MNC Sports Channels####
 
@@ -112,7 +118,7 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 group-title="Indo TV",  NET TV
 https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
 
-#EXTINF:-1 group-title="Indo TV HD", O Channel
+#EXTINF:-1 group-title="Indo TV", O Channel
 http://rr3.dens.tv/s/s73/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=O_Channel_Trial-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -171,7 +177,7 @@ https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="News Channel", iNews TV
-https://on-load.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
+https://on-load.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 group-title="News Channel", Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
@@ -707,6 +713,9 @@ https://95-213-224-179.livesports24.online/fooootball2.m3u8
 
 #EXTINF:-1 group-title="All Sports", LookSport +
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+#EXTINF:-1 group-title="All Sports", LookSport 1
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
 #EXTINF:-1 group-title="All Sports", LookSport 2
 https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
