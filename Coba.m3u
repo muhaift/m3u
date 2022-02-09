@@ -443,8 +443,11 @@ https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/770
 
 ####HBO####
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="HBO GO", HBO
 http://opplex.tv:8080/993300/993300/204801
+https://on-load.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -857,7 +860,6 @@ https://bal.varcdn1.ru/lb/m2/index.m3u8
 
 #EXTINF:-1 group-title="Match Sports", Match Futbool 3
 https://bal.varcdn1.ru/lb/m3/index.m3u8
-
 
 
 
