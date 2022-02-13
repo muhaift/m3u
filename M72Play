@@ -11,32 +11,30 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:-1 group-title="Indo Sports",  beIN Sports 2 ID
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#EXTINF:-1 group-title=" Indo Sports", Usee Sports 1
-http://103.226.232.199:8004/play/a04l/index.m3u8?shareext.m3u8?by Zz
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Indo Sports", SPO TV
+https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1 group-title=" Indo Sports", Usee Sports 2
-http://103.226.232.199:8004/play/a042/index.m3u8?shareext.m3u8?by Zz
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Indo Sports", SPO TV 2
+https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-http://tvnid.wapgem.com/vidio/7.m3u8
+https://raw.githubusercontent.com/muhaift/m3u/main/Ch1.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-http://tvnid.wapgem.com/vidio/8.m3u8
+https://raw.githubusercontent.com/muhaift/m3u/main/Ch2.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-http://tvnid.wapgem.com/vidio/9.m3u8
-
-#EXTINF:-1 group-title=" Indo Sports", Champions TV 4
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/13922
+https://raw.githubusercontent.com/muhaift/m3u/main/Ch3.m3u8
 
 #EXTINF:-1 group-title="Indo Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
 
 #EXTINF:-1 group-title="Indo Sports", TVRI Ott
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:-1 group-title="Indo Sports", BRI Liga 1 Live
-http://tvnid.wapgem.com/vidio/1.m3u8
 
 ####MNC Sports Channels####
 
@@ -69,6 +67,17 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerc
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title=" MNC Sports Channels",  Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+####Indo HD####
+
+#EXTINF:-1 group-title=" Indo HD", Indosiar HD
+https://raw.githubusercontent.com/muhaift/m3u/main/Ch4.m3u8
+
+#EXTINF:-1 group-title=" Indo HD", SCTV
+https://raw.githubusercontent.com/muhaift/m3u/main/Ch5.m3u8
+
+#EXTINF:-1 group-title=" Indo HD", O Channel
+https://raw.githubusercontent.com/muhaift/m3u/main/Ch6.m3u8
 
 ####Indo TV####
 
@@ -311,52 +320,6 @@ https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 #EXTINF:-1 group-title="MNC Visions", Music TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-####ChineseTV####
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Chinese TV", Celestial Movies
-https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Chinese TV", Celestial Clasic Movies
-https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Chinese TV", Star Chinese Movies HD
-https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Chinese TV", Star Chinese Movies Legend HD
-https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Chinese TV", Shanghai Dragon TV
-https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Chinese TV", Jiangsu TV
-https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Chinese TV", Hunan TV
-https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Chinese TV", XingKong TV
-https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Chinese TV", Anhui TV
-https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 ####MalayTV####
 
@@ -446,6 +409,7 @@ https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/770
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="HBO GO", HBO
+http://opplex.tv:8080/993300/993300/204801
 https://on-load.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -467,9 +431,6 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="HBO GO", Cinemax
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
-
-#EXTINF:-1 group-title="HBO GO", Red by HBO
-http://opplex.tv:8080/993300/993300/204795
 
 ####Movies####
 
@@ -680,91 +641,6 @@ https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1 group-title="Sony TEN", Sony Six
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 
-####All-Sports####
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="All Sports", SPOTV
-https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="All Sports", SPO TV 2
-https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
-#EXTINF:-1 group-title="All Sports", Eleven Sports 1
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-
-#EXTINF:-1 group-title="All Sports", Eleven Sports 2
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-
-#EXTINF:-1 group-title="All Sports", CCTV 5
-http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
-
-#EXTINF:-1 group-title="All Sports", CCTV 5+
-http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
-
-#EXTINF:-1 group-title="All Sports", Football 1
-https://95-213-224-179.livesports24.online/uafootballua1.m3u8
-
-#EXTINF:-1 group-title="All Sports", Football 2
-https://95-213-224-179.livesports24.online/fooootball2.m3u8
-
-#EXTINF:-1 group-title="All Sports", Eleven 1 SD
-http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/11152
-
-#EXTINF:-1 group-title="All Sports", Eleven 2 SD
-http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/11151
-
-
-####Arab Sports####
-
-#EXTINF:-1 group-title="Arab Sports", Dubai Sports 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/rifky_oku.m3u8
-
-#EXTINF:-1 group-title="Arab Sports", Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/rifky_oku.m3u8
-
-#EXTINF:-1 group-title="Arab Sports", Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/rifky_oku.m3u8
-
-#EXTINF:-1 group-title="Arab Sports", Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/rifky_oku.m3u8
-
-#EXTINF:-1 group-title="Arab Sports", Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/rifky_oku.m3u8
-
-#EXTINF:-1 group-title="Arab Sports", Abu Dhabi Sports 3
-http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/rifky_oku.m3u8
-
-####TNT Sports####
-
-#EXTINF:-1 group-title="TNT Sports", TNT Sports 2
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="TNT Sports", TNT Sports 3
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="TNT Sports", TNT Sports 4
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="TNT Sports", TNT Sports 5
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-####Look Sports####
-
-#EXTINF:-1 group-title="Look Sports", LookSport +
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-
-#EXTINF:-1 group-title="Look Sports", LookSport 1
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-
-#EXTINF:-1 group-title="Look Sports", LookSport 2
-https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-
-#EXTINF:-1 group-title="Look Sports", LookSport 3
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-
 ####Astro Super Sport####
 
 #EXTINF:-1 group-title="Astro Sports", Astro Arena
@@ -788,66 +664,19 @@ http://iptv.tvmalaysia.cc:80/252957/252957/9026
 #EXTINF:-1 group-title="Astro Sports", ASSP 5
 http://iptv.tvmalaysia.cc:80/252957/252957/9029
 
-####TrueSports####
+####Look Sports####
 
-#EXTINF:-1 group-title="True Sports", True Premier 1
-https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Look Sports", LookSport +
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
-#EXTINF:-1 group-title="True Sports", True Premier 2
-https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Look Sports", LookSport 1
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
-#EXTINF:-1 group-title="True Sports", True Premier 3
-https://www.wopep.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Look Sports", LookSport 2
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
-#EXTINF:-1 group-title="True Sports", True Premier 4
-https://www.wopep.com/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="True Sports", True Premier 5
-https://www.wopep.com/02_PremierHD5_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="True Sports", True Sports 1
-https://www.wopep.com/02_2sporthd1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="True Sports", True Sports 2
-https://www.wopep.com/02_2sporthd2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="True Sports", True Sports 3
-https://www.wopep.com/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="True Sports", True Sports 4
-https://www.wopep.com/02_2sporthd4_720p/chunklist.m3u8
-
-####beIN Sports####
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 1 Premium
-http://mo3ad.xyz:8080/mo3ad76sF6cL/mo3ad76sF6cL/2
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 2 Premium
-http://mo3ad.xyz:8080/mo3ad76sF6cL/mo3ad76sF6cL/4
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 3 Premium
-http://mo3ad.xyz:8080/mo3ad76sF6cL/mo3ad76sF6cL/6
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 1
-http://mo3ad.xyz:8080/mo3ad76sF6cL/mo3ad76sF6cL/23
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 2
-http://mo3ad.xyz:8080/mo3ad76sF6cL/mo3ad76sF6cL/24
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 3
-http://mo3ad.xyz:8080/mo3ad76sF6cL/mo3ad76sF6cL/25
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 4
-http://mo3ad.xyz:8080/mo3ad76sF6cL/mo3ad76sF6cL/8
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 5
-http://mo3ad.xyz:8080/mo3ad76sF6cL/mo3ad76sF6cL/10
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 6
-http://mo3ad.xyz:8080/mo3ad76sF6cL/mo3ad76sF6cL/12
-
-#EXTINF:-1 group-title="beIN Sports", beIN Sports 7
-http://mo3ad.xyz:8080/mo3ad76sF6cL/mo3ad76sF6cL/14
+#EXTINF:-1 group-title="Look Sports", LookSport 3
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
 ####MatchSports####
 
@@ -859,6 +688,7 @@ https://bal.varcdn1.ru/lb/m2/index.m3u8
 
 #EXTINF:-1 group-title="Match Sports", Match Futbool 3
 https://bal.varcdn1.ru/lb/m3/index.m3u8
+
 
 
 
