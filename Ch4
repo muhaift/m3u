@@ -1,1 +1,3 @@
-https://etslive-2-vidio-com.akamaized.net/exp=1645639533~acl=/vp9/8025_stream.mpd!/vp9/8025/*!/vp9/*/8025_stream.mpd!/vp9/*/8025/*~hmac=52947d6a6420f31d9266ab6b9cf9fb25b5d10ec11f2cf9f456622657bfb863f8/vp9/8025_stream.mpd
+#EXTM3U
+#EXT-X-STREAM-INF
+https://etslive-2-vidio-com.akamaized.net/exp=1645815698~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=e427111e67e0a9021d7bd58ce068a5942d1d85d323028d1461141027a843ab3b/vp9/205_stream.mpd
