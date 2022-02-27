@@ -21,14 +21,23 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="Indo Sports", SPO TV 2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+#EXTINF:-1 group-title=" Indo Sports", Usee Sports
+http://goldentv.tech:25461/rachman/rachman/22973
+
+#EXTINF:-1 group-title=" Indo Sports", Usee Sports 2
+http://goldentv.tech:25461/rachman/rachman/22974
+
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://raw.githubusercontent.com/muhaift/m3u/main/Ch1.m3u8
+http://goldentv.tech:25461/rachman/rachman/25657
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-https://raw.githubusercontent.com/muhaift/m3u/main/Ch2.m3u8
+http://goldentv.tech:25461/rachman/rachman/26134
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-https://raw.githubusercontent.com/muhaift/m3u/main/Ch3.m3u8
+http://goldentv.tech:25461/rachman/rachman/26135
+
+#EXTINF:-1 group-title=" Indo Sports", Champions TV 4
+http://goldentv.tech:25461/rachman/rachman/26136
 
 #EXTINF:-1 group-title="Indo Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
@@ -71,7 +80,7 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 ####Indo HD####
 
 #EXTINF:-1 group-title=" Indo HD", Indosiar HD
-https://raw.githubusercontent.com/muhaift/m3u/main/Ch4
+https://raw.githubusercontent.com/muhaift/m3u/main/Ch4.m3u8
 
 #EXTINF:-1 group-title=" Indo HD", SCTV
 https://raw.githubusercontent.com/muhaift/m3u/main/Ch5.m3u8
@@ -191,7 +200,7 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="News Channel", MNC News
-https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
+https://on-load.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
 
 #EXTINF:-1 group-title="News Channel", Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
