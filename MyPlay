@@ -22,16 +22,22 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-http://goldentv.tech:25461/rachman/rachman/25657
+http://tvn.x10.bz/xchannel/master-6.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-http://goldentv.tech:25461/rachman/rachman/26134
+http://tvn.x10.bz/xchannel/master-7.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-http://goldentv.tech:25461/rachman/rachman/26135
+http://tvn.x10.bz/xchannel/master-8.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 4
-http://goldentv.tech:25461/rachman/rachman/26136
+http://tvn.x10.bz/xchannel/master-17.m3u8
+
+#EXTINF:-1 group-title="Indo Sports", Useesport
+http://nontonbola.my.id/hustv/useesport1.m3u8
+
+#EXTINF:-1 group-title="Indo Sports", Useesport 2
+http://nontonbola.my.id/hustv/useesport2.m3u8
 
 #EXTINF:-1 group-title="Indo Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
@@ -77,10 +83,10 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 http://goldentv.tech:25461/rachman/rachman/22974
 
 #EXTINF:-1 group-title=" Indo HD", SCTV
-http://goldentv.tech:25461/rachman/rachman/25688
+http://zz@tvn.x10.bz/xchannel/master-24.m3u8
 
 #EXTINF:-1 group-title=" Indo HD", O Channel
-http://goldentv.tech:25461/rachman/rachman/25764
+http://zz@tvn.x10.bz/xchannel/master-18.m3u8
 
 ####Indo TV####
 
@@ -665,38 +671,4 @@ http://goldentv.tech:25461/rachman/rachman/25015
 
 #EXTINF:-1 group-title="Astro Sports", ASSP 5
 http://goldentv.tech:25461/rachman/rachman/25016
-
-####Look Sports####
-
-#EXTINF:-1 group-title="Look Sports", LookSport +
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-
-#EXTINF:-1 group-title="Look Sports", LookSport 1
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-
-#EXTINF:-1 group-title="Look Sports", LookSport 2
-https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-
-#EXTINF:-1 group-title="Look Sports", LookSport 3
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-
-####MatchSports####
-
-#EXTINF:-1 group-title="Match Sports", Match Futbool 1
-https://bal.varcdn1.ru/lb/m1/index.m3u8
-
-#EXTINF:-1 group-title="Match Sports", Match Futbool 2
-https://bal.varcdn1.ru/lb/m2/index.m3u8
-
-#EXTINF:-1 group-title="Match Sports", Match Futbool 3
-https://bal.varcdn1.ru/lb/m3/index.m3u8
-
-
-
-
-
-
-
-
-
 
