@@ -333,10 +333,10 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 ####MalayTV####
 
 #EXTINF:-1 group-title="Malay TV", TV 1
-http://iptv.tvmalaysia.cc:80/737373/737373/7177
+http://iptv.tvmalaysia.cc:80/760407/760407/7177
 
 #EXTINF:-1 group-title="Malay TV", TV 2
-http://iptv.tvmalaysia.cc:80/737373/737373/7178
+http://iptv.tvmalaysia.cc:80/760407/760407/7178
 
 #EXTINF:-1 group-title="Malay TV", TV 3
 https://link.zozotv.xyz:443/707070/707070/18
@@ -356,46 +356,46 @@ https://link.zozotv.xyz:443/707070/707070/24
 #####AstroTV#####
 
 #EXTINF:-1 group-title="Astro TV", Astro Ceria
-http://iptv.tvmalaysia.cc:80/737373/737373/6715
+http://iptv.tvmalaysia.cc:80/760407/760407/6715
 
 #EXTINF:-1 group-title="Astro TV", Astro Citra
-http://iptv.tvmalaysia.cc:80/737373/737373/7267
+http://iptv.tvmalaysia.cc:80/760407/760407/7267
 
 #EXTINF:-1 group-title="Astro TV", Astro Ria
-http://iptv.tvmalaysia.cc:80/737373/737373/6730
+http://iptv.tvmalaysia.cc:80/760407/760407/6730
 
 #EXTINF:-1 group-title="Astro TV", Astro Prima
-http://iptv.tvmalaysia.cc:80/737373/737373/6727
+http://iptv.tvmalaysia.cc:80/760407/760407/6727
 
 #EXTINF:-1 group-title="Astro TV", Astro Warna
-http://iptv.tvmalaysia.cc:80/737373/737373/6740
+http://iptv.tvmalaysia.cc:80/760407/760407/6740
 
 #EXTINF:-1 group-title="Astro TV", Astro Naura
-http://iptv.tvmalaysia.cc:80/737373/737373/6724
+http://iptv.tvmalaysia.cc:80/760407/760407/6724
 
 #EXTINF:-1 group-title="Astro TV", Astro Awani
-http://iptv.tvmalaysia.cc:80/737373/737373/6714
+http://iptv.tvmalaysia.cc:80/760407/760407/6714
 
 #EXTINF:-1 group-title="Astro TV", Astro Oasis
-http://iptv.tvmalaysia.cc:80/737373/737373/6725
+http://iptv.tvmalaysia.cc:80/760407/760407/6725
 
 #EXTINF:-1 group-title="Astro TV", Astro Aura
-http://iptv.tvmalaysia.cc:80/737373/737373/6713
+http://iptv.tvmalaysia.cc:80/760407/760407/6713
 
 #EXTINF:-1 group-title="Astro TV", ASTRO AOD 351 HD
-http://iptv.tvmalaysia.cc:80/737373/737373/6702
+http://iptv.tvmalaysia.cc:80/760407/760407/6702
 
 #EXTINF:-1 group-title="Astro TV", ASTRO AOD 352 HD
-http://iptv.tvmalaysia.cc:80/737373/737373/6703
+http://iptv.tvmalaysia.cc:80/760407/760407/6703
 
 #EXTINF:-1 group-title="Astro TV", ASTRO AOD 353 HD
-http://iptv.tvmalaysia.cc:80/737373/737373/6704
+http://iptv.tvmalaysia.cc:80/760407/760407/6704
 
 #EXTINF:-1 group-title="Astro TV", ASTRO AOD 354 HD
-http://iptv.tvmalaysia.cc:80/737373/737373/6705
+http://iptv.tvmalaysia.cc:80/760407/760407/6705
 
 #EXTINF:-1 group-title="Astro TV", ASTRO AOD 355 HD
-http://iptv.tvmalaysia.cc:80/737373/737373/6706
+http://iptv.tvmalaysia.cc:80/760407/760407/6706
 
 ####Japan####
 
@@ -652,10 +652,10 @@ http://goldentv.tech:25461/rachman/rachman/25214
 ####Astro Super Sport####
 
 #EXTINF:-1 group-title="Astro Sports", Astro Arena
-http://iptv.tvmalaysia.cc:80/737373/737373/6707
+http://iptv.tvmalaysia.cc:80/760407/760407/6707
 
 #EXTINF:-1 group-title="Astro Sports", Astro Arena 2
-http://iptv.tvmalaysia.cc:80/737373/737373/9028
+http://iptv.tvmalaysia.cc:80/760407/760407/9028
 
 #EXTINF:-1 group-title="Astro Sports", ASSP 1
 http://goldentv.tech:25461/rachman/rachman/25010
