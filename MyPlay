@@ -22,22 +22,22 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-http://tvn.x10.bz/xchannel/master-6.m3u8
+https://iptv.lancartech.co.id:8443/topan/54637/89117
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-http://tvn.x10.bz/xchannel/master-7.m3u8
+https://iptv.lancartech.co.id:8443/topan/54637/89118
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-http://tvn.x10.bz/xchannel/master-8.m3u8
+https://iptv.lancartech.co.id:8443/topan/54637/89119
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 4
-http://tvn.x10.bz/xchannel/master-17.m3u8
+https://iptv.lancartech.co.id:8443/topan/54637/90269
 
 #EXTINF:-1 group-title="Indo Sports", Useesport
-http://nontonbola.my.id/hustv/useesport1.m3u8
+https://iptv.lancartech.co.id:8443/topan/54637/69
 
 #EXTINF:-1 group-title="Indo Sports", Useesport 2
-http://nontonbola.my.id/hustv/useesport2.m3u8
+https://iptv.lancartech.co.id:8443/topan/54637/70
 
 #EXTINF:-1 group-title="Indo Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
@@ -80,13 +80,13 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 ####Indo HD####
 
 #EXTINF:-1 group-title=" Indo HD", Indosiar HD
-http://goldentv.tech:25461/rachman/rachman/22974
+https://iptv.lancartech.co.id:8443/topan/54637/8
 
 #EXTINF:-1 group-title=" Indo HD", SCTV
-http://zz@tvn.x10.bz/xchannel/master-24.m3u8
+https://iptv.lancartech.co.id:8443/topan/54637/4
 
 #EXTINF:-1 group-title=" Indo HD", O Channel
-http://zz@tvn.x10.bz/xchannel/master-18.m3u8
+https://iptv.lancartech.co.id:8443/topan/54637/129419
 
 ####Indo TV####
 
@@ -408,10 +408,10 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 http://opplex.tv:8080/993300/993300/204853
 
 #EXTINF:-1 group-title="Japan",  Waku Waku Japan
-http://opplex.tv:8080/993300/993300/204857
+https://iptv.lancartech.co.id:8443/topan/54637/15955
 
 #EXTINF:-1 group-title="Japan",  Sony Gem TV
-https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/770
+https://iptv.lancartech.co.id:8443/topan/54637/39
 
 ####HBO####
 
@@ -638,13 +638,13 @@ http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/27221
 ####Sony Ten###
 
 #EXTINF:-1 group-title="Sony TEN", Sony TEN 1
-http://goldentv.tech:25461/rachman/rachman/25207
+https://iptv.lancartech.co.id:8443/topan/54637/129401
 
 #EXTINF:-1 group-title="Sony TEN", Sony TEN 2
-http://goldentv.tech:25461/rachman/rachman/25208
+https://iptv.lancartech.co.id:8443/topan/54637/129402
 
 #EXTINF:-1 group-title="Sony TEN", Sony TEN 3
-http://goldentv.tech:25461/rachman/rachman/25209
+https://iptv.lancartech.co.id:8443/topan/54637/129403
 
 #EXTINF:-1 group-title="Sony TEN", Sony Six
 http://goldentv.tech:25461/rachman/rachman/25214
@@ -658,19 +658,19 @@ http://iptv.tvmalaysia.cc:80/760407/760407/6707
 http://iptv.tvmalaysia.cc:80/760407/760407/9028
 
 #EXTINF:-1 group-title="Astro Sports", ASSP 1
-http://goldentv.tech:25461/rachman/rachman/25010
+https://iptv.lancartech.co.id:8443/topan/54637/53222
 
 #EXTINF:-1 group-title="Astro Sports", ASSP 2
-http://goldentv.tech:25461/rachman/rachman/25011
+https://iptv.lancartech.co.id:8443/topan/54637/53223
 
 #EXTINF:-1 group-title="Astro Sports", ASSP 3
-http://goldentv.tech:25461/rachman/rachman/25012
+https://iptv.lancartech.co.id:8443/topan/54637/53224
 
 #EXTINF:-1 group-title="Astro Sports", ASSP 4
-http://goldentv.tech:25461/rachman/rachman/25015
+https://iptv.lancartech.co.id:8443/topan/54637/53225
 
 #EXTINF:-1 group-title="Astro Sports", ASSP 5
-http://goldentv.tech:25461/rachman/rachman/25016
+https://iptv.lancartech.co.id:8443/topan/54637/53227
 
 ####beIN Sports####
 
@@ -703,5 +703,56 @@ http://iptv.ndasat.com:88/224866904257066/224866904257066/5147
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 7
 http://iptv.ndasat.com:88/224866904257066/224866904257066/5148
+
+
+####All Sports####
+
+#EXTINF:-1 group-title="All Sports", BT Sport 1
+https://iptv.lancartech.co.id:8443/topan/54637/86856
+
+#EXTINF:-1 group-title="All Sports", BT Sport 2
+https://iptv.lancartech.co.id:8443/topan/54637/86857
+
+#EXTINF:-1 group-title="All Sports", BT Sport 3
+https://iptv.lancartech.co.id:8443/topan/54637/86858
+
+#EXTINF:-1 group-title="All Sports", Eurosport 1
+https://iptv.lancartech.co.id:8443/topan/54637/86870
+
+#EXTINF:-1 group-title="All Sports", Eurosport 2
+https://iptv.lancartech.co.id:8443/topan/54637/86871
+
+#EXTINF:-1 group-title="All Sports", RMC Sport 1
+https://iptv.lancartech.co.id:8443/topan/54637/90053
+
+#EXTINF:-1 group-title="All Sports", RMC Sport 2
+https://iptv.lancartech.co.id:8443/topan/54637/90054
+
+#EXTINF:-1 group-title="All Sports", SPORT TV 1
+https://iptv.lancartech.co.id:8443/topan/54637/86873
+
+#EXTINF:-1 group-title="All Sports", SPORT TV 2
+https://iptv.lancartech.co.id:8443/topan/54637/86874
+
+#EXTINF:-1 group-title="All Sports", SPORT TV 3
+https://iptv.lancartech.co.id:8443/topan/54637/86875
+
+#EXTINF:-1 group-title="All Sports", SPORT TV 4
+https://iptv.lancartech.co.id:8443/topan/54637/86876
+
+#EXTINF:-1 group-title="All Sports", SPORT TV 5
+https://iptv.lancartech.co.id:8443/topan/54637/86877
+
+#EXTINF:-1 group-title="All Sports", Supersport Premier League
+https://iptv.lancartech.co.id:8443/topan/54637/86868
+
+#EXTINF:-1 group-title="All Sports", Ziggo Sports Football
+https://iptv.lancartech.co.id:8443/topan/54637/87726
+
+#EXTINF:-1 group-title="All Sports", Ziggo Sports Select
+https://iptv.lancartech.co.id:8443/topan/54637/87725
+
+
+
 
 
