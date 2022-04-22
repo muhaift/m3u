@@ -672,3 +672,36 @@ http://goldentv.tech:25461/rachman/rachman/25015
 #EXTINF:-1 group-title="Astro Sports", ASSP 5
 http://goldentv.tech:25461/rachman/rachman/25016
 
+####beIN Sports####
+
+#EXTINF:-1 group-title="beIN Sports", beIN Sports Premium 1
+http://iptv.ndasat.com:88/224866904257066/224866904257066/1072
+
+#EXTINF:-1 group-title="beIN Sports", beIN Sports Premium 2
+http://iptv.ndasat.com:88/224866904257066/224866904257066/1073
+
+#EXTINF:-1 group-title="beIN Sports", beIN Sports Premium 3
+http://iptv.ndasat.com:88/224866904257066/224866904257066/1074
+
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 1
+http://iptv.ndasat.com:88/224866904257066/224866904257066/1070
+
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 2
+http://iptv.ndasat.com:88/224866904257066/224866904257066/1071
+
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 3
+http://iptv.ndasat.com:88/224866904257066/224866904257066/77
+
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 4
+http://iptv.ndasat.com:88/224866904257066/224866904257066/78
+
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 5
+http://iptv.ndasat.com:88/224866904257066/224866904257066/5146
+
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 6
+http://iptv.ndasat.com:88/224866904257066/224866904257066/5147
+
+#EXTINF:-1 group-title="beIN Sports", beIN Sports 7
+http://iptv.ndasat.com:88/224866904257066/224866904257066/5148
+
+
