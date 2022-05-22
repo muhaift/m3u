@@ -658,19 +658,19 @@ http://iptv.tvmalaysia.cc:80/760407/760407/6707
 http://iptv.tvmalaysia.cc:80/760407/760407/9028
 
 #EXTINF:-1 group-title="Astro Sports", ASSP 1
-https://iptv.lancartech.co.id:8443/topan/54637/53222
+http://tvmalaysia.cc:80/122564/122564/9024
 
 #EXTINF:-1 group-title="Astro Sports", ASSP 2
-https://iptv.lancartech.co.id:8443/topan/54637/53223
+http://tvmalaysia.cc:80/122564/122564/9025
 
 #EXTINF:-1 group-title="Astro Sports", ASSP 3
-https://iptv.lancartech.co.id:8443/topan/54637/53224
+http://tvmalaysia.cc:80/122564/122564/9020
 
 #EXTINF:-1 group-title="Astro Sports", ASSP 4
-https://iptv.lancartech.co.id:8443/topan/54637/53225
+http://tvmalaysia.cc:80/122564/122564/9026
 
 #EXTINF:-1 group-title="Astro Sports", ASSP 5
-https://iptv.lancartech.co.id:8443/topan/54637/53227
+http://tvmalaysia.cc:80/122564/122564/9029
 
 ####beIN Sports####
 
@@ -752,6 +752,38 @@ https://iptv.lancartech.co.id:8443/topan/54637/87726
 #EXTINF:-1 group-title="All Sports", Ziggo Sports Select
 https://iptv.lancartech.co.id:8443/topan/54637/87725
 
+
+###Thailand Channel####
+
+#EXTINF:-1 group-title="Thai Sports", Premier HD1
+http://tvmalaysia.cc:80/122564/122564/8811
+
+#EXTINF:-1 group-title="Thai Sports", Premier HD2
+http://tvmalaysia.cc:80/122564/122564/8812
+
+#EXTINF:-1 group-title="Thai Sports", Premier HD3
+http://tvmalaysia.cc:80/122564/122564/8813
+
+#EXTINF:-1 group-title="Thai Sports", Premier HD4
+http://tvmalaysia.cc:80/122564/122564/8814
+
+#EXTINF:-1 group-title="Thai Sports", Premier HD5
+http://tvmalaysia.cc:80/122564/122564/8815
+
+#EXTINF:-1 group-title="Thai Sports", Skynetsport HD
+http://tvmalaysia.cc:80/122564/122564/8816
+
+#EXTINF:-1 group-title="Thai Sports", True Sport HD1
+http://tvmalaysia.cc:80/122564/122564/8817
+
+#EXTINF:-1 group-title="Thai Sports", True Sport HD2
+http://tvmalaysia.cc:80/122564/122564/8818
+
+#EXTINF:-1 group-title="Thai Sports", True Sport HD3
+http://tvmalaysia.cc:80/122564/122564/8819
+
+#EXTINF:-1 group-title="Thai Sports", True Sport HD4
+http://tvmalaysia.cc:80/122564/122564/8820
 
 
 
