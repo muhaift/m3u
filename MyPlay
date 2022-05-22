@@ -684,25 +684,25 @@ http://iptv.ndasat.com:88/224866904257066/224866904257066/1073
 http://iptv.ndasat.com:88/224866904257066/224866904257066/1074
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 1
-http://iptv.ndasat.com:88/224866904257066/224866904257066/1070
+http://iptv.am000.tv:8000/live/add17/add17/293.ts
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 2
-http://iptv.ndasat.com:88/224866904257066/224866904257066/1071
+http://iptv.am000.tv:8000/live/add17/add17/294.ts
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 3
-http://iptv.ndasat.com:88/224866904257066/224866904257066/77
+http://iptv.am000.tv:8000/live/add17/add17/295.ts
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 4
-http://iptv.ndasat.com:88/224866904257066/224866904257066/78
+http://iptv.am000.tv:8000/live/add17/add17/296.ts
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 5
-http://iptv.ndasat.com:88/224866904257066/224866904257066/5146
+http://iptv.am000.tv:8000/live/add17/add17/297.ts
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 6
-http://iptv.ndasat.com:88/224866904257066/224866904257066/5147
+http://iptv.am000.tv:8000/live/add17/add17/298.ts
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 7
-http://iptv.ndasat.com:88/224866904257066/224866904257066/5148
+http://iptv.am000.tv:8000/live/add17/add17/299.ts
 
 
 ####All Sports####
@@ -751,40 +751,5 @@ https://iptv.lancartech.co.id:8443/topan/54637/87726
 
 #EXTINF:-1 group-title="All Sports", Ziggo Sports Select
 https://iptv.lancartech.co.id:8443/topan/54637/87725
-
-
-###Thailand Channel####
-
-#EXTINF:-1 group-title="Thai Sports", Premier HD1
-http://tvmalaysia.cc:80/122564/122564/8811
-
-#EXTINF:-1 group-title="Thai Sports", Premier HD2
-http://tvmalaysia.cc:80/122564/122564/8812
-
-#EXTINF:-1 group-title="Thai Sports", Premier HD3
-http://tvmalaysia.cc:80/122564/122564/8813
-
-#EXTINF:-1 group-title="Thai Sports", Premier HD4
-http://tvmalaysia.cc:80/122564/122564/8814
-
-#EXTINF:-1 group-title="Thai Sports", Premier HD5
-http://tvmalaysia.cc:80/122564/122564/8815
-
-#EXTINF:-1 group-title="Thai Sports", Skynetsport HD
-http://tvmalaysia.cc:80/122564/122564/8816
-
-#EXTINF:-1 group-title="Thai Sports", True Sport HD1
-http://tvmalaysia.cc:80/122564/122564/8817
-
-#EXTINF:-1 group-title="Thai Sports", True Sport HD2
-http://tvmalaysia.cc:80/122564/122564/8818
-
-#EXTINF:-1 group-title="Thai Sports", True Sport HD3
-http://tvmalaysia.cc:80/122564/122564/8819
-
-#EXTINF:-1 group-title="Thai Sports", True Sport HD4
-http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/15383.ts
-
-
 
 
