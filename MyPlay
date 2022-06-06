@@ -22,22 +22,22 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-http://pprotv.com:80/asim1234/123456/39556
+http://www.goldentv.tech:25461/James/James/25657
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-http://pprotv.com:80/asim1234/123456/39557
+http://www.goldentv.tech:25461/James/James/26134
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-http://pprotv.com:80/asim1234/123456/39558
+http://www.goldentv.tech:25461/James/James/26135
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 4
-http://pprotv.com:80/asim1234/123456/39559
+http://www.goldentv.tech:25461/James/James/26136
 
-#EXTINF:-1 group-title="Indo Sports", Useesport
-http://pprotv.com:80/asim1234/123456/39554
+#EXTINF:-1 group-title="Indo Sports", Useesport 1
+http://www.goldentv.tech:25461/James/James/22973
 
 #EXTINF:-1 group-title="Indo Sports", Useesport 2
-http://pprotv.com:80/asim1234/123456/39555
+http://www.goldentv.tech:25461/James/James/22974
 
 #EXTINF:-1 group-title="Indo Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
@@ -86,7 +86,7 @@ http://pprotv.com:80/asim1234/123456/39427
 http://pprotv.com:80/asim1234/123456/39428
 
 #EXTINF:-1 group-title=" Indo HD", O Channel
-https://iptv.lancartech.co.id:8443/kumon/kumon/129419.ts
+https://iptv.lancartech.co.id:8443/kumon/kumon/129419
 
 ####Indo TV####
 
@@ -408,10 +408,10 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 http://opplex.tv:8080/993300/993300/204853
 
 #EXTINF:-1 group-title="Japan",  Waku Waku Japan
-https://iptv.lancartech.co.id:8443/kumon/kumon/15955.ts
+https://iptv.lancartech.co.id:8443/kumon/kumon/15955
 
 #EXTINF:-1 group-title="Japan",  Sony Gem TV
-https://iptv.lancartech.co.id:8443/kumon/kumon/39.ts
+https://iptv.lancartech.co.id:8443/kumon/kumon/39
 
 ####HBO####
 
@@ -638,16 +638,16 @@ http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/27221
 ####Sony Ten###
 
 #EXTINF:-1 group-title="Sony TEN", Sony TEN 1
-https://iptv.lancartech.co.id:8443/kumon/kumon/129401.ts
+http://103.55.144.46/hls/sonyten1.m3u8 
 
 #EXTINF:-1 group-title="Sony TEN", Sony TEN 2
-https://iptv.lancartech.co.id:8443/kumon/kumon/129402.ts
+http://103.55.144.46/hls/sonyten2.m3u8 
 
 #EXTINF:-1 group-title="Sony TEN", Sony TEN 3
-https://iptv.lancartech.co.id:8443/kumon/kumon/129403.ts
+http://103.55.144.46/hls/sonyten3.m3u8 
 
 #EXTINF:-1 group-title="Sony TEN", Sony Six
-http://goldentv.tech:25461/Perfecto/170721/25214
+http://103.55.144.46/hls/sonysix.m3u8 
 
 ####Astro Super Sport####
 
@@ -708,48 +708,10 @@ http://gplus.live:8080/168573780756/N9UFR0P64W/58870
 ####All Sports####
 
 #EXTINF:-1 group-title="All Sports", BT Sport 1
-https://iptv.lancartech.co.id:8443/kumon/kumon/86856.ts
+https://birutv.com/sport@birutv/live/bt1.m3u8
 
 #EXTINF:-1 group-title="All Sports", BT Sport 2
-https://iptv.lancartech.co.id:8443/kumon/kumon/86857.ts
+https://birutv.com/sport@birutv/live/bt2.m3u8
 
 #EXTINF:-1 group-title="All Sports", BT Sport 3
-https://iptv.lancartech.co.id:8443/kumon/kumon/86858.ts
-
-#EXTINF:-1 group-title="All Sports", Eurosport 1
-https://iptv.lancartech.co.id:8443/kumon/kumon/86870.ts
-
-#EXTINF:-1 group-title="All Sports", Eurosport 2
-https://iptv.lancartech.co.id:8443/kumon/kumon/86871.ts
-
-#EXTINF:-1 group-title="All Sports", RMC Sport 1
-https://iptv.lancartech.co.id:8443/kumon/kumon/90053.ts
-
-#EXTINF:-1 group-title="All Sports", RMC Sport 2
-https://iptv.lancartech.co.id:8443/kumon/kumon/90054.ts
-
-#EXTINF:-1 group-title="All Sports", SPORT TV 1
-https://link.zozotv.xyz:443/fx2/fx2/176
-
-#EXTINF:-1 group-title="All Sports", SPORT TV 2
-https://link.zozotv.xyz:443/fx2/fx2/177
-
-#EXTINF:-1 group-title="All Sports", SPORT TV 3
-https://link.zozotv.xyz:443/fx2/fx2/178
-
-#EXTINF:-1 group-title="All Sports", SPORT TV 4
-https://iptv.lancartech.co.id:8443/kumon/kumon/86876.ts
-
-#EXTINF:-1 group-title="All Sports", SPORT TV 5
-https://iptv.lancartech.co.id:8443/kumon/kumon/86877.ts
-
-#EXTINF:-1 group-title="All Sports", Supersport Premier League
-https://iptv.lancartech.co.id:8443/kumon/kumon/86868.ts
-
-#EXTINF:-1 group-title="All Sports", Ziggo Sports Football
-https://iptv.lancartech.co.id:8443/kumon/kumon/87726.ts
-
-#EXTINF:-1 group-title="All Sports", Ziggo Sports Select
-https://iptv.lancartech.co.id:8443/kumon/kumon/87725.ts
-
-
+https://birutv.com/sport@birutv/live/bt3.m3u8
