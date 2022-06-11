@@ -22,22 +22,22 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-http://www.goldentv.tech:25461/James/James/25657
+https://iptv.lancartech.co.id:443/play/oeFA3H12KYzUmLXd_48FQnzW24jOsQxGckCnYth26MHCKihp0TkaxMvA7TMuvSSM
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-http://www.goldentv.tech:25461/James/James/26134
+https://iptv.lancartech.co.id:443/play/oeFA3H12KYzUmLXd_48FQnzW24jOsQxGckCnYth26MFH_aDgQuAag9qqIT7jzJjZ
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-http://www.goldentv.tech:25461/James/James/26135
+https://iptv.lancartech.co.id:443/play/oeFA3H12KYzUmLXd_48FQnzW24jOsQxGckCnYth26MFYtg9hl6rl0nY5Tz11hzY4
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 4
-http://www.goldentv.tech:25461/James/James/26136
+https://iptv.lancartech.co.id:443/play/oeFA3H12KYzUmLXd_48FQiiD55jFJZGqlZZsA8FmHbqMBrZatcg7A1LSWmFqgslE
 
 #EXTINF:-1 group-title="Indo Sports", Useesport 1
-http://www.goldentv.tech:25461/James/James/22973
+https://iptv.lancartech.co.id:443/play/oeFA3H12KYzUmLXd_48FQuJEZBvsCLH2MKjA2O7Mksx65oswAQVTnIWiqxFVJu01
 
 #EXTINF:-1 group-title="Indo Sports", Useesport 2
-http://www.goldentv.tech:25461/James/James/22974
+https://iptv.lancartech.co.id:443/play/oeFA3H12KYzUmLXd_48FQuUMQpY4U-1OH28zTh2stawquKrAWLyLiDyLYUqSc2xg
 
 #EXTINF:-1 group-title="Indo Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
@@ -80,7 +80,7 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 ####Indo HD####
 
 #EXTINF:-1 group-title=" Indo HD", Indosiar HD
-http://pprotv.com:80/asim1234/123456/39427
+https://iptv.lancartech.co.id:443/play/oeFA3H12KYzUmLXd_48FQnzW24jOsQxGckCnYth26MF6v7Npccg_p2O_dmioXbUJ
 
 #EXTINF:-1 group-title=" Indo HD", SCTV
 http://pprotv.com:80/asim1234/123456/39428
@@ -715,3 +715,41 @@ https://birutv.com/sport@birutv/live/bt2.m3u8
 
 #EXTINF:-1 group-title="All Sports", BT Sport 3
 https://birutv.com/sport@birutv/live/bt3.m3u8
+
+#EXTINF:-1 group-title="All Sports", Eurosport 1
+https://iptv.lancartech.co.id:8443/kumon/kumon/86870
+
+#EXTINF:-1 group-title="All Sports", Eurosport 2
+https://iptv.lancartech.co.id:8443/kumon/kumon/86871
+
+#EXTINF:-1 group-title="All Sports", RMC Sport 1
+https://iptv.lancartech.co.id:8443/kumon/kumon/90053
+
+#EXTINF:-1 group-title="All Sports", RMC Sport 2
+https://iptv.lancartech.co.id:8443/kumon/kumon/90054
+
+#EXTINF:-1 group-title="All Sports", SPORT TV 1
+https://link.zozotv.xyz:443/fx2/fx2/176
+
+#EXTINF:-1 group-title="All Sports", SPORT TV 2
+https://link.zozotv.xyz:443/fx2/fx2/177
+
+#EXTINF:-1 group-title="All Sports", SPORT TV 3
+https://link.zozotv.xyz:443/fx2/fx2/178
+
+#EXTINF:-1 group-title="All Sports", SPORT TV 4
+https://iptv.lancartech.co.id:8443/kumon/kumon/86876
+
+#EXTINF:-1 group-title="All Sports", SPORT TV 5
+https://iptv.lancartech.co.id:8443/kumon/kumon/86877
+
+#EXTINF:-1 group-title="All Sports", Supersport Premier League
+https://iptv.lancartech.co.id:8443/kumon/kumon/86868
+
+#EXTINF:-1 group-title="All Sports", Ziggo Sports Football
+https://iptv.lancartech.co.id:8443/kumon/kumon/87726
+
+#EXTINF:-1 group-title="All Sports", Ziggo Sports Select
+https://iptv.lancartech.co.id:8443/kumon/kumon/87725
+
+
