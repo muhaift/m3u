@@ -88,6 +88,9 @@ http://pprotv.com:80/asim1234/123456/39428
 #EXTINF:-1 group-title=" Indo HD", O Channel
 https://iptv.lancartech.co.id:8443/kumon/kumon/129419
 
+#EXTINF:-1 group-title=" Indo HD", RCTI
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
+
 ####Indo TV####
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
