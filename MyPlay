@@ -80,16 +80,13 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 ####Indo HD####
 
 #EXTINF:-1 group-title=" Indo HD", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1654959997~acl=/vp9/9111_stream.mpd!/vp9/9111/*!/vp9/*/9111_stream.mpd!/vp9/*/9111/*~hmac=40285ac9c2c6c937f13edac47f4987aa27d9e6576a637c5fdaddb9594fa9d3f4/vp9/9111_stream.mpd
+http://pprotv.com:80/asim1234/123456/39427
 
 #EXTINF:-1 group-title=" Indo HD", SCTV
 http://pprotv.com:80/asim1234/123456/39428
 
 #EXTINF:-1 group-title=" Indo HD", O Channel
 https://iptv.lancartech.co.id:8443/kumon/kumon/129419
-
-#EXTINF:-1 group-title=" Indo HD", RCTI
-https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 
 ####Indo TV####
 
