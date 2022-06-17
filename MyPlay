@@ -79,8 +79,11 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 
 ####Indo HD####
 
-#EXTINF:-1 group-title=" Indo HD", Indosiar HD
+#EXTINF:-1 group-title=" Indo HD", Persib vs Persebaya
 https://etslive-2-vidio-com.akamaized.net/exp=1655484370~acl=/vp9/9121_stream.mpd!/vp9/9121/*!/vp9/*/9121_stream.mpd!/vp9/*/9121/*~hmac=4df7ef2a1ac829269bde3690cc9dddfa6770093d49881e341f3b0f1c9ca97518/vp9/9121_stream.mpd
+
+#EXTINF:-1 group-title=" Indo HD", Indosiar HD
+https://etslive-2-vidio-com.akamaized.net/exp=1655486160~acl=/vp9/9114_stream.mpd!/vp9/9114/*!/vp9/*/9114_stream.mpd!/vp9/*/9114/*~hmac=4e1917e1e5a2fac6ace1eddd856ea8bae8c6a85df25e72d27563ecd2d5589734/vp9/9114_stream.mpd
 
 #EXTINF:-1 group-title=" Indo HD", SCTV
 http://pprotv.com:80/asim1234/123456/39428
