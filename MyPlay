@@ -80,10 +80,10 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 ####Indo HD####
 
 #EXTINF:-1 group-title=" Indo HD", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1656075830~acl=/vp9/9111_stream.mpd!/vp9/9111/*!/vp9/*/9111_stream.mpd!/vp9/*/9111/*~hmac=d9437edb779a096a2567e4fe6143954d000e6a73c4ca3b81a0f9ad9c848b608c/vp9/9111_stream.mpd
+http://tvlive.my.id:25461/kevin/kevin/10
 
 #EXTINF:-1 group-title=" Indo HD", SCTV
-http://pprotv.com:80/asim1234/123456/39428
+http://tvlive.my.id:25461/kevin/kevin/12
 
 #EXTINF:-1 group-title=" Indo HD", O Channel
 http://tvlive.my.id:25461/kevin/kevin/20
@@ -333,10 +333,10 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 ####MalayTV####
 
 #EXTINF:-1 group-title="Malay TV", TV 1
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7177
+http://iptv.tvmalaysia.cc:80/622846/622846/7177
 
 #EXTINF:-1 group-title="Malay TV", TV 2
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7178
+http://iptv.tvmalaysia.cc:80/622846/622846/7178
 
 #EXTINF:-1 group-title="Malay TV", TV 3
 https://link.zozotv.xyz:443/fx2/fx2/18
@@ -356,46 +356,46 @@ https://link.zozotv.xyz:443/fx2/fx2/24
 #####AstroTV#####
 
 #EXTINF:-1 group-title="Astro TV", Astro Ceria
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6715
+http://iptv.tvmalaysia.cc:80/622846/622846/6715
 
 #EXTINF:-1 group-title="Astro TV", Astro Citra
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7267
+http://iptv.tvmalaysia.cc:80/622846/622846/7267
 
 #EXTINF:-1 group-title="Astro TV", Astro Ria
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6730
+http://iptv.tvmalaysia.cc:80/622846/622846/6730
 
 #EXTINF:-1 group-title="Astro TV", Astro Prima
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6727
+http://iptv.tvmalaysia.cc:80/622846/622846/6727
 
 #EXTINF:-1 group-title="Astro TV", Astro Warna
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6740
+http://iptv.tvmalaysia.cc:80/622846/622846/6740
 
 #EXTINF:-1 group-title="Astro TV", Astro Naura
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6724
+http://iptv.tvmalaysia.cc:80/622846/622846/6724
 
 #EXTINF:-1 group-title="Astro TV", Astro Awani
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6714
+http://iptv.tvmalaysia.cc:80/622846/622846/6714
 
 #EXTINF:-1 group-title="Astro TV", Astro Oasis
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6725
+http://iptv.tvmalaysia.cc:80/622846/622846/6725
 
 #EXTINF:-1 group-title="Astro TV", Astro Aura
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6713
+http://iptv.tvmalaysia.cc:80/622846/622846/6713
 
 #EXTINF:-1 group-title="Astro TV", ASTRO AOD 351 HD
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6702
+http://iptv.tvmalaysia.cc:80/622846/622846/6702
 
 #EXTINF:-1 group-title="Astro TV", ASTRO AOD 352 HD
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6703
+http://iptv.tvmalaysia.cc:80/622846/622846/6703
 
 #EXTINF:-1 group-title="Astro TV", ASTRO AOD 353 HD
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6704
+http://iptv.tvmalaysia.cc:80/622846/622846/6704
 
 #EXTINF:-1 group-title="Astro TV", ASTRO AOD 354 HD
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6705
+http://iptv.tvmalaysia.cc:80/622846/622846/6705
 
 #EXTINF:-1 group-title="Astro TV", ASTRO AOD 355 HD
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6706
+http://iptv.tvmalaysia.cc:80/622846/622846/6706
 
 ####Japan####
 
@@ -652,10 +652,10 @@ http://103.55.144.46/hls/sonysix.m3u8
 ####Astro Super Sport####
 
 #EXTINF:-1 group-title="Astro Sports", Astro Arena
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6707
+http://iptv.tvmalaysia.cc:80/622846/622846/6707
 
 #EXTINF:-1 group-title="Astro Sports", Astro Arena 2
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9028
+http://iptv.tvmalaysia.cc:80/622846/622846/9028
 
 #EXTINF:-1 group-title="Astro Sports", ASSP 1
 http://tvmalaysia.cc:80/122564/122564/9024
