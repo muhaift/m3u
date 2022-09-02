@@ -80,7 +80,7 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 ####Indo HD####
 
 #EXTINF:-1 group-title=" Indo HD", Indosiar HD
-http://tvn.x10.mx/vidio/master.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1662121361~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=21d131d435eef7b2b89e72a317c9721bf385aa834b5e1fc426c2b9786e8e1351/vp9/205_stream.mpd
 
 #EXTINF:-1 group-title=" Indo HD", SCTV
 http://tvn.x10.mx/vidio/master-1.m3u8
