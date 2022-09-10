@@ -22,16 +22,16 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-https://raw.githubusercontent.com/muhaift/m3u/main/Ch1.m3u8
+http://tvn.x10.mx/live/master-7.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-http://tvlive.my.id:25461/kevin/kevin/33
+http://tvn.x10.mx/live/master-8.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-http://tvlive.my.id:25461/kevin/kevin/34
+http://tvn.x10.mx/live/master-9.m3u8
 
-#EXTINF:-1 group-title=" Indo Sports", Champions TV 4
-https://iptv.lancartech.co.id:443/play/oeFA3H12KYzUmLXd_48FQiiD55jFJZGqlZZsA8FmHbqMBrZatcg7A1LSWmFqgslE
+#EXTINF:-1 group-title=" Indo Sports", Champions TV Goal
+http://tvn.x10.mx/live/master-10.m3u8
 
 #EXTINF:-1 group-title="Indo Sports", Useesport 1
 http://pprotv.com:80/asim1234/123456/39554
@@ -80,16 +80,13 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 ####Indo HD####
 
 #EXTINF:-1 group-title=" Indo HD", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1662121361~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=21d131d435eef7b2b89e72a317c9721bf385aa834b5e1fc426c2b9786e8e1351/vp9/205_stream.mpd
-
-#EXTINF:-1 group-title=" Indo HD", Live BRI Liga 1
-https://etslive-2-vidio-com.akamaized.net/exp=1662122467~acl=/vp9/9307_stream.mpd!/vp9/9307/*!/vp9/*/9307_stream.mpd!/vp9/*/9307/*~hmac=3a5c35c481ade5ebe6d9dad05944db4f589188c6c11d84128082426b53d2f9ef/vp9/9307_stream.mpd
+http://tvn.x10.mx/live/master.m3u8
 
 #EXTINF:-1 group-title=" Indo HD", SCTV
-http://tvn.x10.mx/vidio/master-1.m3u8
+http://tvn.x10.mx/live/master-1.m3u8
 
 #EXTINF:-1 group-title=" Indo HD", Moji
-http://tvn.x10.mx/vidio/master-13.m3u8
+http://tvn.x10.mx/live/master-13.m3u8
 
 
 ####Indo TV####
