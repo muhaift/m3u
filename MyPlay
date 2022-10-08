@@ -39,10 +39,10 @@ http://tv.zonanime.my.id/vidio/championstv3.m3u8
 http://tv.zonanime.my.id/vidio/championstv4.m3u8
 
 #EXTINF:-1 group-title="Indo Sports", Useesport 1
-http://pprotv.com:80/asim1234/123456/39554
+http://iptvid.my.id/hmm/useetl1.m3u8
 
 #EXTINF:-1 group-title="Indo Sports", Useesport 2
-http://pprotv.com:80/asim1234/123456/39555
+http://iptvid.my.id/hmm/useetl2.m3u8
 
 #EXTINF:-1 group-title="Indo Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
@@ -85,13 +85,13 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 ####Indo HD####
 
 #EXTINF:-1 group-title=" Indo HD", Indosiar HD
-https://www.seulangatv-online.ml/vidio/prem/indosiar.m3u8
+http://tv.zonanime.my.id/vidio/indosiar.m3u8
 
 #EXTINF:-1 group-title=" Indo HD", SCTV
-https://www.seulangatv-online.ml/vidio/prem/sctv.m3u8
+http://tv.zonanime.my.id/vidio/sctv.m3u8
 
 #EXTINF:-1 group-title=" Indo HD", Moji
-https://www.seulangatv-online.ml/vidio/prem/moji.m3u8
+http://tv.zonanime.my.id/vidio/moji.m3u8
 
 
 ####Indo TV####
@@ -697,34 +697,34 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 ####beIN Sports####
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports Premium 1
-http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18977
+http://iptvtree.net:8080/ace2524d/15a571c413/109
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports Premium 2
-http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18978
+http://iptvtree.net:8080/ace2524d/15a571c413/280145
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports Premium 3
-http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18979
+http://iptvtree.net:8080/ace2524d/15a571c413/280149
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 1
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
+http://iptvtree.net:8080/ace2524d/15a571c413/100
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 2
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
+http://iptvtree.net:8080/ace2524d/15a571c413/101
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 3
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
+http://iptvtree.net:8080/ace2524d/15a571c413/102
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 4
-http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18954
+http://iptvtree.net:8080/ace2524d/15a571c413/103
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 5
-http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18955
+http://iptvtree.net:8080/ace2524d/15a571c413/104
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 6
-http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18956
+http://iptvtree.net:8080/ace2524d/15a571c413/105
 
 #EXTINF:-1 group-title="beIN Sports", beIN Sports 7
-http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18957
+http://iptvtree.net:8080/ace2524d/15a571c413/106
 
 
 ####All Sports####
