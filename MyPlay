@@ -88,10 +88,10 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 http://tv.zonanime.my.id/vidio/indosiar.m3u8
 
 #EXTINF:-1 group-title=" Indo HD", SCTV
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+http://andre.ueuo.com/vidio/sctv.m3u8
 
 #EXTINF:-1 group-title=" Indo HD", Moji
-https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+http://tv.zonanime.my.id/vidio/ochannel.m3u8
 
 
 ####Indo TV####
@@ -664,35 +664,35 @@ http://103.55.144.46/hls/sonysix.m3u8
 ####Astro Super Sport####
 
 #EXTINF:-1 group-title="Astro Sports", Astro Arena
-http://iptv.tvmalaysia.cc:80/622846/622846/6707
+http://king-tv.online:8080/live/gisle@/FDPWGufCmY/379988.m3u8
 
 #EXTINF:-1 group-title="Astro Sports", Astro Arena 2
-http://iptv.tvmalaysia.cc:80/622846/622846/9028
+http://king-tv.online:8080/live/gisle@/FDPWGufCmY/379990.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a5ce785d63f164f5be079a0aa9b6210&key=d388cbf715f1bb08901a55a7db7f26c0
 #EXTINF:-1 group-title="Astro Sports", ASSP 1
-http://tvmalaysia.cc:80/122564/122564/9024
+https://ad2017.vhls.ru.com/lb/premium123/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a5ce785d63f164f5be079a0aa9b6210&key=d388cbf715f1bb08901a55a7db7f26c0
 #EXTINF:-1 group-title="Astro Sports", ASSP 2
-http://tvmalaysia.cc:80/122564/122564/9025
+https://ad2017.vhls.ru.com/lb/premium124/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a5ce785d63f164f5be079a0aa9b6210&key=d388cbf715f1bb08901a55a7db7f26c0
 #EXTINF:-1 group-title="Astro Sports", ASSP 3
-http://tvmalaysia.cc:80/122564/122564/9020
+https://ad2017.vhls.ru.com/lb/premium125/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a5ce785d63f164f5be079a0aa9b6210&key=d388cbf715f1bb08901a55a7db7f26c0
 #EXTINF:-1 group-title="Astro Sports", ASSP 4
-http://tvmalaysia.cc:80/122564/122564/9026
+https://ad2017.vhls.ru.com/lb/premium126/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a5ce785d63f164f5be079a0aa9b6210&key=d388cbf715f1bb08901a55a7db7f26c0
 #EXTINF:-1 group-title="Astro Sports", ASSP 5
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
+https://ad2017.vhls.ru.com/lb/premium43/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 ####beIN Sports####
 
