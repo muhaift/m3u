@@ -27,13 +27,13 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 1
-http://tvn.x10.mx/live/master-7.m3u8
+https://www.seulangatv-online.ml/vidio/Champions1.m3u8
 
 #EXTINF:-1 group-title="Indo Sports",  Champions TV 2
-http://tvn.x10.mx/live/master-8.m3u8
+https://www.seulangatv-online.ml/vidio/Champions2.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
-http://tvn.x10.mx/live/master-9.m3u8
+https://www.seulangatv-online.ml/vidio/Champions3.m3u8
 
 #EXTINF:-1 group-title=" Indo Sports", Champions TV Goal
 http://tvn.x10.mx/live/master-10.m3u8
@@ -85,13 +85,13 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 ####Indo HD####
 
 #EXTINF:-1 group-title=" Indo HD", Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1665163799~acl=/vp9/10046_stream.mpd!/vp9/10046/*!/vp9/*/10046_stream.mpd!/vp9/*/10046/*~hmac=01c9deffb4efb25d700b0f794d8677628b994b824dc01c2cc99c3d1e94e92c30/vp9/10046_stream.mpd
+https://www.seulangatv-online.ml/vidio/indosiar.m3u8
 
 #EXTINF:-1 group-title=" Indo HD", SCTV
-http://tvn.x10.mx/live/master-1.m3u8
+https://www.seulangatv-online.ml/vidio/sctv.m3u8
 
 #EXTINF:-1 group-title=" Indo HD", Moji
-http://tvn.x10.mx/live/master-13.m3u8
+https://www.seulangatv-online.ml/vidio/moji.m3u8
 
 
 ####Indo TV####
