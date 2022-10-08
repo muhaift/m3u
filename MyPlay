@@ -35,8 +35,8 @@ http://tv.zonanime.my.id/vidio/championstv2.m3u8
 #EXTINF:-1 group-title=" Indo Sports", Champions TV 3
 http://tv.zonanime.my.id/vidio/championstv3.m3u8
 
-#EXTINF:-1 group-title=" Indo Sports", Champions TV Goal
-http://tvn.x10.mx/live/master-10.m3u8
+#EXTINF:-1 group-title=" Indo Sports", Champions TV 4
+http://tv.zonanime.my.id/vidio/championstv4.m3u8
 
 #EXTINF:-1 group-title="Indo Sports", Useesport 1
 http://pprotv.com:80/asim1234/123456/39554
