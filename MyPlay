@@ -449,6 +449,9 @@ https://liveanevia.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
 #####KidsTV####
 
+#EXTINF:-1  tvg-logo="" group-title="Kids Channels", Mentari TV
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/8237-mentari-tv
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Kids Channels", Kids TV
