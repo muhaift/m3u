@@ -153,7 +153,7 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
 
 #EXTINF:-1 group-title="Indo TV", Moji
-http://rr3.dens.tv/s/s73/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=O_Channel_Trial-
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=O_Channel
 
 #EXTINF:-1  tvg-logo="" group-title="Indo TV", Musica TV
 https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/7619-musica
