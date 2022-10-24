@@ -556,16 +556,16 @@ https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg1
 ####beIN Sports####
 
 #EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="beIN SPORTS PREMIUM 1 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylp5fQN2WlloPJvYlNcWQgiwP1sB6xZCcsbOLxOyk_co.png" group-title="beIN SPORTS", beINSPORTS PREMIUM 1
-http://king-tv.online:8080/gisle@/FDPWGufCmY/236527
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
 
 #EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="beIN SPORTS PREMIUM 2 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylyDkSBz4CMKbrq5CbCc90jGAzvbzqR5Sq7fjB4EobHd.png" group-title="beIN SPORTS", beINSPORTS PREMIUM 2
-http://king-tv.online:8080/gisle@/FDPWGufCmY/236536.ts
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
 
 #EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="beIN SPORTS PREMIUM 3 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyvTStaro4Ynnjh8f5TkdQrasyGgtudCESF097SZYiZW_.png" group-title="beIN SPORTS", beINSPORTS PREMIUM 3
-http://king-tv.online:8080/gisle@/FDPWGufCmY/236545.ts
+http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 
 #EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="beIN SPORTS 1 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygAomraa0QMezNho-6kfJHLy67UECyyeq2GPRWkZBr1M.png" group-title="beIN SPORTS", beINSPORTS 1
-http://king-tv.online:8080/gisle@/FDPWGufCmY/236464.ts
+http://62.182.82.104/L_1_ARABIC/index.m3u8?token=test&v=697229347
 
 #EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="beIN SPORTS 2 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjhFRYZsa93dx0cbc16NLMVf3Y4AevFijt1_VPUq3yhc.png" group-title="beIN SPORTS", beINSPORTS 2
 http://king-tv.online:8080/gisle@/FDPWGufCmY/236473.ts
