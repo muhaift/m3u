@@ -102,7 +102,7 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 http://tv.zonanime.my.id/vidio/indosiar.m3u8
 
 #EXTINF:-1 group-title=" Indo HD", SCTV
-https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/204-sctv
+http://tv.zonanime.my.id/vidio/sctv.m3u8
 
 #EXTINF:-1 group-title=" Indo HD", Moji
 http://tv.zonanime.my.id/vidio/ochannel.m3u8
