@@ -126,7 +126,7 @@ https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Indo TV", INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1666796405~acl=/hls-p/ingest_205_*/*~hmac=4c0fea911929cd4e09df807db2606b81d9249fe403ea814907e97aefe1cdbb70/hls-p/ingest_205_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1668858336~acl=/vp9/10577_stream.mpd!/vp9/10577/*!/vp9/*/10577_stream.mpd!/vp9/*/10577/*~hmac=cfcaef4442ce30055044211ec41a53fbc1c0e215f8e3cdcdb39edb419f3a65b6/vp9/10577_stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
