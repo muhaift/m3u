@@ -627,6 +627,25 @@ http://185.53.88.103:88/live/226448369414368/226448369414368/13794.m3u
 #EXTINF:-1, group-title="beIN SPORTS", beIN SPORTS 3 FR
 http://185.53.88.103:88/live/226448369414368/226448369414368/13795.m3u
 
+####beINMax####
+
+#EXTINF:-1, group-title="beIN MAX", beIN Sports 1 Max
+http://cdn.wanaiptv.net:2052/cremtv.com/666/252239
+
+#EXTINF:-1, group-title="beIN MAX", beIN Sports 2 Max
+http://cdn.wanaiptv.net:2052/cremtv.com/666/252236
+
+#EXTINF:-1, group-title="beIN MAX", beIN Sports 3 Max
+http://cdn.wanaiptv.net:2052/cremtv.com/666/252233
+
+#EXTINF:-1, group-title="beIN MAX", beIN Sports 4 Max
+http://cdn.wanaiptv.net:2052/cremtv.com/666/252230
+
+#EXTINF:-1, group-title="beIN MAX", beIN Sports 5 Max
+http://cdn.wanaiptv.net:2052/cremtv.com/666/252227
+
+#EXTINF:-1, group-title="beIN MAX", beIN Sports 6 Max
+http://cdn.wanaiptv.net:2052/cremtv.com/666/252224
 
 
 
