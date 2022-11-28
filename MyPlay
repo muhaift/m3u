@@ -26,6 +26,24 @@ http://iptv12k.com:35461/80203091402/213445/14401
 #EXTINF:-1 group-title="FIFA Qatar World Cup",  Now sports 616 4K
 http://iptv12k.com:35461/80203091402/213445/14398
 
+#EXTINF:-1 group-title="FIFA Qatar World Cup", beIN SPORTS MAX 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12303.ts
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", beIN SPORTS MAX 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.ts
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", beIN SPORTS MAX 3 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12305.ts
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", beIN SPORTS MAX 4 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12306.ts
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", beIN SPORTS MAX 5 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12307.ts
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", beIN SPORTS MAX 6 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12308.ts
+
 ####Indo Sports####
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
