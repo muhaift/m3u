@@ -147,13 +147,13 @@ https://liveaneviadev.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchan
 ####Indo HD####
 
 #EXTINF:-1 group-title=" Indo HD", Indosiar HD
-http://tvn.x10.mx/1/master.m3u8
+https://delivery.bukankaleng.co/stream/id_indosiar/playlist.m3u8?token=zyfkfy4&v=20200807
 
 #EXTINF:-1 group-title=" Indo HD", SCTV
-http://tvn.x10.mx/1/master-1.m3u8
+https://delivery.bukankaleng.co/stream/id_sctv/playlist.m3u8?token=zyfkfy4&v=20200807
 
 #EXTINF:-1 group-title=" Indo HD", Moji
-http://tvn.x10.mx/1/master-2.m3u8
+https://delivery.bukankaleng.co/stream/ochannel/playlist.m3u8?token=zyfkfy4&v=20200807
 
 ####Indo TV####
 
