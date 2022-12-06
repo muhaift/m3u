@@ -26,25 +26,6 @@ http://iptv12k.com:35461/80203091402/213445/14401
 #EXTINF:-1 group-title="FIFA Qatar World Cup",  World Cup Channel 08
 http://iptv12k.com:35461/80203091402/213445/14398
 
-#EXTINF:-1 group-title="FIFA Qatar World Cup", beIN SPORTS MAX 1 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12303.ts
-
-#EXTINF:-1 group-title="FIFA Qatar World Cup", beIN SPORTS MAX 2 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.ts
-
-#EXTINF:-1 group-title="FIFA Qatar World Cup", beIN SPORTS MAX 3 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12305.ts
-
-#EXTINF:-1 group-title="FIFA Qatar World Cup", beIN SPORTS MAX 4 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12306.ts
-
-#EXTINF:-1 group-title="FIFA Qatar World Cup", beIN SPORTS MAX 5 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12307.ts
-
-#EXTINF:-1 group-title="FIFA Qatar World Cup", beIN SPORTS MAX 6 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12308.ts
-
-
 ####Indo Sports####
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -81,10 +62,10 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
 #EXTINF:-1 group-title="Indo Sports", Useesport 1
-http://iptvid.my.id/hmm/useetl1.m3u8
+https://delivery.bukankaleng.co/stream/macan_sport_3/playlist.m3u8?token=zyfkfy4&v=20200807
 
 #EXTINF:-1 group-title="Indo Sports", Useesport 2
-http://iptvid.my.id/hmm/useetl2.m3u8
+https://delivery.bukankaleng.co/stream/macan_sport_4/playlist.m3u8?token=zyfkfy4&v=20200807
 
 #EXTINF:-1 group-title="Indo Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
@@ -198,7 +179,7 @@ https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 https://liveaneviadev.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 group-title="Indo TV",  NET TV
-https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
+https://delivery.bukankaleng.co/stream/nettv/playlist.m3u8?token=zyfkfy4&v=20200807
 
 #EXTINF:-1 group-title="Indo TV", Moji
 http://rr3.dens.tv/s/s73/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=O_Channel_Trial-
@@ -495,7 +476,7 @@ https://liveaneviadev.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 #####KidsTV####
 
 #EXTINF:-1  tvg-logo="" group-title="Kids Channels", Mentari TV
-https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/8237-mentari-tv
+https://delivery.bukankaleng.co/stream/mentaritv/playlist.m3u8?token=zyfkfy4&v=20200807
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -647,29 +628,4 @@ http://185.53.88.103:88/live/226448369414368/226448369414368/13794.m3u
 
 #EXTINF:-1, group-title="beIN SPORTS", beIN SPORTS 3 FR
 http://185.53.88.103:88/live/226448369414368/226448369414368/13795.m3u
-
-####beINMax####
-
-#EXTINF:-1, group-title="beIN MAX", beIN Sports 1 Max
-http://cdn.wanaiptv.net:2052/cremtv.com/666/252239
-
-#EXTINF:-1, group-title="beIN MAX", beIN Sports 2 Max
-http://cdn.wanaiptv.net:2052/cremtv.com/666/252236
-
-#EXTINF:-1, group-title="beIN MAX", beIN Sports 3 Max
-http://cdn.wanaiptv.net:2052/cremtv.com/666/252233
-
-#EXTINF:-1, group-title="beIN MAX", beIN Sports 4 Max
-http://cdn.wanaiptv.net:2052/cremtv.com/666/252230
-
-#EXTINF:-1, group-title="beIN MAX", beIN Sports 5 Max
-http://cdn.wanaiptv.net:2052/cremtv.com/666/252227
-
-#EXTINF:-1, group-title="beIN MAX", beIN Sports 6 Max
-http://cdn.wanaiptv.net:2052/cremtv.com/666/252224
-
-
-
-
-
 
