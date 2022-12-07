@@ -73,26 +73,6 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
 #EXTINF:-1 group-title="Indo Sports", TVRI Ott
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-####ChampionsTV####
-
-#EXTINF:-1 group-title=" Champions TV", Champions TV 1
-http://tv.zonanime.my.id/vidio/championstv1.m3u8
-
-#EXTINF:-1 group-title="Champions TV",  Champions TV 2
-http://tv.zonanime.my.id/vidio/championstv2.m3u8
-
-#EXTINF:-1 group-title=" Champions TV", Champions TV 3
-http://tv.zonanime.my.id/vidio/championstv3.m3u8
-
-#EXTINF:-1 group-title=" Champions TV", Champions TV 4
-http://tv.zonanime.my.id/vidio/championstv4.m3u8
-
-#EXTINF:-1 group-title=" Champions TV", Champions TV Goal
-http://tvlive.my.id:25461/kevin/kevin/34
-
-#EXTINF:-1 group-title=" Champions TV", Champions TV 
-http://tvlive.my.id:25461/kevin/kevin/34
-
 ####MNC Sports Channels####
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -128,10 +108,10 @@ https://liveaneviadev.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchan
 ####Indo HD####
 
 #EXTINF:-1 group-title=" Indo HD", Indosiar HD
-https://delivery.bukankaleng.co/stream/id_indosiar/playlist.m3u8?token=zyfkfy4&v=20200807
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 group-title=" Indo HD", SCTV
-https://delivery.bukankaleng.co/stream/id_sctv/playlist.m3u8?token=zyfkfy4&v=20200807
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:-1 group-title=" Indo HD", Moji
 https://delivery.bukankaleng.co/stream/ochannel/playlist.m3u8?token=zyfkfy4&v=20200807
