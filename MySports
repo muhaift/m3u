@@ -1,0 +1,228 @@
+
+#EXTM3U
+
+####WorldCup22####
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 01
+http://iptv12k.com:35461/80203091402/213445/14402
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 02
+http://iptv12k.com:35461/80203091402/213445/14403
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 03
+http://iptv12k.com:35461/80203091402/213445/14405
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 04
+http://iptv12k.com:35461/80203091402/213445/14404
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 05
+http://iptv12k.com:35461/80203091402/213445/14407
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 06
+http://iptv12k.com:35461/80203091402/213445/14406
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 07
+http://iptv12k.com:35461/80203091402/213445/14401
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup",  World Cup Channel 08
+http://iptv12k.com:35461/80203091402/213445/14398
+
+####Indo Sports####
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Indo Sports",  beIN Sports 1 ID
+https://delivery.bukankaleng.co/stream/macan_sport_1/playlist.m3u8?token=zyfkfy4&v=20200807
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Indo Sports",  beIN Sports 3 ID
+https://delivery.bukankaleng.co/stream/macan_sport_2/playlist.m3u8?token=zyfkfy4&v=20200807
+
+#EXTINF:-1, group-title="Indo Sports", SPO TV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+
+#EXTINF:-1, group-title="Indo Sports", SPO TV 2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+
+#EXTINF:-1 group-title="Indo Sports", Useesport 1
+https://delivery.bukankaleng.co/stream/macan_sport_3/playlist.m3u8?token=zyfkfy4&v=20200807
+
+#EXTINF:-1 group-title="Indo Sports", Useesport 2
+https://delivery.bukankaleng.co/stream/macan_sport_4/playlist.m3u8?token=zyfkfy4&v=20200807
+
+#EXTINF:-1 group-title="Indo Sports", TVRI Sports
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
+
+#EXTINF:-1 group-title="Indo Sports", TVRI Ott
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+####MNC Sports Channels####
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="MNC Sports Channels",  MNC Sports
+https://liveaneviadev.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title=" MNC Sports Channels",  MNC Sports 2
+https://liveaneviadev.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="MNC Sports Channels",  MNC Sports 3
+https://liveaneviadev.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="MNC Sports Channels",  MNC Sports Plus
+https://liveaneviadev.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title=" MNC Sports Channels",  Soccer Channel Plus
+https://liveaneviadev.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerchannel-NonLiga1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title=" MNC Sports Channels",  Soccer Channel
+https://liveaneviadev.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="MNC Sports Channel", SPO TV
+https://liveaneviadev.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="MNC Sports Channel", SPO TV 2
+https://liveaneviadev.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+####EMTEK HD####
+
+#EXTINF:-1 group-title=" EMTEK HD", Indosiar HD
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+
+#EXTINF:-1 group-title=" EMTEK HD", Indosiar HD 2
+https://delivery.bukankaleng.co/stream/id_indosiar/playlist.m3u8?token=zyfkfy4&v=20200807
+
+#EXTINF:-1 group-title=" EMTEK HD", SCTV HD 
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
+
+#EXTINF:-1 group-title=" EMTEK HD", SCTV HD 2
+https://delivery.bukankaleng.co/stream/id_indosiar/playlist.m3u8?token=zyfkfy4&v=20200807
+
+#EXTINF:-1 group-title=" EMTEK HD", Moji
+https://delivery.bukankaleng.co/stream/ochannel/playlist.m3u8?token=zyfkfy4&v=20200807
+
+#EXTINF:-1 group-title="EMTEK HD ", Mentari TV
+https://delivery.bukankaleng.co/stream/mentaritv/playlist.m3u8?token=zyfkfy4&v=20200807
+
+####AllSports####
+
+#EXTINF:-1 group-title="Thailand Sports", PREMIER FOOTBALL HD 1
+http://w.nasvpn.xyz:8080/live/saya/saya/13312.m3u8
+
+#EXTINF:-1 group-title="Thailand Sports", PREMIER FOOTBALL HD 2
+http://w.nasvpn.xyz:8080/live/saya/saya/13313.m3u8
+
+#EXTINF:1 group-title="Thailand Sports", PREMIER FOOTBALL HD 3
+http://w.nasvpn.xyz:8080/live/saya/saya/13314.m3u8
+
+#EXTINF:-1 group-title="Thailand Sports", PREMIER FOOTBALL HD 4
+http://w.nasvpn.xyz:8080/live/saya/saya/13315.m3u8
+
+#EXTINF:-1 group-title="Thailand Sports", PREMIER FOOTBALL HD 5
+http://w.nasvpn.xyz:8080/live/saya/saya/13316.m3u8
+
+#EXTINF:-1 group-title="Thailand Sports", TRUE SPORT HD2
+http://w.nasvpn.xyz:8080/live/saya/saya/13322.m3u8
+
+#EXTINF:-1 group-title="Thailand Sports", TRUE SPORT HD3
+http://w.nasvpn.xyz:8080/live/saya/saya/13323.m3u8
+
+#EXTINF:-1 group-title="Thailand Sports", TRUE SPORT HD4
+http://w.nasvpn.xyz:8080/live/saya/saya/13324.m3u8
+
+#EXTINF:-1 group-title="All Sports", SPORT TV 1
+http://w.nasvpn.xyz:8080/live/saya/saya/13317.m3u8
+
+#EXTINF:-1 group-title="All Sports", SPORT TV 2
+http://w.nasvpn.xyz:8080/live/saya/saya/13318.m3u8
+
+#EXTINF:-1 group-title="All Sports", SPORT TV 3
+http://w.nasvpn.xyz:8080/live/saya/saya/13319.m3u8
+
+#EXTINF:-1 group-title="All Sports", SPORT TV 4
+http://w.nasvpn.xyz:8080/live/saya/saya/13320.m3u8
+
+#EXTINF:-1 group-title="All Sports", SPORT TV 5
+http://w.nasvpn.xyz:8080/live/saya/saya/13321.m3u8
+
+#EXTINF:-1 group-title="All Sports", SKYNET SPORT 1
+http://w.nasvpn.xyz:8080/live/saya/saya/13299.m3u8
+
+#EXTINF:-1 group-title="All Sports", SKYNET SPORT 2
+http://w.nasvpn.xyz:8080/live/saya/saya/13307.m3u8
+
+#EXTINF:-1 group-title="All Sports", SKYNET SPORT 3
+http://w.nasvpn.xyz:8080/live/saya/saya/13308.m3u8
+
+#EXTINF:-1 group-title="All Sports", SKYNET SPORT 4
+http://w.nasvpn.xyz:8080/live/saya/saya/13309.m3u8
+
+#EXTINF:-1 group-title="All Sports", SKYNET SPORT 5
+http://w.nasvpn.xyz:8080/live/saya/saya/13310.m3u8
+
+#EXTINF:-1 group-title="All Sports", SKYNET SPORT 6
+http://w.nasvpn.xyz:8080/live/saya/saya/13303.m3u8
+
+#EXTINF:-1 group-title="Astro Sports", Astro SuperSport 1 HD
+http://w.nasvpn.xyz:8080/live/saya/saya/3198.m3u8
+
+#EXTINF:-1 group-title="Astro Sports", Astro SuperSport 2 HD
+http://w.nasvpn.xyz:8080/live/saya/saya/4094.m3u8
+
+#EXTINF:-1 group-title="Astro Sports", Astro SuperSport 3 HD
+http://w.nasvpn.xyz:8080/live/saya/saya/7209.m3u8
+
+#EXTINF:-1 group-title="Astro Sports", Astro SuperSport 4 HD
+http://w.nasvpn.xyz:8080/live/saya/saya/166.m3u8
+
+#EXTINF:-1 group-title="Astro Sports", Astro Supersport 5 HD
+http://w.nasvpn.xyz:8080/live/saya/saya/3200.m3u8
+
+#EXTINF:-1 group-title="Astro Sports", ASSP 1 HD CH811
+http://w.nasvpn.xyz:8080/live/saya/saya/7845.m3u8
+
+#EXTINF:-1 group-title="Astro Sports", ASSP 2 HD CH812
+http://w.nasvpn.xyz:8080/live/saya/saya/7844.m3u8
+
+#EXTINF:-1 group-title="Astro Sports", ASSP 3 HD CH813
+http://w.nasvpn.xyz:8080/live/saya/saya/7847.m3u8
+
+#EXTINF:-1 group-title="Astro Sports", ASSP 4 HD CH814
+http://w.nasvpn.xyz:8080/live/saya/saya/7842.m3u8
+
+#EXTINF:-1 group-title="Astro Sports", Astro Arena HD
+http://w.nasvpn.xyz:8080/live/saya/saya/167.m3u8
+
+#EXTINF:-1 group-title="Astro Sports", Astro Arena 2 HD
+http://w.nasvpn.xyz:8080/live/saya/saya/4130.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
