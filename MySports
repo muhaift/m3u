@@ -103,7 +103,7 @@ https://liveaneviadev.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title=" EMTEK HD", BRI LIGA 1
 #EXTVLCOPT:network-caching=1000
-rtmp://liga1.382929.gratis.muhamadaqilfarhan.indonesia.kawaguchimaeda.com/live/test
+https://link.zozotv.xyz:443/cim/Q2jLmgFBl5/45
 
 #EXTINF:-1 group-title=" EMTEK HD", Indosiar HD
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
