@@ -80,33 +80,6 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 ####AllSports####
 
-#EXTINF:-1 group-title="Thailand Sports", PREMIER FOOTBALL HD 1
-http://w.nasvpn.xyz:8080/live/saya/saya/13312.m3u8
-
-#EXTINF:-1 group-title="Thailand Sports", PREMIER FOOTBALL HD 2
-http://w.nasvpn.xyz:8080/live/saya/saya/13313.m3u8
-
-#EXTINF:1 group-title="Thailand Sports", PREMIER FOOTBALL HD 3
-http://w.nasvpn.xyz:8080/live/saya/saya/13314.m3u8
-
-#EXTINF:-1 group-title="Thailand Sports", PREMIER FOOTBALL HD 4
-http://w.nasvpn.xyz:8080/live/saya/saya/13315.m3u8
-
-#EXTINF:-1 group-title="Thailand Sports", PREMIER FOOTBALL HD 5
-http://w.nasvpn.xyz:8080/live/saya/saya/13316.m3u8
-
-#EXTINF:-1 group-title="Thailand Sports", TRUE SPORT HD2
-http://w.nasvpn.xyz:8080/live/saya/saya/13322.m3u8
-
-#EXTINF:-1 group-title="Thailand Sports", TRUE SPORT HD3
-http://w.nasvpn.xyz:8080/live/saya/saya/13323.m3u8
-
-#EXTINF:-1 group-title="Thailand Sports", TRUE SPORT HD4
-http://w.nasvpn.xyz:8080/live/saya/saya/13324.m3u8
-
-
-####AllSports####
-
 #EXTINF:-1 group-title="All Sports", DAZN 1
 http://griffsuperstreamz.com:8080/total/donefuckedupd/496478
 
