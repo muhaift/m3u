@@ -75,20 +75,8 @@ https://liveaneviadev.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 group-title=" EMTEK HD", Indosiar HD
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
-#EXTINF:-1 group-title=" EMTEK HD", Indosiar HD 2
-https://delivery.bukankaleng.co/stream/id_indosiar/playlist.m3u8?token=zyfkfy4&v=20200807
-
 #EXTINF:-1 group-title=" EMTEK HD", SCTV HD 
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
-
-#EXTINF:-1 group-title=" EMTEK HD", SCTV HD 2
-https://delivery.bukankaleng.co/stream/id_indosiar/playlist.m3u8?token=zyfkfy4&v=20200807
-
-#EXTINF:-1 group-title=" EMTEK HD", Moji
-https://delivery.bukankaleng.co/stream/ochannel/playlist.m3u8?token=zyfkfy4&v=20200807
-
-#EXTINF:-1 group-title="EMTEK HD ", Mentari TV
-https://delivery.bukankaleng.co/stream/mentaritv/playlist.m3u8?token=zyfkfy4&v=20200807
 
 ####AllSports####
 
@@ -218,46 +206,13 @@ http://griffsuperstreamz.com:8080/total/donefuckedupd/497596
 ####UK-Sports###
 
 #EXTINF:-1 group-title="UK Sports",  BT SPORT 1
-http://griffsuperstreamz.com:8080/total/donefuckedupd/428237
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/9.m3u
 
 #EXTINF:-1 group-title="UK Sports",  BT SPORT 2
-http://griffsuperstreamz.com:8080/total/donefuckedupd/428240
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/10.m3u
 
 #EXTINF:-1 group-title="UK Sports",  BT SPORT 3
-http://griffsuperstreamz.com:8080/total/donefuckedupd/428243
-
-#EXTINF:-1 group-title="UK Sports",  BT SPORT BOX OFFICE (Live On Events Only)
-http://griffsuperstreamz.com:8080/total/donefuckedupd/428249
-
-#EXTINF:-1 group-title="UK Sports",  BT SPORT 4 (ESPN)
-http://griffsuperstreamz.com:8080/total/donefuckedupd/428246
-
-#EXTINF:-1 group-title="UK Sports",  BT SPORT 5
-http://griffsuperstreamz.com:8080/total/donefuckedupd/428309
-
-#EXTINF:-1 group-title="UK Sports",  BT SPORT 6
-http://griffsuperstreamz.com:8080/total/donefuckedupd/428310
-
-#EXTINF:-1 group-title="UK Sports",  BT SPORT 7
-http://griffsuperstreamz.com:8080/total/donefuckedupd/428311
-
-#EXTINF:-1 group-title="UK Sports",  BT SPORT 8
-http://griffsuperstreamz.com:8080/total/donefuckedupd/428313
-
-#EXTINF:-1 group-title="UK Sports",  BT SPORT 9
-http://griffsuperstreamz.com:8080/total/donefuckedupd/428312
-
-#EXTINF:-1 group-title="UK Sports",  SKY SPORTS 1
-http://griffsuperstreamz.com:8080/total/donefuckedupd/428266
-
-#EXTINF:-1 group-title="UK Sports",  SKY SPORTS 2
-http://griffsuperstreamz.com:8080/total/donefuckedupd/428269
-
-#EXTINF:-1 group-title="UK Sports",  SKY SPORTS 4
-http://griffsuperstreamz.com:8080/total/donefuckedupd/428275
-
-#EXTINF:-1 group-title="UK Sports",  SKY SPORTS 5
-http://griffsuperstreamz.com:8080/total/donefuckedupd/428278
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/18.m3u
 
 #EXTINF:-1 group-title="UK Sports",  PREMIER SPORTS 1
 http://griffsuperstreamz.com:8080/total/donefuckedupd/428314
