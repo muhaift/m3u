@@ -1,32 +1,6 @@
 
 #EXTM3U
 
-####WorldCup22####
-
-#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 01
-http://iptv12k.com:35461/80203091402/213445/14402
-
-#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 02
-http://iptv12k.com:35461/80203091402/213445/14403
-
-#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 03
-http://iptv12k.com:35461/80203091402/213445/14405
-
-#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 04
-http://iptv12k.com:35461/80203091402/213445/14404
-
-#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 05
-http://iptv12k.com:35461/80203091402/213445/14407
-
-#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 06
-http://iptv12k.com:35461/80203091402/213445/14406
-
-#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 07
-http://iptv12k.com:35461/80203091402/213445/14401
-
-#EXTINF:-1 group-title="FIFA Qatar World Cup",  World Cup Channel 08
-http://iptv12k.com:35461/80203091402/213445/14398
-
 ####Indo Sports####
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -53,9 +27,6 @@ https://delivery.bukankaleng.co/stream/macan_sport_4/playlist.m3u8?token=zyfkfy4
 
 #EXTINF:-1 group-title="Indo Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
-
-#EXTINF:-1 group-title="Indo Sports", TVRI Ott
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 ####MNC Sports Channels####
 
@@ -101,15 +72,11 @@ https://liveaneviadev.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 ####EMTEK HD####
 
-#EXTINF:-1 group-title=" EMTEK HD", BRI LIGA 1
-#EXTVLCOPT:network-caching=1000
-https://link.zozotv.xyz:443/cim/Q2jLmgFBl5/45
-
 #EXTINF:-1 group-title=" EMTEK HD", Indosiar HD
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 group-title=" EMTEK HD", Indosiar HD 2
-http://iptv12k.com:35461/80203091402/213445/1814
+https://delivery.bukankaleng.co/stream/id_indosiar/playlist.m3u8?token=zyfkfy4&v=20200807
 
 #EXTINF:-1 group-title=" EMTEK HD", SCTV HD 
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
@@ -149,71 +116,383 @@ http://w.nasvpn.xyz:8080/live/saya/saya/13323.m3u8
 #EXTINF:-1 group-title="Thailand Sports", TRUE SPORT HD4
 http://w.nasvpn.xyz:8080/live/saya/saya/13324.m3u8
 
+
+####AllSports####
+
+#EXTINF:-1 group-title="All Sports", DAZN 1
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496478
+
+#EXTINF:-1 group-title="All Sports", DAZN 2
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496479
+
 #EXTINF:-1 group-title="All Sports", SPORT TV 1
-http://w.nasvpn.xyz:8080/live/saya/saya/13317.m3u8
+http://griffsuperstreamz.com:8080/total/donefuckedupd/495278
 
 #EXTINF:-1 group-title="All Sports", SPORT TV 2
-http://w.nasvpn.xyz:8080/live/saya/saya/13318.m3u8
+http://griffsuperstreamz.com:8080/total/donefuckedupd/495279
 
 #EXTINF:-1 group-title="All Sports", SPORT TV 3
-http://w.nasvpn.xyz:8080/live/saya/saya/13319.m3u8
+http://griffsuperstreamz.com:8080/total/donefuckedupd/495280
 
 #EXTINF:-1 group-title="All Sports", SPORT TV 4
-http://w.nasvpn.xyz:8080/live/saya/saya/13320.m3u8
+http://griffsuperstreamz.com:8080/total/donefuckedupd/495281
 
 #EXTINF:-1 group-title="All Sports", SPORT TV 5
-http://w.nasvpn.xyz:8080/live/saya/saya/13321.m3u8
+http://griffsuperstreamz.com:8080/total/donefuckedupd/495282
 
-#EXTINF:-1 group-title="All Sports", SKYNET SPORT 1
-http://w.nasvpn.xyz:8080/live/saya/saya/13299.m3u8
 
-#EXTINF:-1 group-title="All Sports", SKYNET SPORT 2
-http://w.nasvpn.xyz:8080/live/saya/saya/13307.m3u8
-
-#EXTINF:-1 group-title="All Sports", SKYNET SPORT 3
-http://w.nasvpn.xyz:8080/live/saya/saya/13308.m3u8
-
-#EXTINF:-1 group-title="All Sports", SKYNET SPORT 4
-http://w.nasvpn.xyz:8080/live/saya/saya/13309.m3u8
-
-#EXTINF:-1 group-title="All Sports", SKYNET SPORT 5
-http://w.nasvpn.xyz:8080/live/saya/saya/13310.m3u8
-
-#EXTINF:-1 group-title="All Sports", SKYNET SPORT 6
-http://w.nasvpn.xyz:8080/live/saya/saya/13303.m3u8
+####AstroSS####
 
 #EXTINF:-1 group-title="Astro Sports", Astro SuperSport 1 HD
 http://w.nasvpn.xyz:8080/live/saya/saya/3198.m3u8
 
-#EXTINF:-1 group-title="Astro Sports", Astro SuperSport 2 HD
-http://w.nasvpn.xyz:8080/live/saya/saya/4094.m3u8
+#EXTINF:-1 group-title="Astro Sports",  Astro Supersport
+http://griffsuperstreamz.com:8080/total/donefuckedupd/497612
 
-#EXTINF:-1 group-title="Astro Sports", Astro SuperSport 3 HD
-http://w.nasvpn.xyz:8080/live/saya/saya/7209.m3u8
+#EXTINF:-1 group-title="Astro Sports",  Astro Supersport 1 (D)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/497613
 
-#EXTINF:-1 group-title="Astro Sports", Astro SuperSport 4 HD
-http://w.nasvpn.xyz:8080/live/saya/saya/166.m3u8
+#EXTINF:-1 group-title="Astro Sports",  Astro Supersport 2
+http://griffsuperstreamz.com:8080/total/donefuckedupd/497614
 
-#EXTINF:-1 group-title="Astro Sports", Astro Supersport 5 HD
-http://w.nasvpn.xyz:8080/live/saya/saya/3200.m3u8
+#EXTINF:-1 group-title="Astro Sports",  Astro Supersport 2 (D)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/497615
 
-#EXTINF:-1 group-title="Astro Sports", ASSP 1 HD CH811
-http://w.nasvpn.xyz:8080/live/saya/saya/7845.m3u8
+#EXTINF:-1 group-title="Astro Sports",  Astro Supersport 2 UHD/4K
+http://griffsuperstreamz.com:8080/total/donefuckedupd/497577
 
-#EXTINF:-1 group-title="Astro Sports", ASSP 2 HD CH812
-http://w.nasvpn.xyz:8080/live/saya/saya/7844.m3u8
+#EXTINF:-1 group-title="Astro Sports",  Astro Supersport 2_50fps
+http://griffsuperstreamz.com:8080/total/donefuckedupd/497616
 
-#EXTINF:-1 group-title="Astro Sports", ASSP 3 HD CH813
-http://w.nasvpn.xyz:8080/live/saya/saya/7847.m3u8
+#EXTINF:-1 group-title="Astro Sports",  Astro Supersport 3
+http://griffsuperstreamz.com:8080/total/donefuckedupd/497617
 
-#EXTINF:-1 group-title="Astro Sports", ASSP 4 HD CH814
-http://w.nasvpn.xyz:8080/live/saya/saya/7842.m3u8
+#EXTINF:-1 group-title="Astro Sports",  Astro Supersport 3 (D)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/497618
 
-#EXTINF:-1 group-title="Astro Sports", Astro Arena HD
-http://w.nasvpn.xyz:8080/live/saya/saya/167.m3u8
+#EXTINF:-1 group-title="Astro Sports",  Astro Supersport 3_50fps
+http://griffsuperstreamz.com:8080/total/donefuckedupd/497619
 
-#EXTINF:-1 group-title="Astro Sports", Astro Arena 2 HD
-http://w.nasvpn.xyz:8080/live/saya/saya/4130.m3u8
+#EXTINF:-1 group-title="Astro Sports",  Astro Supersport 4
+http://griffsuperstreamz.com:8080/total/donefuckedupd/497620
+
+#EXTINF:-1 group-title="Astro Sports",  Astro Supersport 4 (D)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/497621
+
+#EXTINF:-1 group-title="Astro Sports",  Astro Supersport 4_50fps
+http://griffsuperstreamz.com:8080/total/donefuckedupd/497622
+
+#EXTINF:-1 group-title="Astro Sports",  Astro Supersport 5
+http://griffsuperstreamz.com:8080/total/donefuckedupd/497623
+
+#EXTINF:-1 group-title="Astro Sports",  Astro Supersport 5 (D)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/497624
+
+#EXTINF:-1 group-title="Astro Sports",  Astro Supersport 5_50fps
+http://griffsuperstreamz.com:8080/total/donefuckedupd/497625
+
+#EXTINF:-1 group-title="Astro Sports",  ARENA
+http://griffsuperstreamz.com:8080/total/donefuckedupd/497592
+
+#EXTINF:-1 group-title="Astro Sports",  ARENA 2
+http://griffsuperstreamz.com:8080/total/donefuckedupd/497593
+
+#EXTINF:-1 group-title="Astro Sports",  ARENA_HD_50fps
+http://griffsuperstreamz.com:8080/total/donefuckedupd/497594
+
+#EXTINF:-1 group-title="Astro Sports",  Astro Arena (D)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/497595
+
+#EXTINF:-1 group-title="Astro Sports",  Astro Arena 2 (D)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/497596
+
+####UK-Sports###
+
+#EXTINF:-1 group-title="UK Sports",  BT SPORT 1
+http://griffsuperstreamz.com:8080/total/donefuckedupd/428237
+
+#EXTINF:-1 group-title="UK Sports",  BT SPORT 2
+http://griffsuperstreamz.com:8080/total/donefuckedupd/428240
+
+#EXTINF:-1 group-title="UK Sports",  BT SPORT 3
+http://griffsuperstreamz.com:8080/total/donefuckedupd/428243
+
+#EXTINF:-1 group-title="UK Sports",  BT SPORT BOX OFFICE (Live On Events Only)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/428249
+
+#EXTINF:-1 group-title="UK Sports",  BT SPORT 4 (ESPN)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/428246
+
+#EXTINF:-1 group-title="UK Sports",  BT SPORT 5
+http://griffsuperstreamz.com:8080/total/donefuckedupd/428309
+
+#EXTINF:-1 group-title="UK Sports",  BT SPORT 6
+http://griffsuperstreamz.com:8080/total/donefuckedupd/428310
+
+#EXTINF:-1 group-title="UK Sports",  BT SPORT 7
+http://griffsuperstreamz.com:8080/total/donefuckedupd/428311
+
+#EXTINF:-1 group-title="UK Sports",  BT SPORT 8
+http://griffsuperstreamz.com:8080/total/donefuckedupd/428313
+
+#EXTINF:-1 group-title="UK Sports",  BT SPORT 9
+http://griffsuperstreamz.com:8080/total/donefuckedupd/428312
+
+#EXTINF:-1 group-title="UK Sports",  SKY SPORTS 1
+http://griffsuperstreamz.com:8080/total/donefuckedupd/428266
+
+#EXTINF:-1 group-title="UK Sports",  SKY SPORTS 2
+http://griffsuperstreamz.com:8080/total/donefuckedupd/428269
+
+#EXTINF:-1 group-title="UK Sports",  SKY SPORTS 4
+http://griffsuperstreamz.com:8080/total/donefuckedupd/428275
+
+#EXTINF:-1 group-title="UK Sports",  SKY SPORTS 5
+http://griffsuperstreamz.com:8080/total/donefuckedupd/428278
+
+#EXTINF:-1 group-title="UK Sports",  PREMIER SPORTS 1
+http://griffsuperstreamz.com:8080/total/donefuckedupd/428314
+
+#EXTINF:-1 group-title="UK Sports",  PREMIER SPORTS 2
+http://griffsuperstreamz.com:8080/total/donefuckedupd/428317
+
+####FR-Sports####
+
+#EXTINF:-1 group-title="France Sports",  AMAZON PRIME 1 HD (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496768
+
+#EXTINF:-1 group-title="France Sports",  AMAZON PRIME 2 HD (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496769
+
+#EXTINF:-1 group-title="France Sports",  AMAZON PRIME 3 HD (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496770
+
+#EXTINF:-1 group-title="France Sports",  AMAZON PRIME 4 HD (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496771
+
+#EXTINF:-1 group-title="France Sports",  AMAZON PRIME 5 HD (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496772
+
+#EXTINF:-1 group-title="France Sports",  AMAZON PRIME 6 HD (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496773
+
+#EXTINF:-1 group-title="France Sports",  AMAZON PRIME 7 HD (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496774
+
+#EXTINF:-1 group-title="France Sports",  AMAZON PRIME 8 HD (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496775
+
+#EXTINF:-1 group-title="France Sports",  BEIN SPORTS 1
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496577
+
+#EXTINF:-1 group-title="France Sports",  BEIN SPORTS 2
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496578
+
+#EXTINF:-1 group-title="France Sports",  BEIN SPORTS 3
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496579
+
+#EXTINF:-1 group-title="France Sports",  BEIN SPORTS MAX 4
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496581
+
+#EXTINF:-1 group-title="France Sports",  BEIN SPORTS MAX 5
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496582
+
+#EXTINF:-1 group-title="France Sports",  BEIN SPORTS MAX 6
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496583
+
+#EXTINF:-1 group-title="France Sports",  BEIN SPORTS MAX 7
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496584
+
+#EXTINF:-1 group-title="France Sports",  BEIN SPORTS MAX 8
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496585
+
+#EXTINF:-1 group-title="France Sports",  BEIN SPORTS MAX 9
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496586
+
+#EXTINF:-1 group-title="France Sports",  BEIN SPORTS MAX 10
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496580
+
+#EXTINF:-1 group-title="France Sports",  RMC SPORT 1
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496726
+
+#EXTINF:-1 group-title="France Sports",  RMC SPORT 2
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496727
+
+#EXTINF:-1 group-title="France Sports",  RMC SPORT 3
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496728
+
+#EXTINF:-1 group-title="France Sports",  RMC SPORT 4
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496729
+
+####beIN Sports FHD####
+
+#EXTINF:-1 group-title="beIN Sports FHD", Bein Premium 1
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/716.m3u
+
+#EXTINF:-1 group-title="beIN Sports FHD", Bein Premium 2
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/717.m3u
+
+#EXTINF:-1 group-title="beIN Sports FHD", Bein Premium 3
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/718.m3u
+
+#EXTINF:-1 group-title="beIN Sports FHD", Bein 1
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5143.m3u
+
+#EXTINF:-1 group-title="beIN Sports FHD", Bein 2
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5144.m3u
+
+#EXTINF:-1 group-title="beIN Sports FHD", Bein 3
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5145.m3u
+
+#EXTINF:-1 group-title="beIN Sports FHD", Bein 4
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/8535.m3u
+
+#EXTINF:-1 group-title="beIN Sports FHD", Bein 5
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/13790.m3u
+
+#EXTINF:-1 group-title="beIN Sports FHD", Bein 6
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/565.m3u
+
+#EXTINF:-1 group-title="beIN Sports FHD", Bein 7
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/13791.m3u
+
+####beIN Sports HQ####
+
+#EXTINF:-1 group-title="beIN Sports HQ", Bein Premium 1
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5195.m3u
+
+#EXTINF:-1 group-title="beIN Sports HQ", Bein Premium 2
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5196.m3u
+
+#EXTINF:-1 group-title="beIN Sports HQ", Bein Premium 3
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5197.m3u
+
+#EXTINF:-1 group-title="beIN Sports HQ", Bein 1
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/3464.m3u
+
+#EXTINF:-1 group-title="beIN Sports HQ", Bein 2
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/3463.m3u
+
+#EXTINF:-1 group-title="beIN Sports HQ", Bein 3
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/3462.m3u
+
+#EXTINF:-1 group-title="beIN Sports HQ", Bein 4
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/3476.m3u
+
+#EXTINF:-1 group-title="beIN Sports HQ", Bein 5
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/3477.m3u
+
+#EXTINF:-1 group-title="beIN Sports HQ", Bein 6
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/3478.m3u
+
+#EXTINF:-1 group-title="beIN Sports HQ", Bein 7
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/3479.m3u
+
+####beIN Sports HD####
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein Premium 1
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5192.m3u
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein Premium 2
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5193.m3u
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein Premium 3
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5194.m3u
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein 1
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1602.m3u
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein 2
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1603.m3u
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein 3
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1604.m3u
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein 4
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1605.m3u
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein 5
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/79.m3u
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein 6
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/80.m3u
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein 7
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/81.m3u
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein 1 EN
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/82.m3u
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein 2 EN
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/83.m3u
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein 1 FR
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/13793.m3u
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein 2 FR
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/13794.m3u
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein 3 FR
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/13795.m3u
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein 1 Xtra
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/21275.m3u
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein 2 Xtra
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/21276.m3u
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein AFC
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/40895.m3u
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein 1 AFC
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/35395.m3u
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein 2 AFC
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/40872.m3u
+
+#EXTINF:-1 group-title="beIN Sports HD", Bein 3 AFC
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/40873.m3u
+
+####beIN Sports SD####
+
+#EXTINF:-1 group-title="beIN Sports SD", Bein Premium 1
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1072.m3u
+
+#EXTINF:-1 group-title="beIN Sports SD", Bein Premium 2
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1073.m3u
+
+#EXTINF:-1 group-title="beIN Sports SD", Bein Premium 3
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1074.m3u
+
+#EXTINF:-1 group-title="beIN Sports SD", Bein 1
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1070.m3u
+
+#EXTINF:-1 group-title="beIN Sports SD", Bein 2
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1071.m3u
+
+#EXTINF:-1 group-title="beIN Sports SD", Bein 3
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/77.m3u
+
+#EXTINF:-1 group-title="beIN Sports SD", Bein 4
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/78.m3u
+
+#EXTINF:-1 group-title="beIN Sports SD", Bein 5
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5146.m3u
+
+#EXTINF:-1 group-title="beIN Sports SD", Bein 6
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5147.m3u
+
+#EXTINF:-1 group-title="beIN Sports SD", Bein 7
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5148.m3u
+
+#EXTINF:-1 group-title="beIN Sports SD", Bein AFC
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/40894.m3u
+
+#EXTINF:-1 group-title="beIN Sports SD", Bein 2 AFC
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/40870.m3u
+
+#EXTINF:-1 group-title="beIN Sports SD", Bein 3 AFC
+http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/40871.m3u
 
 
 
