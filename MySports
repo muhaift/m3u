@@ -125,6 +125,18 @@ http://griffsuperstreamz.com:8080/total/donefuckedupd/496478
 #EXTINF:-1 group-title="All Sports", DAZN 2
 http://griffsuperstreamz.com:8080/total/donefuckedupd/496479
 
+#EXTINF:-1group-title="All Sports",  DAZN 1 ES
+http://griffsuperstreamz.com:8080/total/donefuckedupd/494977
+
+#EXTINF:-1group-title="All Sports",  DAZN 2 ES
+http://griffsuperstreamz.com:8080/total/donefuckedupd/494976
+
+#EXTINF:-1group-title="All Sports",  DAZN 3 ES
+http://griffsuperstreamz.com:8080/total/donefuckedupd/494975
+
+#EXTINF:-1group-title="All Sports",  DAZN 4 ES
+http://griffsuperstreamz.com:8080/total/donefuckedupd/494974
+
 #EXTINF:-1 group-title="All Sports", SPORT TV 1
 http://griffsuperstreamz.com:8080/total/donefuckedupd/495278
 
@@ -142,9 +154,6 @@ http://griffsuperstreamz.com:8080/total/donefuckedupd/495282
 
 
 ####AstroSS####
-
-#EXTINF:-1 group-title="Astro Sports", Astro SuperSport 1 HD
-http://w.nasvpn.xyz:8080/live/saya/saya/3198.m3u8
 
 #EXTINF:-1 group-title="Astro Sports",  Astro Supersport
 http://griffsuperstreamz.com:8080/total/donefuckedupd/497612
@@ -282,34 +291,34 @@ http://griffsuperstreamz.com:8080/total/donefuckedupd/496774
 #EXTINF:-1 group-title="France Sports",  AMAZON PRIME 8 HD (P)
 http://griffsuperstreamz.com:8080/total/donefuckedupd/496775
 
-#EXTINF:-1 group-title="France Sports",  BEIN SPORTS 1
+#EXTINF:-1 group-title="France Sports",  beIN Sports 1
 http://griffsuperstreamz.com:8080/total/donefuckedupd/496577
 
-#EXTINF:-1 group-title="France Sports",  BEIN SPORTS 2
+#EXTINF:-1 group-title="France Sports",  beIN Sports 2
 http://griffsuperstreamz.com:8080/total/donefuckedupd/496578
 
-#EXTINF:-1 group-title="France Sports",  BEIN SPORTS 3
+#EXTINF:-1 group-title="France Sports",  beIN Sports 3
 http://griffsuperstreamz.com:8080/total/donefuckedupd/496579
 
-#EXTINF:-1 group-title="France Sports",  BEIN SPORTS MAX 4
+#EXTINF:-1 group-title="France Sports",  beIN Sports MAX 4
 http://griffsuperstreamz.com:8080/total/donefuckedupd/496581
 
-#EXTINF:-1 group-title="France Sports",  BEIN SPORTS MAX 5
+#EXTINF:-1 group-title="France Sports",  beIN Sports MAX 5
 http://griffsuperstreamz.com:8080/total/donefuckedupd/496582
 
-#EXTINF:-1 group-title="France Sports",  BEIN SPORTS MAX 6
+#EXTINF:-1 group-title="France Sports",  beIN Sports MAX 6
 http://griffsuperstreamz.com:8080/total/donefuckedupd/496583
 
-#EXTINF:-1 group-title="France Sports",  BEIN SPORTS MAX 7
+#EXTINF:-1 group-title="France Sports",  beIN Sports MAX 7
 http://griffsuperstreamz.com:8080/total/donefuckedupd/496584
 
-#EXTINF:-1 group-title="France Sports",  BEIN SPORTS MAX 8
+#EXTINF:-1 group-title="France Sports",  beIN Sports MAX 8
 http://griffsuperstreamz.com:8080/total/donefuckedupd/496585
 
-#EXTINF:-1 group-title="France Sports",  BEIN SPORTS MAX 9
+#EXTINF:-1 group-title="France Sports",  beIN Sports MAX 9
 http://griffsuperstreamz.com:8080/total/donefuckedupd/496586
 
-#EXTINF:-1 group-title="France Sports",  BEIN SPORTS MAX 10
+#EXTINF:-1 group-title="France Sports",  beIN Sports MAX 10
 http://griffsuperstreamz.com:8080/total/donefuckedupd/496580
 
 #EXTINF:-1 group-title="France Sports",  RMC SPORT 1
@@ -326,174 +335,121 @@ http://griffsuperstreamz.com:8080/total/donefuckedupd/496729
 
 ####beIN Sports FHD####
 
-#EXTINF:-1 group-title="beIN Sports FHD", Bein Premium 1
+#EXTINF:-1 group-title="beIN Sports FHD", beIN Sports 1 Premium
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/716.m3u
 
-#EXTINF:-1 group-title="beIN Sports FHD", Bein Premium 2
+#EXTINF:-1 group-title="beIN Sports FHD", beIN Sports 2 Premium
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/717.m3u
 
-#EXTINF:-1 group-title="beIN Sports FHD", Bein Premium 3
+#EXTINF:-1 group-title="beIN Sports FHD", beIN Sports 3 Premium
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/718.m3u
 
-#EXTINF:-1 group-title="beIN Sports FHD", Bein 1
+#EXTINF:-1 group-title="beIN Sports FHD", beIN Sports 1
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5143.m3u
 
-#EXTINF:-1 group-title="beIN Sports FHD", Bein 2
+#EXTINF:-1 group-title="beIN Sports FHD", beIN Sports 2
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5144.m3u
 
-#EXTINF:-1 group-title="beIN Sports FHD", Bein 3
+#EXTINF:-1 group-title="beIN Sports FHD", beIN Sports 3
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5145.m3u
 
-#EXTINF:-1 group-title="beIN Sports FHD", Bein 4
+#EXTINF:-1 group-title="beIN Sports FHD", beIN Sports 4
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/8535.m3u
 
-#EXTINF:-1 group-title="beIN Sports FHD", Bein 5
+#EXTINF:-1 group-title="beIN Sports FHD", beIN Sports 5
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/13790.m3u
 
-#EXTINF:-1 group-title="beIN Sports FHD", Bein 6
+#EXTINF:-1 group-title="beIN Sports FHD", beIN Sports 6
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/565.m3u
 
-#EXTINF:-1 group-title="beIN Sports FHD", Bein 7
+#EXTINF:-1 group-title="beIN Sports FHD", beIN Sports 7
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/13791.m3u
 
-####beIN Sports HQ####
-
-#EXTINF:-1 group-title="beIN Sports HQ", Bein Premium 1
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5195.m3u
-
-#EXTINF:-1 group-title="beIN Sports HQ", Bein Premium 2
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5196.m3u
-
-#EXTINF:-1 group-title="beIN Sports HQ", Bein Premium 3
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5197.m3u
-
-#EXTINF:-1 group-title="beIN Sports HQ", Bein 1
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/3464.m3u
-
-#EXTINF:-1 group-title="beIN Sports HQ", Bein 2
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/3463.m3u
-
-#EXTINF:-1 group-title="beIN Sports HQ", Bein 3
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/3462.m3u
-
-#EXTINF:-1 group-title="beIN Sports HQ", Bein 4
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/3476.m3u
-
-#EXTINF:-1 group-title="beIN Sports HQ", Bein 5
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/3477.m3u
-
-#EXTINF:-1 group-title="beIN Sports HQ", Bein 6
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/3478.m3u
-
-#EXTINF:-1 group-title="beIN Sports HQ", Bein 7
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/3479.m3u
 
 ####beIN Sports HD####
 
-#EXTINF:-1 group-title="beIN Sports HD", Bein Premium 1
+#EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 Premium
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5192.m3u
 
-#EXTINF:-1 group-title="beIN Sports HD", Bein Premium 2
+#EXTINF:-1 group-title="beIN Sports HD", beIN Sports 2 Premium
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5193.m3u
 
-#EXTINF:-1 group-title="beIN Sports HD", Bein Premium 3
+#EXTINF:-1 group-title="beIN Sports HD", beIN Sports 3 Premium
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5194.m3u
 
-#EXTINF:-1 group-title="beIN Sports HD", Bein 1
+#EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1602.m3u
 
-#EXTINF:-1 group-title="beIN Sports HD", Bein 2
+#EXTINF:-1 group-title="beIN Sports HD", beIN Sports 2
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1603.m3u
 
-#EXTINF:-1 group-title="beIN Sports HD", Bein 3
+#EXTINF:-1 group-title="beIN Sports HD", beIN Sports 3
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1604.m3u
 
-#EXTINF:-1 group-title="beIN Sports HD", Bein 4
+#EXTINF:-1 group-title="beIN Sports HD", beIN Sports 4
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1605.m3u
 
-#EXTINF:-1 group-title="beIN Sports HD", Bein 5
+#EXTINF:-1 group-title="beIN Sports HD", beIN Sports 5
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/79.m3u
 
-#EXTINF:-1 group-title="beIN Sports HD", Bein 6
+#EXTINF:-1 group-title="beIN Sports HD", beIN Sports 6
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/80.m3u
 
-#EXTINF:-1 group-title="beIN Sports HD", Bein 7
+#EXTINF:-1 group-title="beIN Sports HD", beIN Sports 7
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/81.m3u
 
-#EXTINF:-1 group-title="beIN Sports HD", Bein 1 EN
+#EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 EN
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/82.m3u
 
-#EXTINF:-1 group-title="beIN Sports HD", Bein 2 EN
+#EXTINF:-1 group-title="beIN Sports HD", beIN Sports 2 EN
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/83.m3u
 
-#EXTINF:-1 group-title="beIN Sports HD", Bein 1 FR
+#EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 FR
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/13793.m3u
 
-#EXTINF:-1 group-title="beIN Sports HD", Bein 2 FR
+#EXTINF:-1 group-title="beIN Sports HD", beIN Sports 2 FR
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/13794.m3u
 
-#EXTINF:-1 group-title="beIN Sports HD", Bein 3 FR
+#EXTINF:-1 group-title="beIN Sports HD", beIN Sports 3 FR
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/13795.m3u
 
-#EXTINF:-1 group-title="beIN Sports HD", Bein 1 Xtra
+#EXTINF:-1 group-title="beIN Sports HD", beIN Sports Xtra 1
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/21275.m3u
 
-#EXTINF:-1 group-title="beIN Sports HD", Bein 2 Xtra
+#EXTINF:-1 group-title="beIN Sports HD", beIN Sports Xtra 2
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/21276.m3u
-
-#EXTINF:-1 group-title="beIN Sports HD", Bein AFC
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/40895.m3u
-
-#EXTINF:-1 group-title="beIN Sports HD", Bein 1 AFC
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/35395.m3u
-
-#EXTINF:-1 group-title="beIN Sports HD", Bein 2 AFC
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/40872.m3u
-
-#EXTINF:-1 group-title="beIN Sports HD", Bein 3 AFC
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/40873.m3u
 
 ####beIN Sports SD####
 
-#EXTINF:-1 group-title="beIN Sports SD", Bein Premium 1
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 1 Premium
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1072.m3u
 
-#EXTINF:-1 group-title="beIN Sports SD", Bein Premium 2
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 2 Premium
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1073.m3u
 
-#EXTINF:-1 group-title="beIN Sports SD", Bein Premium 3
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 3 Premium
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1074.m3u
 
-#EXTINF:-1 group-title="beIN Sports SD", Bein 1
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 1
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1070.m3u
 
-#EXTINF:-1 group-title="beIN Sports SD", Bein 2
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 2
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1071.m3u
 
-#EXTINF:-1 group-title="beIN Sports SD", Bein 3
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 3
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/77.m3u
 
-#EXTINF:-1 group-title="beIN Sports SD", Bein 4
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 4
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/78.m3u
 
-#EXTINF:-1 group-title="beIN Sports SD", Bein 5
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 5
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5146.m3u
 
-#EXTINF:-1 group-title="beIN Sports SD", Bein 6
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 6
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5147.m3u
 
-#EXTINF:-1 group-title="beIN Sports SD", Bein 7
+#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 7
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5148.m3u
-
-#EXTINF:-1 group-title="beIN Sports SD", Bein AFC
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/40894.m3u
-
-#EXTINF:-1 group-title="beIN Sports SD", Bein 2 AFC
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/40870.m3u
-
-#EXTINF:-1 group-title="beIN Sports SD", Bein 3 AFC
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/40871.m3u
-
 
 
 
