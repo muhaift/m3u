@@ -20,10 +20,10 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
 #EXTINF:-1 group-title="Indo Sports", Useesport 1
-https://delivery.bukankaleng.co/stream/macan_sport_3/playlist.m3u8?token=zyfkfy4&v=20200807
+http://iptvid.my.id/hmm/useetl1.m3u8
 
 #EXTINF:-1 group-title="Indo Sports", Useesport 2
-https://delivery.bukankaleng.co/stream/macan_sport_4/playlist.m3u8?token=zyfkfy4&v=20200807
+http://bgltv.my.id:8080/live/NewApk/HMTV/199.ts
 
 #EXTINF:-1 group-title="Indo Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
@@ -125,16 +125,16 @@ http://griffsuperstreamz.com:8080/total/donefuckedupd/496478
 #EXTINF:-1 group-title="All Sports", DAZN 2
 http://griffsuperstreamz.com:8080/total/donefuckedupd/496479
 
-#EXTINF:-1 group-title="All Sports",  DAZN 1 ES
+#EXTINF:-1 group-title="All Sports", DAZN 1 ES
 http://griffsuperstreamz.com:8080/total/donefuckedupd/494977
 
-#EXTINF:-1 group-title="All Sports",  DAZN 2 ES
+#EXTINF:-1 group-title="All Sports", DAZN 2 ES
 http://griffsuperstreamz.com:8080/total/donefuckedupd/494976
 
-#EXTINF:-1 group-title="All Sports",  DAZN 3 ES
+#EXTINF:-1 group-title="All Sports", DAZN 3 ES
 http://griffsuperstreamz.com:8080/total/donefuckedupd/494975
 
-#EXTINF:-1 group-title="All Sports",  DAZN 4 ES
+#EXTINF:-1 group-title="All Sports", DAZN 4 ES
 http://griffsuperstreamz.com:8080/total/donefuckedupd/494974
 
 #EXTINF:-1 group-title="All Sports", SPORT TV 1
@@ -266,30 +266,6 @@ http://griffsuperstreamz.com:8080/total/donefuckedupd/428314
 http://griffsuperstreamz.com:8080/total/donefuckedupd/428317
 
 ####FR-Sports####
-
-#EXTINF:-1 group-title="France Sports",  AMAZON PRIME 1 HD (P)
-http://griffsuperstreamz.com:8080/total/donefuckedupd/496768
-
-#EXTINF:-1 group-title="France Sports",  AMAZON PRIME 2 HD (P)
-http://griffsuperstreamz.com:8080/total/donefuckedupd/496769
-
-#EXTINF:-1 group-title="France Sports",  AMAZON PRIME 3 HD (P)
-http://griffsuperstreamz.com:8080/total/donefuckedupd/496770
-
-#EXTINF:-1 group-title="France Sports",  AMAZON PRIME 4 HD (P)
-http://griffsuperstreamz.com:8080/total/donefuckedupd/496771
-
-#EXTINF:-1 group-title="France Sports",  AMAZON PRIME 5 HD (P)
-http://griffsuperstreamz.com:8080/total/donefuckedupd/496772
-
-#EXTINF:-1 group-title="France Sports",  AMAZON PRIME 6 HD (P)
-http://griffsuperstreamz.com:8080/total/donefuckedupd/496773
-
-#EXTINF:-1 group-title="France Sports",  AMAZON PRIME 7 HD (P)
-http://griffsuperstreamz.com:8080/total/donefuckedupd/496774
-
-#EXTINF:-1 group-title="France Sports",  AMAZON PRIME 8 HD (P)
-http://griffsuperstreamz.com:8080/total/donefuckedupd/496775
 
 #EXTINF:-1 group-title="France Sports",  beIN Sports 1
 http://griffsuperstreamz.com:8080/total/donefuckedupd/496577
