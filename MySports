@@ -20,7 +20,7 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
 #EXTINF:-1 group-title="Indo Sports", Useesport 1
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesport&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+https://delivery.bukankaleng.co/stream/macan_sport_3/playlist.m3u8?token=zyfkfy4&v=20200807
 
 #EXTINF:-1 group-title="Indo Sports", Useesport 2
 https://delivery.bukankaleng.co/stream/macan_sport_4/playlist.m3u8?token=zyfkfy4&v=20200807
@@ -125,16 +125,16 @@ http://griffsuperstreamz.com:8080/total/donefuckedupd/496478
 #EXTINF:-1 group-title="All Sports", DAZN 2
 http://griffsuperstreamz.com:8080/total/donefuckedupd/496479
 
-#EXTINF:-1group-title="All Sports",  DAZN 1 ES
+#EXTINF:-1 group-title="All Sports",  DAZN 1 ES
 http://griffsuperstreamz.com:8080/total/donefuckedupd/494977
 
-#EXTINF:-1group-title="All Sports",  DAZN 2 ES
+#EXTINF:-1 group-title="All Sports",  DAZN 2 ES
 http://griffsuperstreamz.com:8080/total/donefuckedupd/494976
 
-#EXTINF:-1group-title="All Sports",  DAZN 3 ES
+#EXTINF:-1 group-title="All Sports",  DAZN 3 ES
 http://griffsuperstreamz.com:8080/total/donefuckedupd/494975
 
-#EXTINF:-1group-title="All Sports",  DAZN 4 ES
+#EXTINF:-1 group-title="All Sports",  DAZN 4 ES
 http://griffsuperstreamz.com:8080/total/donefuckedupd/494974
 
 #EXTINF:-1 group-title="All Sports", SPORT TV 1
