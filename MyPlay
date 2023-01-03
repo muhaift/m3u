@@ -511,6 +511,66 @@ https://itvoign.multitvsolution.com/idvo/discoverscienceeng.m3u8
 #EXTINF:-1 group-title="Knowlegdes", Love Nature HD
 http://gpc.my.id/vidio/love-nature.m3u8
 
+#####Malay TV####
+
+#EXTINF:-1, group-title="Malay TV", TV 1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#EXTINF:-1, group-title="Malay TV", TV 2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
+#EXTINF:-1, group-title="Malay TV", TV3
+https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+
+#EXTINF:-1, group-title="Malay TV", TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=5
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
+#EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
+https://aqfadtv.xyz/live/didiktvkpm/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
+https://aqfadtv.xyz/live/8tv/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
+#EXTINF:-1, group-title="Malay TV", 9
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+
+#EXTINF:-1, group-title="Malay TV", Okey
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1, group-title="Malay TV", RTB 1
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+#EXTINF:-1, group-title="Malay TV", RTB 2
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
+#EXTINF:-1, group-title="Malay TV", Awesome TV
+http://w.nasvpn.xyz:8080/live/aaaa/aaaa/7856.ts
+
+#EXTINF:-1, group-title="Malay TV", TV Ikim
+http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
+
+#EXTINF:-1, group-title="Malay TV", Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1, group-title="Malay TV", BERITA RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+
+#EXTINF:-1, group-title="Malay TV", Dewan Rakyat
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
+
+#EXTINF:-1, group-title="Malay TV", Dewan Negara
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
+
+
 ####FashionTV####
 
 #EXTINF:-1 group-title="Fashion TV", Fashion TV 1
