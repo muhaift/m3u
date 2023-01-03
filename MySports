@@ -91,8 +91,14 @@ https://liveaneviadev.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 group-title=" EMTEK HD", Indosiar HD
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
+#EXTINF:-1 group-title=" EMTEK HD", Indosiar HD 2
+https://ilike.squdinc.workers.dev/play.m3u8?id=204&key=vidio&type=hls
+
 #EXTINF:-1 group-title=" EMTEK HD", SCTV HD 
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
+
+#EXTINF:-1 group-title=" EMTEK HD", SCTV HD 2
+https://ilike.squdinc.workers.dev/play.m3u8?id=204&key=vidio&type=hls
 
 #EXTINF:-1 group-title=" EMTEK HD",  Champions TV 1
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6685.m3u8
@@ -107,6 +113,9 @@ https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6786.m3u8
 
 #EXTINF:-1 group-title=" Malay Sports",  Okey
 https://anon.devds.site/link.php?hash=aHR0cDovL214dTAzLndhbmljZWxpZmUuY29tOjg4ODAvbGl2ZS80OG1mMDMwMjIyLzY5MTkxMjEzLzcxMDYwLnRz
+
+#EXTINF:-1 group-title=" Malay Sports",  Astro Arena
+http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54189.ts
 
 #EXTINF:-1 group-title=" Malay Sports",  Astro Arena 2
 http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
