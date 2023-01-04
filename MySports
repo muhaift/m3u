@@ -159,6 +159,9 @@ https://malay.rmvberantakan.com/dash-wv/linear/5057/default_ott.mpd
 
 ####AllSports####
 
+#EXTINF:-1 group-title="All Sports", beIN Sports 1 TH
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115807
+
 #EXTINF:-1 group-title="All Sports", DAZN 1
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/3044.m3u
 
