@@ -33,16 +33,6 @@ https://lb.buy-global.store/live/lb555/adp1-720.m3u8
 #EXTINF:-1 group-title="Live Sports",  AD Sports 2 Premium
 https://lb.buy-global.store/live/lb555/adp2-720.m3u8
 
-#EXTINF:-1 group-title="Live Sports",  SSC 1
-https://lb.buy-global.store/live/lb555/ssc1-360.m3u8
-
-#EXTINF:-1 group-title="Live Sports",  SSC 2
-https://lb.buy-global.store/live/lb555/ssc2-360.m3u8
-
-#EXTINF:-1 group-title="Live Sports",  SSC 3
-https://lb.buy-global.store/live/lb555/ssc3-360.m3u8
-
-
 ####MNC Sports Channels####
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -232,15 +222,6 @@ https://lb.buy-global.store/live/lb555/bs3-multi.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 4
 https://lb.buy-global.store/live/lb555/bs4-multi.m3u8
-
-#EXTINF:-1 group-title="beIN Sports HD", beIN Sports 5
-https://lb.buy-global.store/live/lb555/bs5-multi.m3u8
-
-#EXTINF:-1 group-title="beIN Sports HD", beIN Sports 6
-https://lb.buy-global.store/live/lb555/bs6-multi.m3u8
-
-#EXTINF:-1 group-title="beIN Sports HD", beIN Sports 7
-https://lb.buy-global.store/live/lb555/bs7-multi.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 EN
 http://supermega.vip:25461/cheryl/cheryl/56341
