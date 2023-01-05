@@ -1,41 +1,46 @@
-
 #EXTM3U
 
-####Indo Sports####
+####Live Sports####
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Indo Sports",  beIN Sports 1 ID
+#EXTINF:-1 group-title="Live Sports",  beIN Sports 1 ID
 https://devds.site/api/indihoy/hls.m3u8?ch=bein1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Indo Sports",  beIN Sports 3 ID
+#EXTINF:-1 group-title="Live Sports",  beIN Sports 3 ID
 https://devds.site/api/indihoy/hls.m3u8?ch=bein2
 
-#EXTINF:-1, group-title="Indo Sports", SPO TV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-
-#EXTINF:-1, group-title="Indo Sports", SPO TV 2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
-
-#EXTINF:-1 group-title="Indo Sports", Useesport 1
+#EXTINF:-1 group-title="Live Sports", Useesport 1
 https://maper.info/UseeSport1-Shareext
 
-#EXTINF:-1 group-title="Indo Sports", Useesport 2
+#EXTINF:-1 group-title="Live Sports", Useesport 2
 https://maper.info/UseeSport2-Shareext
 
-#EXTINF:-1 group-title="Indo Sports", TVRI Sports
+#EXTINF:-1 group-title="Live Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
 
-#EXTINF:-1 group-title="Indo Sports", beIN Sports 1
-http://supermega.vip:25461/cheryl/cheryl/112415
+#EXTINF:-1, group-title="Live Sports", SPO TV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:-1 group-title="Indo Sports", beIN Sports 2
-http://supermega.vip:25461/cheryl/cheryl/112416
+#EXTINF:-1, group-title="Live Sports", SPO TV 2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:-1 group-title="Indo Sports", beIN Sports 3
-http://supermega.vip:25461/cheryl/cheryl/112417
+#EXTINF:-1 group-title="Live Sports",  AD Sports 1 Premium
+https://lb.buy-global.store/live/lb555/adp1-720.m3u8
+
+#EXTINF:-1 group-title="Live Sports",  AD Sports 2 Premium
+https://lb.buy-global.store/live/lb555/adp2-720.m3u8
+
+#EXTINF:-1 group-title="Live Sports",  SSC 1
+https://lb.buy-global.store/live/lb555/ssc1-720.m3u8
+
+#EXTINF:-1 group-title="Live Sports",  SSC 2
+https://lb.buy-global.store/live/lb555/ssc2-720.m3u8
+
+#EXTINF:-1 group-title="Live Sports",  SSC 3
+https://lb.buy-global.store/live/lb555/ssc3-720.m3u8
 
 
 ####MNC Sports Channels####
@@ -130,46 +135,27 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 group-title=" Malay Sports",  Astro Supersport 1 B
-http://supermega.vip:25461/cheryl/cheryl/197514
+https://webdi.openhd.lol/ddy1/premium123/index.m3u8
 
 #EXTINF:-1 group-title=" Malay Sports",  Astro Supersport 2 B
-http://supermega.vip:25461/cheryl/cheryl/197515
+https://webdi.openhd.lol/ddy1/premium124/index.m3u8
 
 #EXTINF:-1 group-title=" Malay Sports",  Astro Supersport 3 B
-http://supermega.vip:25461/cheryl/cheryl/197516
+https://webdi.openhd.lol/ddy1/premium125/index.m3u8
 
 #EXTINF:-1 group-title=" Malay Sports",  Astro Supersport 4 B
-http://supermega.vip:25461/cheryl/cheryl/197517
+https://webdi.openhd.lol/ddy1/premium126/index.m3u8
 
 #EXTINF:-1 group-title=" Malay Sports",  Astro Supersport 5 B
-http://supermega.vip:25461/cheryl/cheryl/197518
-
-#EXTINF:-1 group-title=" Malay Sports",  Astro Arena B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
-https://malay.rmvberantakan.com/dash-wv/linear/2604/default_ott.mpd
-
-#EXTINF:-1 group-title=" Malay Sports",  Astro Arena 2 B
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
-https://malay.rmvberantakan.com/dash-wv/linear/5057/default_ott.mpd
-
-
+https://webdi.openhd.lol/ddy1/premium43/index.m3u8
 
 ####AllSports####
-
-#EXTINF:-1 group-title="All Sports", beIN Sports 1 TH
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/115807
 
 #EXTINF:-1 group-title="All Sports", Ziggo Select
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/79660
 
 #EXTINF:-1 group-title="All Sports", DAZN
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/63714
-
-#EXTINF:-1 group-title="All Sports", DAZN 1
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/3044.m3u
 
 #EXTINF:-1 group-title="All Sports", DAZN 2
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/3041.m3u
@@ -224,114 +210,37 @@ http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/15.m3u
 #EXTINF:-1 group-title="UK Sports",  PREMIER SPORTS 2
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5.m3u
 
-####FR-Sports####
-
-#EXTINF:-1 group-title="France Sports",  beIN Sports 1
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/7731.m3u
-
-#EXTINF:-1 group-title="France Sports",  beIN Sports 2
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/70.m3u
-
-#EXTINF:-1 group-title="France Sports",  beIN Sports 3
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/71.m3u
-
-#EXTINF:-1 group-title="France Sports",  beIN Sports MAX 4
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/978.m3u
-
-#EXTINF:-1 group-title="France Sports",  beIN Sports MAX 5
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/979.m3u
-
-#EXTINF:-1 group-title="France Sports",  beIN Sports MAX 6
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/980.m3u
-
-#EXTINF:-1 group-title="France Sports",  beIN Sports MAX 7
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/981.m3u
-
-#EXTINF:-1 group-title="France Sports",  beIN Sports MAX 8
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/982.m3u
-
-#EXTINF:-1 group-title="France Sports",  beIN Sports MAX 9
-http://griffsuperstreamz.com:8080/total/donefuckedupd/496586
-
-#EXTINF:-1 group-title="France Sports",  beIN Sports MAX 10
-http://griffsuperstreamz.com:8080/total/donefuckedupd/496580
-
-#EXTINF:-1 group-title="France Sports",  RMC SPORT 1
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1554.m3u
-
-#EXTINF:-1 group-title="France Sports",  RMC SPORT 2
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1555.m3u
-
-#EXTINF:-1 group-title="France Sports",  RMC SPORT 3
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1556.m3u
-
-#EXTINF:-1 group-title="France Sports",  RMC SPORT 4
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1612.m3u
-
-####beIN Sports FHD####
-
-#EXTINF:-1 group-title="beIN Sports FHD", beIN Sports 1 Premium
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/716.m3u
-
-#EXTINF:-1 group-title="beIN Sports FHD", beIN Sports 2 Premium
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/717.m3u
-
-#EXTINF:-1 group-title="beIN Sports FHD", beIN Sports 3 Premium
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/718.m3u
-
-#EXTINF:-1 group-title="beIN Sports FHD", beIN Sports 1
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5143.m3u
-
-#EXTINF:-1 group-title="beIN Sports FHD", beIN Sports 2
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5144.m3u
-
-#EXTINF:-1 group-title="beIN Sports FHD", beIN Sports 3
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5145.m3u
-
-#EXTINF:-1 group-title="beIN Sports FHD", beIN Sports 4
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/8535.m3u
-
-#EXTINF:-1 group-title="beIN Sports FHD", beIN Sports 5
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/13790.m3u
-
-#EXTINF:-1 group-title="beIN Sports FHD", beIN Sports 6
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/565.m3u
-
-#EXTINF:-1 group-title="beIN Sports FHD", beIN Sports 7
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/13791.m3u
-
-
 ####beIN Sports HD####
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 Premium
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5192.m3u
+https://lb.buy-global.store/live/lb555/bp1-720.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 2 Premium
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5193.m3u
+https://lb.buy-global.store/live/lb555/bp2-720.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 3 Premium
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5194.m3u
+https://lb.buy-global.store/live/lb555/bp3-720.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1602.m3u
+https://lb.buy-global.store/live/lb555/bs1-720.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 2
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1603.m3u
+https://lb.buy-global.store/live/lb555/bs2-720.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 3
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1604.m3u
+https://lb.buy-global.store/live/lb555/bs3-720.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 4
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1605.m3u
+https://lb.buy-global.store/live/lb555/bs4-720.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 5
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/79.m3u
+https://lb.buy-global.store/live/lb555/bs5-720.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 6
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/80.m3u
+https://lb.buy-global.store/live/lb555/bs6-720.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 7
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/81.m3u
+https://lb.buy-global.store/live/lb555/bs7-720.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 EN
 http://supermega.vip:25461/cheryl/cheryl/56341
@@ -356,38 +265,6 @@ http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/21275.m3u
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports Xtra 2
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/21276.m3u
-
-####beIN Sports SD####
-
-#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 1 Premium
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1072.m3u
-
-#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 2 Premium
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1073.m3u
-
-#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 3 Premium
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1074.m3u
-
-#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 1
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1070.m3u
-
-#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 2
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/1071.m3u
-
-#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 3
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/77.m3u
-
-#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 4
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/78.m3u
-
-#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 5
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5146.m3u
-
-#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 6
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5147.m3u
-
-#EXTINF:-1 group-title="beIN Sports SD", beIN Sports 7
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5148.m3u
 
 
 
