@@ -34,13 +34,13 @@ https://lb.buy-global.store/live/lb555/adp1-720.m3u8
 https://lb.buy-global.store/live/lb555/adp2-720.m3u8
 
 #EXTINF:-1 group-title="Live Sports",  SSC 1
-https://lb.buy-global.store/live/lb555/ssc1-720.m3u8
+https://lb.buy-global.store/live/lb555/ssc1-360.m3u8
 
 #EXTINF:-1 group-title="Live Sports",  SSC 2
-https://lb.buy-global.store/live/lb555/ssc2-720.m3u8
+https://lb.buy-global.store/live/lb555/ssc2-360.m3u8
 
 #EXTINF:-1 group-title="Live Sports",  SSC 3
-https://lb.buy-global.store/live/lb555/ssc3-720.m3u8
+https://lb.buy-global.store/live/lb555/ssc3-360.m3u8
 
 
 ####MNC Sports Channels####
@@ -154,7 +154,7 @@ https://webdi.openhd.lol/ddy1/premium43/index.m3u8
 #EXTINF:-1 group-title="All Sports", Ziggo Select
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/79660
 
-#EXTINF:-1 group-title="All Sports", DAZN
+#EXTINF:-1 group-title="All Sports", DAZN 1
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/63714
 
 #EXTINF:-1 group-title="All Sports", DAZN 2
@@ -213,34 +213,34 @@ http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5.m3u
 ####beIN Sports HD####
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 Premium
-https://lb.buy-global.store/live/lb555/bp1-720.m3u8
+https://lb.buy-global.store/live/lb555/bp1-multi.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 2 Premium
-https://lb.buy-global.store/live/lb555/bp2-720.m3u8
+https://lb.buy-global.store/live/lb555/bp2-multi.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 3 Premium
-https://lb.buy-global.store/live/lb555/bp3-720.m3u8
+https://lb.buy-global.store/live/lb555/bp3-multi.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1
-https://lb.buy-global.store/live/lb555/bs1-720.m3u8
+https://lb.buy-global.store/live/lb555/bs1-multi.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 2
-https://lb.buy-global.store/live/lb555/bs2-720.m3u8
+https://lb.buy-global.store/live/lb555/bs2-multi.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 3
-https://lb.buy-global.store/live/lb555/bs3-720.m3u8
+https://lb.buy-global.store/live/lb555/bs3-multi.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 4
-https://lb.buy-global.store/live/lb555/bs4-720.m3u8
+https://lb.buy-global.store/live/lb555/bs4-multi.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 5
-https://lb.buy-global.store/live/lb555/bs5-720.m3u8
+https://lb.buy-global.store/live/lb555/bs5-multi.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 6
-https://lb.buy-global.store/live/lb555/bs6-720.m3u8
+https://lb.buy-global.store/live/lb555/bs6-multi.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 7
-https://lb.buy-global.store/live/lb555/bs7-720.m3u8
+https://lb.buy-global.store/live/lb555/bs7-multi.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 EN
 http://supermega.vip:25461/cheryl/cheryl/56341
