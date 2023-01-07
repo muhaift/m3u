@@ -81,13 +81,16 @@ https://liveaneviadev.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 group-title=" EMTEK HD", Indosiar HD 2
-https://ilike.squdinc.workers.dev/play.m3u8?id=204&key=vidio&type=hls
+https://devds.site/api/v.m3u8?ch=indosiar
 
 #EXTINF:-1 group-title=" EMTEK HD", SCTV HD 
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:-1 group-title=" EMTEK HD", SCTV HD 2
-https://ilike.squdinc.workers.dev/play.m3u8?id=204&key=vidio&type=hls
+https://devds.site/api/v.m3u8?ch=sctv
+
+#EXTINF:-1 group-title=" EMTEK HD", Moji
+https://devds.site/api/v.m3u8?ch=moji
 
 #EXTINF:-1 group-title=" EMTEK HD",  Champions TV 1
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6685.m3u8
@@ -124,64 +127,65 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 group-title=" Malay Sports",  Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
-#EXTINF:-1 group-title=" Malay Sports",  Astro Supersport 1 B
-https://webdi.openhd.lol/ddy1/premium123/index.m3u8
+#EXTINF:-1 group-title=" Malay Sports",  Astro Supersport 1 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50917.ts
 
-#EXTINF:-1 group-title=" Malay Sports",  Astro Supersport 2 B
-https://webdi.openhd.lol/ddy1/premium124/index.m3u8
+#EXTINF:-1 group-title=" Malay Sports",  Astro Supersport 2 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50918.ts
 
-#EXTINF:-1 group-title=" Malay Sports",  Astro Supersport 3 B
-https://webdi.openhd.lol/ddy1/premium125/index.m3u8
+#EXTINF:-1 group-title=" Malay Sports",  Astro Supersport 3 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50919.ts
 
-#EXTINF:-1 group-title=" Malay Sports",  Astro Supersport 4 B
-https://webdi.openhd.lol/ddy1/premium126/index.m3u8
+#EXTINF:-1 group-title=" Malay Sports",  Astro Supersport 4 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50920.ts
 
-#EXTINF:-1 group-title=" Malay Sports",  Astro Supersport 5 B
-https://webdi.openhd.lol/ddy1/premium43/index.m3u8
+#EXTINF:-1 group-title=" Malay Sports",  Astro Supersport 5 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50926.ts
 
 ####AllSports####
 
 #EXTINF:-1 group-title="All Sports", Ziggo Select
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/79660
 
-#EXTINF:-1 group-title="All Sports", DAZN 1
-http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/63714
+#EXTINF:-1 group-title="All Sports", DAZN 1 DE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 
-#EXTINF:-1 group-title="All Sports", DAZN 2
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/3041.m3u
-
-#EXTINF:-1 group-title="All Sports", DAZN 3
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/45313.m3u
-
-#EXTINF:-1 group-title="All Sports", DAZN 4
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/45314.m3u
-
+#EXTINF:-1 group-title="All Sports", DAZN 2 DE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
+  
 #EXTINF:-1 group-title="All Sports", DAZN 1 ES
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/19235.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 
 #EXTINF:-1 group-title="All Sports", DAZN 2 ES
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/19236.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
 
-#EXTINF:-1 group-title="All Sports", DAZN 3 ES
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/19237.m3u
-
-#EXTINF:-1 group-title="All Sports", DAZN 4 ES
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/19238.m3u
+#EXTINF:-1 group-title="All Sports", DAZN La Liga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
 
 #EXTINF:-1 group-title="All Sports", SPORT TV 1
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/7001.m3u
+http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/58879
 
 #EXTINF:-1 group-title="All Sports", SPORT TV 2
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/7002.m3u
+http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/58881
 
 #EXTINF:-1 group-title="All Sports", SPORT TV 3
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/7003.m3u
+http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/58883
 
 #EXTINF:-1 group-title="All Sports", SPORT TV 4
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/7004.m3u
+http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/58884
 
 #EXTINF:-1 group-title="All Sports", SPORT TV 5
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/2062.m3u
+http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/58887
 
 ####UK-Sports###
 
@@ -242,42 +246,42 @@ http://supermega.vip:25461/cheryl/cheryl/56342
 http://supermega.vip:25461/cheryl/cheryl/56343
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 FR
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/13793.m3u
+http://quality-restream.com:8080/asiantv/f2ba3832f4/144
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 2 FR
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/13794.m3u
+http://quality-restream.com:8080/asiantv/f2ba3832f4/145
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 3 FR
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/13795.m3u
+http://quality-restream.com:8080/asiantv/f2ba3832f4/146
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports Xtra 1
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/21275.m3u
+http://quality-restream.com:8080/asiantv/f2ba3832f4/290037
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports Xtra 2
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/21276.m3u
+http://quality-restream.com:8080/asiantv/f2ba3832f4/283294
 
 ####Arab Sports####
 
 #EXTINF:-1 group-title="Arab Sports",  AD Sports 1 Premium
-https://lb.buy-global.store/live/lb555/adp1-360.m3u8
+https://lb.buy-global.store/live/lb555/adp1-720.m3u8
 
 #EXTINF:-1 group-title="Arab Sports",  AD Sports 2 Premium
-https://lb.buy-global.store/live/lb555/adp2-360.m3u8
+https://lb.buy-global.store/live/lb555/adp2-720.m3u8
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 1
-https://lb.buy-global.store/live/lb555/ssc1-360.m3u8
+https://lb.buy-global.store/live/lb555/ssc1-multi.m3u8
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 2
-https://lb.buy-global.store/live/lb555/ssc2-360.m3u8
+https://lb.buy-global.store/live/lb555/ssc2-multi.m3u8
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 3
-https://lb.buy-global.store/live/lb555/ssc3-360.m3u8
+https://lb.buy-global.store/live/lb555/ssc3-multi.m3u8
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 4
-https://lb.buy-global.store/live/lb555/ssc4-360.m3u8
+http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/999
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 5
-https://lb.buy-global.store/live/lb555/ssc5-360.m3u8
+https://lb.buy-global.store/live/lb555/ssc5-multi.m3u8
 
 #EXTINF:-1 group-title="Arab Sports",  SSC Extra 1
 http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/1001
