@@ -203,34 +203,34 @@ http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5.m3u
 ####beIN Sports HD####
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 Premium
-https://lb.buy-global.store/live/lb555/bp1-multi.m3u8
+https://lb.buy-global.store/live/lb555/bp1-360.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 2 Premium
-https://lb.buy-global.store/live/lb555/bp2-multi.m3u8
+https://lb.buy-global.store/live/lb555/bp2-360.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 3 Premium
-https://lb.buy-global.store/live/lb555/bp3-multi.m3u8
+https://lb.buy-global.store/live/lb555/bp3-360.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1
-https://lb.buy-global.store/live/lb555/bs1-multi.m3u8
+https://lb.buy-global.store/live/lb555/bs1-360.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 2
-https://lb.buy-global.store/live/lb555/bs2-multi.m3u8
+https://lb.buy-global.store/live/lb555/bs2-360.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 3
-https://lb.buy-global.store/live/lb555/bs3-multi.m3u8
+https://lb.buy-global.store/live/lb555/bs3-360.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 4
-https://lb.buy-global.store/live/lb555/bs4-multi.m3u8
+https://lb.buy-global.store/live/lb555/bs4-360.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 5
-https://lb.buy-global.store/live/lb555/bs5-multi.m3u8
+https://lb.buy-global.store/live/lb555/bs5-360.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 6
-https://lb.buy-global.store/live/lb555/bs6-multi.m3u8
+https://lb.buy-global.store/live/lb555/bs6-360.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 7
-https://lb.buy-global.store/live/lb555/bs7-multi.m3u8
+https://lb.buy-global.store/live/lb555/bs7-360.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 EN
 http://supermega.vip:25461/cheryl/cheryl/56341
@@ -268,13 +268,13 @@ https://lb.buy-global.store/live/lb555/adp2-360.m3u8
 https://lb.buy-global.store/live/lb555/ssc1-360.m3u8
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 2
-https://lb.buy-global.store/live/lb555/ssc2-multi.m3u8
+https://lb.buy-global.store/live/lb555/ssc2-360.m3u8
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 3
-https://lb.buy-global.store/live/lb555/ssc3-multi.m3u8
+https://lb.buy-global.store/live/lb555/ssc3-360.m3u8
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 4
-http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/999
+https://lb.buy-global.store/live/lb555/ssc4-360.m3u8
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 5
 https://lb.buy-global.store/live/lb555/ssc5-360.m3u8
