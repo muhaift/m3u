@@ -259,13 +259,13 @@ http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/21276.m3u
 ####Arab Sports####
 
 #EXTINF:-1 group-title="Arab Sports",  AD Sports 1 Premium
-https://lb.buy-global.store/live/lb555/adp1-720.m3u8
+https://lb.buy-global.store/live/lb555/adp1-360.m3u8
 
 #EXTINF:-1 group-title="Arab Sports",  AD Sports 2 Premium
-https://lb.buy-global.store/live/lb555/adp2-720.m3u8
+https://lb.buy-global.store/live/lb555/adp2-360.m3u8
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 1
-https://lb.buy-global.store/live/lb555/ssc1-multi.m3u8
+https://lb.buy-global.store/live/lb555/ssc1-360.m3u8
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 2
 https://lb.buy-global.store/live/lb555/ssc2-multi.m3u8
@@ -277,7 +277,7 @@ https://lb.buy-global.store/live/lb555/ssc3-multi.m3u8
 http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/999
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 5
-https://lb.buy-global.store/live/lb555/ssc5-multi.m3u8
+https://lb.buy-global.store/live/lb555/ssc5-360.m3u8
 
 #EXTINF:-1 group-title="Arab Sports",  SSC Extra 1
 http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/1001
