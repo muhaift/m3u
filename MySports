@@ -2,16 +2,6 @@
 
 ####Live Sports####
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Live Sports",  beIN Sports 1 ID
-https://devds.site/api/indihoy/hls.m3u8?ch=bein1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Live Sports",  beIN Sports 3 ID
-https://devds.site/api/indihoy/hls.m3u8?ch=bein2
-
 #EXTINF:-1 group-title="Live Sports", Useesport 1
 https://maper.info/UseeSport1-Shareext
 
@@ -74,6 +64,29 @@ https://liveaneviadev.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="MNC Sports Channels", SPO TV 2
 https://liveaneviadev.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#####MNC Channels#####
+
+#EXTINF:-1 group-title="MNC Channels",  RCTI
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://d27gr10k1gmcw.cloudfront.net/RCTI_2021.m3u8
+
+
+#EXTINF:-1 group-title="MNC Channels",  MNC TV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://d2oaub8o4ti3xm.cloudfront.net/MNCTV_2021.m3u8
+
+#EXTINF:-1 group-title="MNC Channels",  GTV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://d32k4dhnksn5q9.cloudfront.net/GTV2021.m3u8
+
+#EXTINF:-1 group-title="MNC Channels",  iNews
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://d19ba1s6qrhzwj.cloudfront.net/INEWS_2021.m3u8
 
 ####EMTEK HD####
 
@@ -207,34 +220,34 @@ http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5.m3u
 ####beIN Sports HD####
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 Premium
-https://lb.buy-global.store/live/lb555/bp1-360.m3u8
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1126.ts
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 2 Premium
-https://lb.buy-global.store/live/lb555/bp2-360.m3u8
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1127.ts
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 3 Premium
-https://lb.buy-global.store/live/lb555/bp3-360.m3u8
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1128.ts
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1
-https://lb.buy-global.store/live/lb555/bs1-360.m3u8
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1129.ts
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 2
-https://lb.buy-global.store/live/lb555/bs2-360.m3u8
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1130.ts
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 3
-https://lb.buy-global.store/live/lb555/bs3-360.m3u8
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1131.ts
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 4
-https://lb.buy-global.store/live/lb555/bs4-360.m3u8
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1132.ts
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 5
-https://lb.buy-global.store/live/lb555/bs5-360.m3u8
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1133.ts
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 6
-https://lb.buy-global.store/live/lb555/bs6-360.m3u8
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1134.ts
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 7
-https://lb.buy-global.store/live/lb555/bs7-360.m3u8
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1135.ts
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 EN
 http://supermega.vip:25461/cheryl/cheryl/56341
@@ -263,25 +276,25 @@ http://quality-restream.com:8080/asiantv/f2ba3832f4/283294
 ####Arab Sports####
 
 #EXTINF:-1 group-title="Arab Sports",  AD Sports 1 Premium
-https://lb.buy-global.store/live/lb555/adp1-360.m3u8
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/768.ts
 
 #EXTINF:-1 group-title="Arab Sports",  AD Sports 2 Premium
-https://lb.buy-global.store/live/lb555/adp2-360.m3u8
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/769.ts
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 1
-https://lb.buy-global.store/live/lb555/ssc1-multi.m3u8
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/871.ts
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 2
-https://lb.buy-global.store/live/lb555/ssc2-multi.m3u8
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/870.ts
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 3
-https://lb.buy-global.store/live/lb555/ssc3-multi.m3u8
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/872.ts
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 4
 http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/999
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 5
-https://lb.buy-global.store/live/lb555/ssc5-multi.m3u8
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/874.ts
 
 #EXTINF:-1 group-title="Arab Sports",  SSC Extra 1
 http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/1001
