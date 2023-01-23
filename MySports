@@ -89,6 +89,9 @@ https://d19ba1s6qrhzwj.cloudfront.net/INEWS_2021.m3u8
 
 ####EMTEK HD####
 
+#EXTINF:-1 group-title=" EMTEK HD", BRI Liga 1 (Live Match Only)
+http://golive.yn.lt/live/liga1/01.m3u8
+
 #EXTINF:-1 group-title=" EMTEK HD", Indosiar HD
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
@@ -139,50 +142,77 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 group-title=" Malay Sports",  Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
-#EXTINF:-1 group-title=" Malay Sports",  Astro Supersport 1 HD
-http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50917.ts
+#EXTINF:-1 group-title=" Malay Sports", Astro SuperSport HD
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.webtv1.lol/lb/premium123/index.m3u8
 
-#EXTINF:-1 group-title=" Malay Sports",  Astro Supersport 2 HD
-http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50918.ts
+#EXTINF:-1 group-title=" Malay Sports", Astro SuperSport 2 HD
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.webtv1.lol/lb/premium124/index.m3u8
 
-#EXTINF:-1 group-title=" Malay Sports",  Astro Supersport 3 HD
-http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50919.ts
+#EXTINF:-1 group-title=" Malay Sports", Astro SuperSport 3 HD
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.webtv1.lol/lb/premium125/index.m3u8
 
-#EXTINF:-1 group-title=" Malay Sports",  Astro Supersport 4 HD
-http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50920.ts
+#EXTINF:-1 group-title=" Malay Sports", Astro SuperSport 4 HD
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.webtv1.lol/lb/premium126/index.m3u8
 
-#EXTINF:-1 group-title=" Malay Sports",  Astro Supersport 5 HD
-http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50926.ts
+#EXTINF:-1 group-title=" Malay Sports", Astro Supersport 5 HD
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.webtv1.lol/lb/premium127/index.m3u8
 
-####AllSports####
+####DaznSports####
 
-#EXTINF:-1 group-title="All Sports", Ziggo Select
-http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/79660
-
-#EXTINF:-1 group-title="All Sports", DAZN 1 DE
+#EXTINF:-1 group-title="Dazn Sports", DAZN 1 DE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 
-#EXTINF:-1 group-title="All Sports", DAZN 2 DE
+#EXTINF:-1 group-title="Dazn Sports", DAZN 2 DE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
   
-#EXTINF:-1 group-title="All Sports", DAZN 1 ES
+#EXTINF:-1 group-title="Dazn Sports", DAZN 1 ES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 
-#EXTINF:-1 group-title="All Sports", DAZN 2 ES
+#EXTINF:-1 group-title="Dazn Sports", DAZN 2 ES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
 
-#EXTINF:-1 group-title="All Sports", DAZN La Liga
+#EXTINF:-1 group-title="Dazn Sports", DAZN La Liga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+
+#EXTINF:-1 group-title="Dazn Sports", beIN Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
+
+#EXTINF:-1 group-title="Dazn Sports", beIN Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
+
+#EXTINF:-1 group-title="Dazn Sports", beIN Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
+
+#####AllSports#####
+
+#EXTINF:-1 group-title="All Sports", Ziggo Select
+http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/79660
 
 #EXTINF:-1 group-title="All Sports", SPORT TV 1
 http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/58879
@@ -202,13 +232,19 @@ http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/58887
 ####UK-Sports###
 
 #EXTINF:-1 group-title="UK Sports",  BT SPORT 1
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/9.m3u
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.webtv1.lol/lb/premium31/index.m3u8
 
 #EXTINF:-1 group-title="UK Sports",  BT SPORT 2
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/10.m3u
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.webtv1.lol/lb/premium32/index.m3u8
 
 #EXTINF:-1 group-title="UK Sports",  BT SPORT 3
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/18.m3u
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.webtv1.lol/lb/premium33/index.m3u8
 
 #EXTINF:-1 group-title="UK Sports",  PREMIER SPORTS 1
 http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/15.m3u
