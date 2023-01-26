@@ -87,10 +87,21 @@ https://d32k4dhnksn5q9.cloudfront.net/GTV2021.m3u8
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
 https://d19ba1s6qrhzwj.cloudfront.net/INEWS_2021.m3u8
 
-####EMTEK HD####
+####BRILiga1####
 
-#EXTINF:-1 group-title=" EMTEK HD", BRI Liga 1 (Live Match Only)
-http://golive.yn.lt/live/liga1/01.m3u8
+#EXTINF:-1 group-title=" BRI Liga 1 (Live Only)", Channel 1
+https://s.id/1xrUU
+
+#EXTINF:-1 group-title=" BRI Liga 1 (Live Only)", Channel  2
+https://s.id/1xrVc
+
+#EXTINF:-1 group-title=" BRI Liga 1 (Live Only)", Channel 3
+https://s.id/1xrVA
+
+#EXTINF:-1 group-title=" BRI Liga 1 (Live Only)", Channel 4
+https://s.id/1xrVG
+
+####EMTEK HD####
 
 #EXTINF:-1 group-title=" EMTEK HD", Indosiar HD
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
@@ -108,13 +119,13 @@ https://devds.site/api/v.m3u8?ch=sctv
 https://devds.site/api/v.m3u8?ch=moji
 
 #EXTINF:-1 group-title=" EMTEK HD",  Champions TV 1
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6685.m3u8
+https://s.id/1xsBG
 
 #EXTINF:-1 group-title=" EMTEK HD",  Champions TV 2
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6686.m3u8
+https://s.id/1xsBY
 
 #EXTINF:-1 group-title=" EMTEK HD",  Champions TV 3
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6786.m3u8
+https://s.id/1xsDb
 
 ####Malay SuperSports#####
 
@@ -165,7 +176,7 @@ https://webudi.webtv1.lol/lb/premium126/index.m3u8
 #EXTINF:-1 group-title=" Malay Sports", Astro Supersport 5 HD
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudi.webtv1.lol/lb/premium127/index.m3u8
+https://webudi.webtv1.lol/lb/premium43/index.m3u8
 
 ####ThaiSports####
 
@@ -415,31 +426,31 @@ http://quality-restream.com:8080/asiantv/f2ba3832f4/283294
 ####Arab Sports####
 
 #EXTINF:-1 group-title="Arab Sports",  AD Sports 1 Premium
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/768.ts
+https://s.id/1xs0n
 
 #EXTINF:-1 group-title="Arab Sports",  AD Sports 2 Premium
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/769.ts
+https://s.id/1xsyA
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 1
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/871.ts
+https://s.id/1xsyS
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 2
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/870.ts
+https://s.id/1xsz7
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 3
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/872.ts
+https://s.id/1xszm
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 4
-http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/999
+https://s.id/1xszZ
 
 #EXTINF:-1 group-title="Arab Sports",  SSC 5
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/874.ts
+https://s.id/1xsAk
 
 #EXTINF:-1 group-title="Arab Sports",  SSC Extra 1
-http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/1001
+https://s.id/1xsAz
 
 #EXTINF:-1 group-title="Arab Sports",  SSC Extra 2
-http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/1002
+https://s.id/1xsAO
 
 
 
