@@ -8,6 +8,12 @@ https://maper.info/UseeSport1-Shareext
 #EXTINF:-1 group-title="Live Sports", Useesport 2
 https://maper.info/UseeSport2-Shareext
 
+#EXTINF:-1 group-title="Live Sports", beIN Sports 1 ID
+https://s.id/1xE8K
+
+#EXTINF:-1 group-title="Live Sports", beIN Sports 3 ID
+https://s.id/1xE9b
+
 #EXTINF:-1 group-title="Live Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
 
@@ -294,12 +300,10 @@ http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/58887
 
 #EXTINF:-1 group-title="All Sports", K+ Sport 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XlpE5rpGAhwSfEtoNYhYBw", "kid":"pSdXI8lMR2qrjjTQR4VWMA" } ], "type":"temporary" }
 http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 
 #EXTINF:-1 group-title="All Sports", K+ Sport 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VOO7hRkYHjke00zEoKVlVw", "kid":"/1G2wwGYROGJv+Wmo8pT1w" } ], "type":"temporary" }
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 #EXTINF:-1 group-title="All Sports", C More Football
@@ -361,12 +365,6 @@ https://webudi.webtv1.lol/lb/premium32/index.m3u8
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.webtv1.lol/lb/premium33/index.m3u8
 
-#EXTINF:-1 group-title="UK Sports",  PREMIER SPORTS 1
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/15.m3u
-
-#EXTINF:-1 group-title="UK Sports",  PREMIER SPORTS 2
-http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/5.m3u
-
 ####beIN Sports HD####
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 Premium
@@ -400,28 +398,28 @@ http://ourtv.live:8080/live/MediastarTV/MediastarTV/1134.ts
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/1135.ts
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 EN
-http://supermega.vip:25461/cheryl/cheryl/56341
+#http://supermega.vip:25461/cheryl/cheryl/56341
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 2 EN
-http://supermega.vip:25461/cheryl/cheryl/56342
+#http://supermega.vip:25461/cheryl/cheryl/56342
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 3 EN
-http://supermega.vip:25461/cheryl/cheryl/56343
+#http://supermega.vip:25461/cheryl/cheryl/56343
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 FR
-http://quality-restream.com:8080/asiantv/f2ba3832f4/144
+#http://quality-restream.com:8080/asiantv/f2ba3832f4/144
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 2 FR
-http://quality-restream.com:8080/asiantv/f2ba3832f4/145
+#http://quality-restream.com:8080/asiantv/f2ba3832f4/145
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 3 FR
-http://quality-restream.com:8080/asiantv/f2ba3832f4/146
+#http://quality-restream.com:8080/asiantv/f2ba3832f4/146
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports Xtra 1
-http://quality-restream.com:8080/asiantv/f2ba3832f4/290037
+#http://quality-restream.com:8080/asiantv/f2ba3832f4/290037
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports Xtra 2
-http://quality-restream.com:8080/asiantv/f2ba3832f4/283294
+#http://quality-restream.com:8080/asiantv/f2ba3832f4/283294
 
 ####Arab Sports####
 
