@@ -237,20 +237,27 @@ https://sport.livedoomovies.com:4431/02_PremierHD4_480p/chunklist.m3u8
 https://sport.livedoomovies.com:4431/02_PremierHD5_480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="ThaiSports", beIN Sports 1 TH
-https://youdooball.livedoomovies.com:4432/02_epl1_480p/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://youdooball.livedoomovies.com:4431/02_epl1_480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="ThaiSports", beIN Sports 2 TH
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
 #EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
 https://stream.warpballsod.tv/bein2.m3u8
 
 #EXTINF:-1 group-title="ThaiSports", beIN Sports 3 TH
-https://youdooball.livedoomovies.com:4432/02_sport6_480p/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://youdooball.livedoomovies.com:4431/02_sport6_480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="ThaiSports", beIN Sports 1 TH A
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
 #EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
 https://stream.warpballsod.tv/bein1.m3u8
 
 #EXTINF:-1 group-title="ThaiSports", beIN Sports 3 TH A
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
 #EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
 https://stream.warpballsod.tv/bein3.m3u8
 
@@ -313,16 +320,6 @@ http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/58884
 
 #EXTINF:-1 group-title="All Sports", SPORT TV 5
 http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/58887
-
-#EXTINF:-1 group-title="All Sports", K+ Sport 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
-
-#EXTINF:-1 group-title="All Sports", K+ Sport 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 #EXTINF:-1 group-title="All Sports", C More Football
 #KODIPROP:inputstreamaddon=inputstream.adaptive
