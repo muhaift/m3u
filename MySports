@@ -280,9 +280,6 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 
 #####AllSports#####
 
-#EXTINF:-1 group-title="All Sports", Ziggo Select
-http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/79660
-
 #EXTINF:-1 group-title="All Sports", SPORT TV 1
 http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/58879
 
@@ -299,11 +296,13 @@ http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/58884
 http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/58887
 
 #EXTINF:-1 group-title="All Sports", K+ Sport 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=c1c657aa160c5b328f1e76747534b913&key=785e0773e9d534a00f4619315674ef7f
 http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 
 #EXTINF:-1 group-title="All Sports", K+ Sport 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=c1c657aa160c5b328f1e76747534b913&key=785e0773e9d534a00f4619315674ef7f
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 #EXTINF:-1 group-title="All Sports", C More Football
