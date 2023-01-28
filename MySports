@@ -236,6 +236,25 @@ https://sport.livedoomovies.com:4431/02_PremierHD4_480p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4431/02_PremierHD5_480p/chunklist.m3u8
 
+#EXTINF:-1 group-title="ThaiSports", beIN Sports 1 TH
+https://youdooball.livedoomovies.com:4432/02_epl1_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ThaiSports", beIN Sports 2 TH
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/bein2.m3u8
+
+#EXTINF:-1 group-title="ThaiSports", beIN Sports 3 TH
+https://youdooball.livedoomovies.com:4432/02_sport6_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ThaiSports", beIN Sports 1 TH A
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/bein1.m3u8
+
+#EXTINF:-1 group-title="ThaiSports", beIN Sports 3 TH A
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/bein3.m3u8
+
+
 ####DaznSports####
 
 #EXTINF:-1 group-title="Dazn Sports", DAZN 1 DE
