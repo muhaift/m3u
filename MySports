@@ -74,24 +74,24 @@ https://liveaneviadev.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #####MNC Channels#####
 
 #EXTINF:-1 group-title="MNC Channels",  RCTI
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://d-rcti.rctiplus.id/RCTI2022.m3u8
+https://m-rcti.rctiplus.id/rcti-sdi.m3u8
 
 #EXTINF:-1 group-title="MNC Channels",  MNC TV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://d2oaub8o4ti3xm.cloudfront.net/MNCTV_2021.m3u8
+https://m-mnctv.rctiplus.id/mnctv-sdi.m3u8
 
 #EXTINF:-1 group-title="MNC Channels",  GTV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://d32k4dhnksn5q9.cloudfront.net/GTV2021.m3u8
+https://m-gtv.rctiplus.id/gtv-sdi.m3u8
 
 #EXTINF:-1 group-title="MNC Channels",  iNews
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://d19ba1s6qrhzwj.cloudfront.net/INEWS_2021.m3u8
+https://m-inews.rctiplus.id/inews-sdi.m3u8
 
 ####BRILiga1####
 
@@ -184,11 +184,6 @@ https://webudi.webtv1.lol/lb/premium126/index.m3u8
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 https://webudi.webtv1.lol/lb/premium43/index.m3u8
 
-#EXTINF:-1 group-title=" Malay Sports", Astro Supersport 6 HD
-#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudi.webtv1.lol/lb/premium43/480p/chunklist.m3u8
-
 ####ThaiSports####
 
 #EXTINF:-1 group-title="ThaiSports", Hub Premier 1
@@ -240,32 +235,6 @@ https://sport.livedoomovies.com:4431/02_PremierHD4_480p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4431/02_PremierHD5_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="ThaiSports", beIN Sports 1 TH
-#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://youdooball.livedoomovies.com:4431/02_epl1_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="ThaiSports", beIN Sports 2 TH
-#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
-https://stream.warpballsod.tv/bein2.m3u8
-
-#EXTINF:-1 group-title="ThaiSports", beIN Sports 3 TH
-#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://youdooball.livedoomovies.com:4431/02_sport6_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="ThaiSports", beIN Sports 1 TH A
-#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
-https://stream.warpballsod.tv/bein1.m3u8
-
-#EXTINF:-1 group-title="ThaiSports", beIN Sports 3 TH A
-#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
-https://stream.warpballsod.tv/bein3.m3u8
-
 
 ####DaznSports####
 
@@ -440,4 +409,16 @@ http://ourtv.live:8080/live/MediastarTV/MediastarTV/1135.ts
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports Xtra 2
 #http://quality-restream.com:8080/asiantv/f2ba3832f4/283294
+
+
+
+
+
+
+
+
+
+
+
+
 
