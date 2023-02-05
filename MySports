@@ -34,42 +34,42 @@ https://rmtv-canela.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="MNC Sports Channels",  MNC Sports
-https://liveaneviadev.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+https://avi-live-channel-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title=" MNC Sports Channels",  MNC Sports 2
-https://liveaneviadev.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+https://avi-live-channel-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="MNC Sports Channels",  MNC Sports 3
-https://liveaneviadev.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+https://avi-live-channel-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="MNC Sports Channels",  MNC Sports Plus
-https://liveaneviadev.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
+https://avi-live-channel-cdn.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title=" MNC Sports Channels",  Soccer Channel Plus
-https://liveaneviadev.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerchannel-NonLiga1.mpd
+https://avi-live-channel-cdn.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerchannel-NonLiga1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title=" MNC Sports Channels",  Soccer Channel
-https://liveaneviadev.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+https://avi-live-channel-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="MNC Sports Channels", SPO TV
-https://liveaneviadev.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+https://avi-live-channel-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="MNC Sports Channels", SPO TV 2
-https://liveaneviadev.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+https://avi-live-channel-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #####MNC Channels#####
 
@@ -112,17 +112,8 @@ https://s.id/1xrVG
 #EXTINF:-1 group-title=" EMTEK HD", Indosiar HD
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
-#EXTINF:-1 group-title=" EMTEK HD", Indosiar HD 2
-https://devds.site/api/v.m3u8?ch=indosiar
-
 #EXTINF:-1 group-title=" EMTEK HD", SCTV HD 
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
-
-#EXTINF:-1 group-title=" EMTEK HD", SCTV HD 2
-https://devds.site/api/v.m3u8?ch=sctv
-
-#EXTINF:-1 group-title=" EMTEK HD", Moji
-https://devds.site/api/v.m3u8?ch=moji
 
 #EXTINF:-1 group-title=" EMTEK HD",  Champions TV 1
 https://s.id/1xsBG
@@ -161,55 +152,55 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 group-title=" Malay Sports", Astro SuperSport HD
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudi.webtv1.lol/lb/premium123/index.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://newtest.webtv1.lol/lb/premium123/index.m3u8
 
 #EXTINF:-1 group-title=" Malay Sports", Astro SuperSport 2 HD
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudi.webtv1.lol/lb/premium124/index.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://newtest.webtv1.lol/lb/premium124/index.m3u8
 
 #EXTINF:-1 group-title=" Malay Sports", Astro SuperSport 3 HD
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudi.webtv1.lol/lb/premium125/index.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://newtest.webtv1.lol/lb/premium125/index.m3u8
 
 #EXTINF:-1 group-title=" Malay Sports", Astro SuperSport 4 HD
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudi.webtv1.lol/lb/premium126/index.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://newtest.webtv1.lol/lb/premium126/index.m3u8
 
 #EXTINF:-1 group-title=" Malay Sports", Astro Supersport 5 HD
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudi.webtv1.lol/lb/premium43/index.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://newtest.webtv1.lol/lb/premium43/index.m3u8
 
 ####ThaiSports####
 
 #EXTINF:-1 group-title="ThaiSports", Hub Premier 1
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudi.webtv1.lol/lb/star31/index.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://newtest.webtv1.lol/lb/star31/index.m3u8
 
 #EXTINF:-1 group-title="ThaiSports", Hub Premier 2
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudi.webtv1.lol/lb/star32/index.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://newtest.webtv1.lol/lb/star32/index.m3u8
 
 #EXTINF:-1 group-title="ThaiSports", Hub Premier 3
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudi.webtv1.lol/lb/star33/index.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://newtest.webtv1.lol/lb/star33/index.m3u8
 
 #EXTINF:-1 group-title="ThaiSports", Hub Premier 4
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudi.webtv1.lol/lb/star34/index.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://newtest.webtv1.lol/lb/star34/index.m3u8
 
 #EXTINF:-1 group-title="ThaiSports", Hub Premier 5
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudi.webtv1.lol/lb/star35/index.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://newtest.webtv1.lol/lb/star35/index.m3u8
 
 #EXTINF:-1 group-title="ThaiSports", Premier Football 1
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
@@ -262,6 +253,11 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+
+#EXTINF:-1 group-title="Dazn Sports", DAZN F1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
 
 #EXTINF:-1 group-title="Dazn Sports", beIN Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -357,59 +353,94 @@ https://webudi.webtv1.lol/lb/premium33/index.m3u8
 ####beIN Sports HD####
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 Premium
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1126.ts
+http://txm1.flysat.live:2089/9152894094/3603122011/254655
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 2 Premium
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1127.ts
+http://txm1.flysat.live:2089/9152894094/3603122011/254652
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 3 Premium
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1128.ts
+http://txm1.flysat.live:2089/9152894094/3603122011/254649
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1129.ts
+http://txm1.flysat.live:2089/9152894094/3603122011/254646
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 2
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1130.ts
+http://txm1.flysat.live:2089/9152894094/3603122011/254643
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 3
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1131.ts
+http://txm1.flysat.live:2089/9152894094/3603122011/254640
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 4
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1132.ts
+http://txm1.flysat.live:2089/9152894094/3603122011/254637
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 5
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1133.ts
+http://txm1.flysat.live:2089/9152894094/3603122011/254634
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 6
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1134.ts
+http://txm1.flysat.live:2089/9152894094/3603122011/254631
+
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 7
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1135.ts
+http://txm1.flysat.live:2089/9152894094/3603122011/254628
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 EN
-#http://supermega.vip:25461/cheryl/cheryl/56341
+http://txm1.flysat.live:2089/9152894094/3603122011/254625
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 2 EN
-#http://supermega.vip:25461/cheryl/cheryl/56342
+http://txm1.flysat.live:2089/9152894094/3603122011/254622
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 3 EN
-#http://supermega.vip:25461/cheryl/cheryl/56343
+http://txm1.flysat.live:2089/9152894094/3603122011/254619
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 FR
-#http://quality-restream.com:8080/asiantv/f2ba3832f4/144
+http://txm1.flysat.live:2089/9152894094/3603122011/254615
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 2 FR
-#http://quality-restream.com:8080/asiantv/f2ba3832f4/145
+http://txm1.flysat.live:2089/9152894094/3603122011/254614
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 3 FR
-#http://quality-restream.com:8080/asiantv/f2ba3832f4/146
+http://txm1.flysat.live:2089/9152894094/3603122011/254613
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports Xtra 1
-#http://quality-restream.com:8080/asiantv/f2ba3832f4/290037
+http://txm1.flysat.live:2089/9152894094/3603122011/254608
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports Xtra 2
-#http://quality-restream.com:8080/asiantv/f2ba3832f4/283294
+http://txm1.flysat.live:2089/9152894094/3603122011/254607
 
+#EXTINF:-1 group-title="beIN Sports HD", beIN Sports Xtra 3
+http://txm1.flysat.live:2089/9152894094/3603122011/254606
+
+####Arab Sports####
+
+#EXTINF:-1 group-title="Arab Sports",  AD Sports 1 Premium
+http://txm1.flysat.live:2089/9152894094/3603122011/247178
+
+#EXTINF:-1 group-title="Arab Sports",  AD Sports 2 Premium
+http://txm1.flysat.live:2089/9152894094/3603122011/247177
+
+#EXTINF:-1 group-title="Arab Sports",  StarzPlay Sports
+http://txm1.flysat.live:2089/9152894094/3603122011/247178
+
+#EXTINF:-1 group-title="Arab Sports",  SSC 1
+http://txm1.flysat.live:2089/9152894094/3603122011/247146
+
+#EXTINF:-1 group-title="Arab Sports",  SSC 2
+http://txm1.flysat.live:2089/9152894094/3603122011/247145
+
+#EXTINF:-1 group-title="Arab Sports",  SSC 3
+http://txm1.flysat.live:2089/9152894094/3603122011/247144
+
+#EXTINF:-1 group-title="Arab Sports",  SSC 4
+http://txm1.flysat.live:2089/9152894094/3603122011/247143
+
+#EXTINF:-1 group-title="Arab Sports",  SSC 5
+http://txm1.flysat.live:2089/9152894094/3603122011/247142
+
+#EXTINF:-1 group-title="Arab Sports",  SSC Extra 1
+http://txm1.flysat.live:2089/9152894094/3603122011/247141
+
+#EXTINF:-1 group-title="Arab Sports",  SSC Extra 2
+http://txm1.flysat.live:2089/9152894094/3603122011/247140
 
 
 
