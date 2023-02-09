@@ -105,15 +105,18 @@ https://m-inews.rctiplus.id/inews-sdi.m3u8
 ####BRILiga1####
 
 #EXTINF:-1 group-title=" BRI Liga 1 (Live Only)", Channel 1
+https://s.id/1yUeE
+
+#EXTINF:-1 group-title=" BRI Liga 1 (Live Only)", Channel 2
 https://s.id/1xrUU
 
-#EXTINF:-1 group-title=" BRI Liga 1 (Live Only)", Channel  2
+#EXTINF:-1 group-title=" BRI Liga 1 (Live Only)", Channel 3
 https://s.id/1xrVc
 
-#EXTINF:-1 group-title=" BRI Liga 1 (Live Only)", Channel 3
+#EXTINF:-1 group-title=" BRI Liga 1 (Live Only)", Channel 4
 https://s.id/1xrVA
 
-#EXTINF:-1 group-title=" BRI Liga 1 (Live Only)", Channel 4
+#EXTINF:-1 group-title=" BRI Liga 1 (Live Only)", Channel 5
 https://s.id/1xrVG
 
 ####EMTEK HD####
@@ -282,11 +285,6 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
-
-#EXTINF:-1 group-title="Dazn Sports", beIN Sports 3 ID
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-042/stream.mpd
 
 #EXTINF:-1 group-title="Dazn Sports", TV Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -470,15 +468,3 @@ http://txm1.flysat.live:2089/9152894094/3603122011/247141
 
 #EXTINF:-1 group-title="Arab Sports",  SSC Extra 2
 http://txm1.flysat.live:2089/9152894094/3603122011/247140
-
-
-
-
-
-
-
-
-
-
-
-
