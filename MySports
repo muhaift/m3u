@@ -114,25 +114,24 @@ https://midcache.rctiplus.com/live/gtv.m3u8
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
 https://midcache.rctiplus.com/live/inewstv.m3u8
 
+####EMTEK HD####
+
+#EXTINF:-1 group-title=" EMTEK HD", Indosiar HD
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+
+#EXTINF:-1 group-title=" EMTEK HD", SCTV HD 
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
+
+#EXTINF:-1 group-title=" EMTEK HD",  Champions TV 1
+https://s.id/1xsBG
+
+#EXTINF:-1 group-title=" EMTEK HD",  Champions TV 2
+https://s.id/1xsBY
+
+#EXTINF:-1 group-title=" EMTEK HD",  Champions TV 3
+https://s.id/1xsDb
+
 ####Malay SuperSports#####
-
-#EXTINF:-1 group-title=" Malay Sports",  Astro Arena
-http://server.sibfungold.info:8080/live/naimnaim/kamalnaimQX/54189.ts
-
-#EXTINF:-1 group-title=" Malay Sports",  Astro SuperSports
-http://server.sibfungold.info:8080/live/naimnaim/kamalnaimQX/52859.ts
-
-#EXTINF:-1 group-title=" Malay Sports",  Astro SuperSports 2
-http://server.sibfungold.info:8080/live/naimnaim/kamalnaimQX/52860.ts
-
-#EXTINF:-1 group-title=" Malay Sports",  Astro SuperSports 3
-http://server.sibfungold.info:8080/live/naimnaim/kamalnaimQX/52861.ts
-
-#EXTINF:-1 group-title=" Malay Sports",  Astro SuperSports 4
-http://server.sibfungold.info:8080/live/naimnaim/kamalnaimQX/52862.ts
-
-#EXTINF:-1 group-title=" Malay Sports",  Astro SuperSports 5
-https://anon.devds.site/link.php?hash=aHR0cDovL2VzdjUubmV0OjgwL2xpdmUvVGNvbGUxLzEyMzQ1Njc4OS84NzMwOS50cw==
 
 #EXTINF:-1 group-title=" Malay Sports",  Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -160,38 +159,12 @@ https://webudit.onlinewebtv.lol/lb/premium125/index.m3u8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.onlinewebtv.lol/lb/premium126/index.m3u8
 
-
 #EXTINF:-1 group-title=" Malay Sports", Astro Supersport 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.onlinewebtv.lol/lb/premium43/index.m3u8
 
 ####ThaiSports####
-
-#EXTINF:-1 group-title="ThaiSports", Hub Premier 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.onlinewebtv.lol/lb/star31/index.m3u8
-
-#EXTINF:-1 group-title="ThaiSports", Hub Premier 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.onlinewebtv.lol/lb/star32/index.m3u8
-
-#EXTINF:-1 group-title="ThaiSports", Hub Premier 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.onlinewebtv.lol/lb/star33/index.m3u8
-
-#EXTINF:-1 group-title="ThaiSports", Hub Premier 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.onlinewebtv.lol/lb/star34/index.m3u8
-
-#EXTINF:-1 group-title="ThaiSports", Hub Premier 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.onlinewebtv.lol/lb/star35/index.m3u8
 
 #EXTINF:-1 group-title="ThaiSports", Premier Football 1
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
@@ -308,18 +281,6 @@ https://webudit.onlinewebtv.lol/lb/premium289/index.m3u8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.onlinewebtv.lol/lb/premium290/index.m3u8
 
-
-####UK-Sports###
-
-#EXTINF:-1 group-title="UK Sports",  BT SPORT 1
-http://163.172.221.223:90/bt1/index.m3u8
-
-#EXTINF:-1 group-title="UK Sports",  BT SPORT 2
-http://163.172.221.223:90/bt2/index.m3u8
-
-#EXTINF:-1 group-title="UK Sports",  BT SPORT 3
-http://163.172.221.223:90/bt3/index.m3u8
-
 ####beIN Sports HD####
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 Premium
@@ -351,10 +312,3 @@ http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/316
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 7
 http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/315
-
-
-
-
-
-
-
