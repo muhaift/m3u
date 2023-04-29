@@ -112,7 +112,7 @@ https://gtv-linier.rctiplus.id/gtv-sdi.m3u8
 #EXTINF:-1 group-title="MNC Channels",  iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://inews-linier.rctiplus.id/inews-sdi.m3u8
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1682774648~hmac=f13390071333d837070217b1612349e7506647f3d94e6df52e6d066916c21534
 
 ####EMTEK HD####
 
