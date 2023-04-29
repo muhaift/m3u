@@ -114,55 +114,6 @@ https://gtv-linier.rctiplus.id/gtv-sdi.m3u8
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
 https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1682774648~hmac=f13390071333d837070217b1612349e7506647f3d94e6df52e6d066916c21534
 
-####EMTEK HD####
-
-#EXTINF:-1 group-title=" EMTEK HD", Indosiar HD
-http://mpwtv.my.id/vidioye/205-indosiar.m3u8
-
-#EXTINF:-1 group-title=" EMTEK HD", SCTV HD 
-http://mpwtv.my.id/vidioye/204-sctv.m3u8
-
-#EXTINF:-1 group-title=" EMTEK HD",  Champions TV 1
-https://s.id/1xsBG
-
-#EXTINF:-1 group-title=" EMTEK HD",  Champions TV 2
-https://s.id/1xsBY
-
-#EXTINF:-1 group-title=" EMTEK HD",  Champions TV 3
-https://s.id/1xsDb
-
-####Malay SuperSports#####
-
-#EXTINF:-1 group-title=" Malay Sports",  Unifi Sports 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 group-title=" Malay Sports",  Unifi Sports 2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-
-#EXTINF:-1 group-title=" Malay Sports", Astro SuperSport HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.onlinewebtv.lol/lb/premium123/index.m3u8
-
-#EXTINF:-1 group-title=" Malay Sports", Astro SuperSport 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.onlinewebtv.lol/lb/premium124/index.m3u8
-
-#EXTINF:-1 group-title=" Malay Sports", Astro SuperSport 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.onlinewebtv.lol/lb/premium125/index.m3u8
-
-#EXTINF:-1 group-title=" Malay Sports", Astro SuperSport 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.onlinewebtv.lol/lb/premium126/index.m3u8
-
-#EXTINF:-1 group-title=" Malay Sports", Astro Supersport 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.onlinewebtv.lol/lb/premium43/index.m3u8
 
 ####ThaiSports####
 
@@ -252,34 +203,6 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
-
-
-#####AllSports#####
-
-#EXTINF:-1 group-title="All Sports", SPORT TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.onlinewebtv.lol/lb/premium49/index.m3u8
-
-#EXTINF:-1 group-title="All Sports", SPORT TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.onlinewebtv.lol/lb/premium74/index.m3u8
-
-#EXTINF:-1 group-title="All Sports", SPORT TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.onlinewebtv.lol/lb/premium454/index.m3u8
-
-#EXTINF:-1 group-title="All Sports", SPORT TV 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.onlinewebtv.lol/lb/premium289/index.m3u8
-
-#EXTINF:-1 group-title="All Sports", SPORT TV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.onlinewebtv.lol/lb/premium290/index.m3u8
 
 ####beIN Sports HD####
 
