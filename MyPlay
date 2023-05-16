@@ -40,7 +40,7 @@ https://rmtv-canela.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MNC Channels",  RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://d-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1677927371-27c717f8df89658cb60a6a6d540d9fff-0-12a4e3763dd815bfa5bfdfe7087e05fd
+https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index.m3u8
 
 #EXTINF:-1 group-title="MNC Channels",  MNC TV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
