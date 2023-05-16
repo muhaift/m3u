@@ -97,7 +97,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-H
 #EXTINF:-1 group-title="MNC Channels",  RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8
+https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index.m3u8
 
 #EXTINF:-1 group-title="MNC Channels",  MNC TV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
