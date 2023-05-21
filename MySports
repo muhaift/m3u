@@ -219,13 +219,13 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
 ####beIN Sports HD####
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1 Premium
-http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
+http://hostengine.live/live/wrecks82/habsiptv82/56339.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 2 Premium
-http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
+http://hostengine.live/live/wrecks82/habsiptv82/56344.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 3 Premium
-http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
+http://hostengine.live/live/wrecks82/habsiptv82/56345.m3u8
 
 #EXTINF:-1 group-title="beIN Sports HD", beIN Sports 1
 http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/322
