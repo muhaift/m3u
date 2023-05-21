@@ -48,7 +48,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
 
 #EXTINF:-1 group-title="Live Sports",  Real Madrid TV
-https://rmtv-canela.amagi.tv/playlist.m3u8
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 ####MNC Sports Channels####
 
@@ -102,12 +102,14 @@ https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/in
 #EXTINF:-1 group-title="MNC Channels",  MNC TV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1682774420~hmac=4b6c5f56010c485a4fc68dad345da3d22101dca2638101a9de455a2ac460a293
+
 
 #EXTINF:-1 group-title="MNC Channels",  GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1682774554~hmac=d8ac7527ac0c19258454209baf1313ba745a517f200f7933f5c2ae48cdaa5cec
+
 
 #EXTINF:-1 group-title="MNC Channels",  iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
