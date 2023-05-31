@@ -116,13 +116,13 @@ https://s.id/1xrVG
 ####EMTEK Channels####
 
 #EXTINF:-1 group-title=" EMTEK HD", Indosiar HD
-https://sub.home-tv.my.id/first/indosiar.m3u8
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=994885&extension=ts&play_token=1kEm8DbZmS
 
 #EXTINF:-1 group-title=" EMTEK HD", SCTV HD 
 https://sub.home-tv.my.id/first/sctv.m3u8
 
 #EXTINF:-1 group-title=" EMTEK HD", Moji
-https://sub.home-tv.my.id/first/moji.m3u8
+http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
 
 #EXTINF:-1 group-title=" EMTEK HD",  Champions TV 1
 https://s.id/1xsBG
