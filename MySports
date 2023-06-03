@@ -24,7 +24,7 @@ https://beetv.my.id/x/usee-spotv-masihsama.m3u8
 https://beetv.my.id/x/usee-spotv2-masihsama.m3u8
 
 #EXTINF:-1 group-title="Live Sports", beIN 1
-https://beetv.my.id/x/usee-bein1-masihsama.m3u8
+http://edge02.odtv.az/o4/beinsport/playlist.m3u8
 
 #EXTINF:-1 group-title="Live Sports", beIN 2
 https://beetv.my.id/x/usee-bein2-masihsama.m3u8
