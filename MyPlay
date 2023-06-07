@@ -1,33 +1,49 @@
+
 #EXTM3U
 
 ####Live Sports####
 
 #EXTINF:-1 group-title="Live Sports", Useesport 1
-https://beetv.my.id/x/usee-useesport-masihsama.m3u8
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298577
 
 #EXTINF:-1 group-title="Live Sports", Useesport 2
-https://beetv.my.id/x/usee-useesports2-masihsama.m3u8
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298578
 
 #EXTINF:-1 group-title="Live Sports", beIN Sports 1 ID
-https://s.id/1xE8K
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/165105
 
 #EXTINF:-1 group-title="Live Sports", beIN Sports 3 ID
-https://s.id/1xE9b
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298506
 
 #EXTINF:-1 group-title="Live Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
 
 #EXTINF:-1 group-title="Live Sports", SPO TV
-https://beetv.my.id/x/usee-spotv-masihsama.m3u8
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298570
 
 #EXTINF:-1 group-title="Live Sports", SPO TV 2
-https://beetv.my.id/x/usee-spotv2-masihsama.m3u8
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298571
 
 #EXTINF:-1 group-title="Live Sports", beIN 1
 https://beetv.my.id/x/usee-bein1-masihsama.m3u8
 
 #EXTINF:-1 group-title="Live Sports", beIN 2
 https://beetv.my.id/x/usee-bein2-masihsama.m3u8
+
+#EXTINF:-1 group-title="Live Sports", Inter TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd
+
+#EXTINF:-1 group-title="Live Sports", Milan TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-025/stream.mpd
+
+#EXTINF:-1 group-title="Live Sports", LFC TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
 
 #EXTINF:-1 group-title="Live Sports",  MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
@@ -40,22 +56,22 @@ https://rmtv-canela.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MNC Channels",  RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index.m3u8
+https://midcache.rctiplus.com/live/rcti1.m3u8
 
 #EXTINF:-1 group-title="MNC Channels",  MNC TV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://mnctv-azure.rctiplus.id/mnctv-sdi.m3u8
+https://midcache.rctiplus.com/live/mnctv1.m3u8
 
 #EXTINF:-1 group-title="MNC Channels",  GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://gtv-azure.rctiplus.id/gtv-sdi.m3u8
+https://midcache.rctiplus.com/live/gtv.m3u8
 
 #EXTINF:-1 group-title="MNC Channels",  iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://inews-azure.rctiplus.id/inews-sdi.m3u8
+https://midcache.rctiplus.com/live/inewstv.m3u8
 
 ####MNC Sports Channels####
 
@@ -99,39 +115,25 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="MNC Sports Channels", SPO TV 2
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-####BRILiga1####
-
-#EXTINF:-1 group-title=" BRI Liga 1 (Live Only)", Channel 1
-https://s.id/1xrUU
-
-#EXTINF:-1 group-title=" BRI Liga 1 (Live Only)", Channel  2
-https://s.id/1xrVc
-
-#EXTINF:-1 group-title=" BRI Liga 1 (Live Only)", Channel 3
-https://s.id/1xrVA
-
-#EXTINF:-1 group-title=" BRI Liga 1 (Live Only)", Channel 4
-https://s.id/1xrVG
-
 ####EMTEK Channels####
 
 #EXTINF:-1 group-title=" EMTEK HD", Indosiar HD
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=994885&extension=ts&play_token=1kEm8DbZmS
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/162138
 
 #EXTINF:-1 group-title=" EMTEK HD", SCTV HD 
-https://sub.home-tv.my.id/first/sctv.m3u8
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/162141
 
 #EXTINF:-1 group-title=" EMTEK HD", Moji
-http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298550
 
 #EXTINF:-1 group-title=" EMTEK HD",  Champions TV 1
-https://s.id/1xsBG
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298512
 
 #EXTINF:-1 group-title=" EMTEK HD",  Champions TV 2
-https://s.id/1xsBY
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298513
 
 #EXTINF:-1 group-title=" EMTEK HD",  Champions TV 3
-https://s.id/1xsDb
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298514
 
 ####Indo TV####
 
@@ -176,7 +178,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 group-title="Indo TV",  NET TV
-https://geocities.ws/ariev7xx/nettv.m3u8
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/80292
 
 #EXTINF:-1 group-title="Indo TV", Moji
 https://geocities.ws/ariev7xx/moji.m3u8
@@ -222,7 +224,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="News Channel", TvOne
-https://geocities.ws/ariev7xx/tvone.m3u8
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/296214
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -375,27 +377,27 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="HBO GO", HBO
-https://nyanv-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/197972
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="HBO GO", HBO Family
-https://nyanv-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/197055
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="HBO GO", HBO Hits
-https://nyanv-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/196480
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="HBO GO", HBO Signature
-https://nyanv-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/221948
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="HBO GO", Cinemax
-https://nyanv-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/197964
 
 ####Movies####
 
@@ -472,7 +474,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 #####KidsTV####
 
 #EXTINF:-1  tvg-logo="" group-title="Kids Channels", Mentari TV
-https://ilike.squdinc.workers.dev/play.m3u8?id=8237&key=vidio&type=hls
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298546
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -578,49 +580,70 @@ https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg1
 ####beIN Sports####
 
 #EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="beIN SPORTS PREMIUM 1 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylp5fQN2WlloPJvYlNcWQgiwP1sB6xZCcsbOLxOyk_co.png" group-title="beIN SPORTS", beINSPORTS PREMIUM 1
-http://185.53.88.103:88/live/226448369414368/226448369414368/5192.m3u
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/109
 
 #EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="beIN SPORTS PREMIUM 2 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylyDkSBz4CMKbrq5CbCc90jGAzvbzqR5Sq7fjB4EobHd.png" group-title="beIN SPORTS", beINSPORTS PREMIUM 2
-http://185.53.88.103:88/live/226448369414368/226448369414368/5193.m3u
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/280145
 
 #EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="beIN SPORTS PREMIUM 3 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyvTStaro4Ynnjh8f5TkdQrasyGgtudCESF097SZYiZW_.png" group-title="beIN SPORTS", beINSPORTS PREMIUM 3
-http://185.53.88.103:88/live/226448369414368/226448369414368/5194.m3u
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/280249
 
 #EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="beIN SPORTS 1 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygAomraa0QMezNho-6kfJHLy67UECyyeq2GPRWkZBr1M.png" group-title="beIN SPORTS", beINSPORTS 1
-http://185.53.88.103:88/live/226448369414368/226448369414368/1602.m3u
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/100
 
 #EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="beIN SPORTS 2 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjhFRYZsa93dx0cbc16NLMVf3Y4AevFijt1_VPUq3yhc.png" group-title="beIN SPORTS", beINSPORTS 2
-http://185.53.88.103:88/live/226448369414368/226448369414368/1603.m3u
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/101
 
 #EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="beIN SPORTS 3 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXymSyr0X-Tev19MUqEQ9KxaXQhcVMJ_CUVKAWNH-ER8Zm.png" group-title="beIN SPORTS", beINSPORTS 3
-http://185.53.88.103:88/live/226448369414368/226448369414368/1604.m3u
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/102
 
 #EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN SPORTS 4 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyvU8lUHvjH_yEIb4_inoojSrsi8Uk2nfzJJLahI2VV-D.png" group-title="beIN SPORTS", beINSPORTS 4
-http://185.53.88.103:88/live/226448369414368/226448369414368/1605.m3u
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/103
 
 #EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="beIN SPORTS 5 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyhdqjW7EE5oQSNPCq7ZxqB_i77sie-1CPDRDP0sQ0bWS.png" group-title="beIN SPORTS", beINSPORTS 5
-http://185.53.88.103:88/live/226448369414368/226448369414368/79.m3u
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/104
 
 #EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN SPORTS 6 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyg_HGlhKZZsOBIDJOzUaTyiGpNWuHa-1s4wozBbDoCfQ.png" group-title="beIN SPORTS", beINSPORTS 6
-http://185.53.88.103:88/live/226448369414368/226448369414368/80.m3u
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/105
 
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN SPORTS 7 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyqpVjhp-5dsCyN3AD3x1O_yquB07rTsL9QAszSx6EBng.png" group-title="beIN SPORTS", beINSPORTS 7
-http://185.53.88.103:88/live/226448369414368/226448369414368/81.m3u
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/106
 
 #EXTINF:-1 tvg-id="beinsports1enar.qa" tvg-name="beIN SPORTS EN 1 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylUsWOFbZ_5mi-YhZg30nfjem9RCzo7aKVRRSwMOLV_8.png" group-title="beIN SPORTS", beINSPORTS 1 EN
-http://185.53.88.103:88/live/226448369414368/226448369414368/82.m3u
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/110
 
 #EXTINF:-1 tvg-id="beinsports2enar.qa" tvg-name="beIN SPORTS EN 2 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjf23n4CK1FPCVfUXyPZnXWQdpB6BLstNAWtfBxHqjmv.png" group-title="beIN SPORTS", beINSPORTS 2 EN
-http://185.53.88.103:88/live/226448369414368/226448369414368/83.m3u
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/111
 
 #EXTINF:-1 tvg-id="beinsports3enar.qa" tvg-name="beIN SPORTS EN 3 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXym8DWQHK2_ENw2lG0hi8P54fxgij1yxAF3SOe57RV8Yv.png" group-title="beIN SPORTS", beINSPORTS 3 EN
-http://185.53.88.103:88/live/226448369414368/226448369414368/84.m3u
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/267769
 
-#EXTINF:-1, group-title="beIN SPORTS", beIN SPORTS 1 FR
-http://185.53.88.103:88/live/226448369414368/226448369414368/13793.m3u
+####SSCSports####
 
-#EXTINF:-1, group-title="beIN SPORTS", beIN SPORTS 2 FR
-http://185.53.88.103:88/live/226448369414368/226448369414368/13794.m3u
+#EXTINF:-1 group-title="SSC Sports", SSC 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/280132
 
-#EXTINF:-1, group-title="beIN SPORTS", beIN SPORTS 3 FR
-http://185.53.88.103:88/live/226448369414368/226448369414368/13795.m3u
+#EXTINF:-1 group-title="SSC Sports", SSC 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/280137
+
+#EXTINF:-1 group-title="SSC Sports", SSC 3
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/280134
+
+#EXTINF:-1 group-title="SSC Sports", SSC 4
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/280133
+
+#EXTINF:-1 group-title="SSC Sports", SSC 5
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/280135
+
+#EXTINF:-1 group-title="SSC Sports", SSC Extra 1
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/280136
+
+#EXTINF:-1 group-title="SSC Sports", SSC Extra 2
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/281462
+
+
+
+
+
+
+
