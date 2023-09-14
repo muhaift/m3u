@@ -1,55 +1,44 @@
 
 #EXTM3U
 
-####Live Sports####
+#EXTINF:-1 group-title="Live Sports", Viaplay Extra
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 
 #EXTINF:-1 group-title="Live Sports", Useesport 1
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298577
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880727
 
 #EXTINF:-1 group-title="Live Sports", Useesport 2
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298578
-
-#EXTINF:-1 group-title="Live Sports", beIN Sports 1 ID
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/165105
-
-#EXTINF:-1 group-title="Live Sports", beIN Sports 3 ID
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298506
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880728
 
 #EXTINF:-1 group-title="Live Sports", TVRI Sports
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
 
 #EXTINF:-1 group-title="Live Sports", SPO TV
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298570
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv.m3u8
 
 #EXTINF:-1 group-title="Live Sports", SPO TV 2
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298571
-
-#EXTINF:-1 group-title="Live Sports", beIN 1
-https://beetv.my.id/x/usee-bein1-masihsama.m3u8
-
-#EXTINF:-1 group-title="Live Sports", beIN 2
-https://beetv.my.id/x/usee-bein2-masihsama.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv2.m3u8
 
 #EXTINF:-1 group-title="Live Sports", Inter TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-033/stream.mpd
 
 #EXTINF:-1 group-title="Live Sports", Milan TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-025/stream.mpd
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-025/stream.mpd
 
 #EXTINF:-1 group-title="Live Sports", LFC TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-034/stream.mpd
 
 #EXTINF:-1 group-title="Live Sports",  MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
 
 #EXTINF:-1 group-title="Live Sports",  Real Madrid TV
-https://rmtv-canela.amagi.tv/playlist.m3u8
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 ####MNC Channels####
 
@@ -115,26 +104,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="MNC Sports Channels", SPO TV 2
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-####EMTEK Channels####
-
-#EXTINF:-1 group-title=" EMTEK HD", Indosiar HD
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/162138
-
-#EXTINF:-1 group-title=" EMTEK HD", SCTV HD 
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/162141
-
-#EXTINF:-1 group-title=" EMTEK HD", Moji
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298550
-
-#EXTINF:-1 group-title=" EMTEK HD",  Champions TV 1
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298512
-
-#EXTINF:-1 group-title=" EMTEK HD",  Champions TV 2
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298513
-
-#EXTINF:-1 group-title=" EMTEK HD",  Champions TV 3
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298514
-
 ####Indo TV####
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -150,7 +119,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="Indo TV", INDOSIAR
-https://geocities.ws/ariev7xx/indosiar.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -165,7 +134,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="Indo TV", SCTV
-https://geocities.ws/ariev7xx/sctv.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -181,7 +150,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 http://210.210.155.37/uq2663/h/h06/index.m3u8
 
 #EXTINF:-1 group-title="Indo TV", Moji
-https://geocities.ws/ariev7xx/moji.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
