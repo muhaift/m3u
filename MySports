@@ -98,13 +98,12 @@ https://1m-mnctv.rctiplus.id/mnctv-sdi.m3u8?auth_key=1694876415-c0cd2f9c743281a4
 #EXTINF:-1 group-title="MNC Channels",  GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1682774554~hmac=d8ac7527ac0c19258454209baf1313ba745a517f200f7933f5c2ae48cdaa5cec
-
+https://1m-gtv.rctiplus.id/gtv-sdi.m3u8?auth_key=1694878528-aec32eca95359bf8b7efe767f4153206-0-87a15a8aa13a402a808c91b9ef6d001c
 
 #EXTINF:-1 group-title="MNC Channels",  iNews
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1682774648~hmac=f13390071333d837070217b1612349e7506647f3d94e6df52e6d066916c21534
+https://1m-inews.rctiplus.id/inews-sdi.m3u8?auth_key=1694878588-039c9c5c15f742da0e2704666e7e1056-0-e2073e1ad11f4107b90a6b8432501e10
 
 ####Emtek####
 #EXTINF:-1 group-title=" Emtek Channels", Indosiar
