@@ -93,7 +93,7 @@ https://1m-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1694894160-410887e96b99caf1fc
 #EXTINF:-1 group-title="MNC Channels",  MNC TV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1682774420~hmac=4b6c5f56010c485a4fc68dad345da3d22101dca2638101a9de455a2ac460a293
+https://1m-mnctv.rctiplus.id/mnctv-sdi.m3u8?auth_key=1694876415-c0cd2f9c743281a4575dad0bdb47f975-0-651133cba14672ffde700753cf07c233
 
 #EXTINF:-1 group-title="MNC Channels",  GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
