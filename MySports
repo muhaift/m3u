@@ -88,7 +88,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 group-title="MNC Channels",  RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://d2yxzznf83vq8n.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index.m3u8
+https://1m-rcti.rctiplus.id/rcti-sdi.m3u8
 
 #EXTINF:-1 group-title="MNC Channels",  MNC TV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
