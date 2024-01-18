@@ -88,6 +88,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #####MNC Channels#####
 
+
+#EXTINF:-1 group-title="MNC Channels",  RCTI+
+#EXTVLCOPT:http-referrer=https://rctiplus.id
+https://rcdn.rctiplus.id/rcti-sdi.m3u8
+
 #EXTINF:-1 group-title="MNC Channels",  RCTI
 #EXTI#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://visionplus.id
