@@ -90,7 +90,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
 #EXTINF:-1 group-title="MNC Channels",  RCTI+
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com
 https://rcdn.rctiplus.id/rcti-sdi.m3u8
 
 #EXTINF:-1 group-title="MNC Channels",  RCTI
